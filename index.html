@@ -230,7 +230,11 @@
                     </div>
                 </div>
 
-                <p class="text-gray-500 mb-8 font-medium">Lướt lên trên để xem Giải thích chi tiết từng câu, Tapescript bài nghe và rút kinh nghiệm nhé!</p>
+                <p class="text-gray-500 mb-4 font-medium">Lướt lên trên để xem Giải thích chi tiết từng câu, Tapescript bài nghe và rút kinh nghiệm nhé!</p>
+                <div class="max-w-md mx-auto bg-amber-50 border-2 border-amber-300 rounded-xl p-3 mb-6 shadow-sm">
+                    <p class="text-xs text-gray-600 font-semibold mb-0.5">Để nhận mật khẩu mở khóa toàn bộ các bài Test (Test 2 – Test 10):</p>
+                    <p class="text-red-600 font-extrabold text-base md:text-lg">LH Thầy Tiến qua ĐT: 0943930787</p>
+                </div>
                 <div class="flex flex-col sm:flex-row gap-3 justify-center items-center">
                     <button onclick="continueAfterResult()" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-10 text-base md:text-lg rounded-xl shadow transition-transform transform hover:-translate-y-1">
                         Trở về danh mục Đề thi
@@ -250,17 +254,27 @@
     </footer>
 
     <!-- PASSWORD MODAL -->
-    <div id="password-modal" class="hidden-element fixed inset-0 bg-gray-900/70 backdrop-blur-sm flex justify-center items-center z-[100] p-4">
-        <div class="bg-white rounded-2xl shadow-2xl p-6 md:p-8 max-w-sm w-full border border-gray-100 relative">
-            <h3 class="text-xl font-bold text-gray-800 mb-2 text-center">Mở khóa nội dung</h3>
-            <p class="text-gray-500 mb-6 text-center text-sm">Nhập mật khẩu học sinh để làm toàn bộ các đề thi tiếp theo.</p>
-            <input type="password" id="password-input" class="w-full bg-gray-50 border border-gray-300 px-4 py-3 rounded-lg focus:outline-none focus:border-blue-500 transition-all text-center mb-2 font-medium" placeholder="Mật khẩu...">
-            <p id="password-error" class="text-red-500 text-xs mb-4 hidden-element text-center font-bold">Mật khẩu không chính xác!</p>
-            <button onclick="checkPassword()" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2.5 rounded-lg shadow-sm mt-2 transition-all">
-                Xác nhận
+    <div id="password-modal" class="hidden-element fixed inset-0 bg-gray-900/75 backdrop-blur-sm flex justify-center items-center z-[100] p-4">
+        <div class="bg-white rounded-2xl shadow-2xl p-6 md:p-8 max-w-md w-full border-2 border-blue-200 relative">
+            <div class="w-14 h-14 bg-amber-100 text-amber-600 rounded-full flex items-center justify-center mx-auto mb-3 text-2xl shadow-inner">
+                🔒
+            </div>
+            <h3 class="text-xl font-extrabold text-blue-900 mb-2 text-center">Yêu cầu nhập mật khẩu</h3>
+            <p id="password-modal-desc" class="text-gray-600 mb-4 text-center text-sm leading-relaxed">
+                Bạn đã hoàn thành phần làm thử <b>Test 1</b>. Vui lòng nhập mật khẩu để tiếp tục sử dụng toàn bộ ngân hàng đề thi.
+            </p>
+            <div class="bg-amber-50 border-2 border-amber-300 rounded-xl p-3 mb-5 text-center shadow-sm">
+                <p class="text-red-600 font-extrabold text-base md:text-lg tracking-wide">
+                    LH Thầy Tiến qua ĐT: 0943930787
+                </p>
+            </div>
+            <input type="password" id="password-input" class="w-full bg-gray-50 border-2 border-gray-300 px-4 py-3 rounded-lg focus:outline-none focus:border-blue-600 transition-all text-center mb-2 font-bold text-gray-800" placeholder="Nhập mật khẩu để mở khóa...">
+            <p id="password-error" class="text-red-600 text-xs mb-3 hidden-element text-center font-bold">Mật khẩu không chính xác! Vui lòng LH Thầy Tiến qua ĐT: 0943930787</p>
+            <button onclick="checkPassword()" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 rounded-xl shadow-md mt-1 transition-all text-base">
+                Xác nhận mở khóa
             </button>
-            <button onclick="closeModal()" class="w-full mt-2 bg-gray-100 hover:bg-gray-200 text-gray-700 font-semibold py-2 rounded-lg transition-colors text-sm">
-                Hủy
+            <button id="password-cancel-btn" onclick="closeModal()" class="w-full mt-2.5 bg-gray-100 hover:bg-gray-200 text-gray-700 font-semibold py-2 rounded-xl transition-colors text-sm">
+                Đóng
             </button>
         </div>
     </div>
@@ -28345,6 +28359,7 @@
         }
     }
 };
+        window.examDatabase = examDatabase;
     </script>
     <!-- Hỗ trợ nạp thêm các file dữ liệu mở rộng (nếu giáo viên tách file trên GitHub) -->
     <script src="listening.js" onerror=""></script>
@@ -28378,6 +28393,16 @@
             return data[`${cat}-${unit}-${test}`] || null;
         }
 
+        // Kiểm tra xem học sinh đã làm xong Test 1 ở cả 4 phần (Listening, Lexico, Reading, Đề Chuẩn) chưa
+        function hasCompletedSectionTest1(cat) {
+            let data = JSON.parse(localStorage.getItem('thaytien_hsg_thanhhoa_progress')) || {};
+            return Object.keys(data).some(k => k.startsWith(`${cat}-`) && k.endsWith('-1'));
+        }
+
+        function hasCompletedAllFourTest1s() {
+            return ['listening', 'lexico', 'reading', 'full'].every(cat => hasCompletedSectionTest1(cat));
+        }
+
         document.addEventListener('DOMContentLoaded', () => {
             renderSidebar();
             // Cho phép nhấn Enter trong ô mật khẩu
@@ -28390,6 +28415,11 @@
         });
 
         function selectCategory(cat) {
+            if (!isUnlocked && hasCompletedAllFourTest1s()) {
+                pendingAction = { type: 'cat', val: cat };
+                showPasswordModal();
+                return;
+            }
             stopTTS();
             currentCategory = cat;
             currentUnit = 1;
@@ -28456,14 +28486,17 @@
                     } catch (e) {}
 
                     let badgeHtml = '';
-                    if (progress) {
+                    if (!isUnlocked && t > 1) {
+                        badgeHtml = `<span class="px-2 py-0.5 text-[10px] font-bold rounded-full bg-amber-50 text-amber-700 border border-amber-200">🔒 Khóa</span>`;
+                    } else if (progress) {
                         let colorClass = progress.percent >= 80 ? 'bg-green-100 text-green-700 border-green-200' : 
                                          (progress.percent >= 50 ? 'bg-yellow-100 text-yellow-700 border-yellow-200' : 'bg-red-100 text-red-700 border-red-200');
-                        badgeHtml = `<span class="px-2 py-0.5 text-[11px] font-bold rounded-full border ${colorClass}">${progress.percent}%</span>`;
+                        let lockIcon = !isUnlocked ? ' 🔒' : '';
+                        badgeHtml = `<span class="px-2 py-0.5 text-[11px] font-bold rounded-full border ${colorClass}">${progress.percent}%${lockIcon}</span>`;
                     } else if (hasData) {
-                        badgeHtml = `<span class="px-2 py-0.5 text-[10px] font-semibold rounded-full bg-blue-50 text-blue-600 border border-blue-200">Có sẵn đề</span>`;
-                    } else if (!isUnlocked && !hasData && t > 1) {
-                        badgeHtml = `<span class="text-[11px] text-gray-400">🔒</span>`;
+                        badgeHtml = !isUnlocked
+                            ? `<span class="px-2 py-0.5 text-[10px] font-bold rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200">🔓 Làm thử</span>`
+                            : `<span class="px-2 py-0.5 text-[10px] font-semibold rounded-full bg-blue-50 text-blue-600 border border-blue-200">Có sẵn đề</span>`;
                     }
 
                     const testBtn = document.createElement('button');
@@ -28505,14 +28538,17 @@
         }
 
         function toggleUnit(unit) {
+            if (!isUnlocked && hasCompletedAllFourTest1s()) {
+                pendingAction = { type: 'unit', val: unit };
+                showPasswordModal();
+                return;
+            }
             const testsDiv = document.getElementById(`unit-${unit}-tests`);
             if (testsDiv) testsDiv.classList.toggle('hidden-element');
         }
 
         function selectTest(unit, test) {
-            let hasData = false;
-            try { hasData = (examDatabase[currentCategory][unit][test] || []).length > 0; } catch (e) {}
-            if (!isUnlocked && !hasData && test > 1) {
+            if (!isUnlocked && (test > 1 || hasCompletedAllFourTest1s() || hasCompletedSectionTest1(currentCategory))) {
                 pendingAction = { type: 'test', unit: unit, test: test };
                 showPasswordModal();
                 return;
@@ -29160,6 +29196,12 @@
 
             document.getElementById('result-screen').classList.remove('hidden-element');
             window.scrollTo({ top: document.getElementById('result-screen').offsetTop - 50, behavior: 'smooth' });
+
+            if (!isUnlocked && hasCompletedAllFourTest1s()) {
+                setTimeout(() => {
+                    showPasswordModal();
+                }, 800);
+            }
         }
 
         function startTimer() {

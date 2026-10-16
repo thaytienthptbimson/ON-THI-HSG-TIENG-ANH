@@ -28376,7 +28376,29 @@
         let timerInterval = null;
         let timeLeft = 90 * 60;
         let isSubmitted = false;
-        let isUnlocked = false; 
+        /* ===== MẬT KHẨU CÓ HẠN DÙNG 365 NGÀY KỂ TỪ NGÀY KÍCH HOẠT ===== */
+        const UNLOCK_PASSWORD = "tien@123";
+        const UNLOCK_DAYS = 365;
+        const UNLOCK_KEY = 'thaytien_hsg_thanhhoa_unlock_expiry'; // mốc hết hạn (ms), ghi một lần lúc kích hoạt
+        const PWD_WRONG_MSG = "Mật khẩu không chính xác! Vui lòng LH Thầy Tiến qua ĐT: 0943930787";
+        let unlockExpiryMem = 0; // dự phòng khi trình duyệt chặn localStorage
+
+        function getUnlockExpiry() {
+            let x = 0;
+            try { x = Number(localStorage.getItem(UNLOCK_KEY)) || 0; } catch (e) {}
+            return Math.max(x, unlockExpiryMem);
+        }
+        function isUnlockedNow() {
+            const x = getUnlockExpiry();
+            return x > 0 && Date.now() < x;
+        }
+        function fmtDate(ms) { return new Date(ms).toLocaleDateString('vi-VN'); }
+        function expiredMessage() {
+            const x = getUnlockExpiry();
+            return (x > 0 && Date.now() >= x)
+                ? "Mật khẩu đã hết hạn từ ngày " + fmtDate(x) + ". Vui lòng LH Thầy Tiến qua ĐT: 0943930787 để được gia hạn."
+                : "";
+        }
         let pendingAction = null; 
 
         // Lưu & đọc tiến độ làm bài từ LocalStorage
@@ -28415,7 +28437,7 @@
         });
 
         function selectCategory(cat) {
-            if (!isUnlocked && hasCompletedAllFourTest1s()) {
+            if (!isUnlockedNow() && hasCompletedAllFourTest1s()) {
                 pendingAction = { type: 'cat', val: cat };
                 showPasswordModal();
                 return;
@@ -28486,15 +28508,15 @@
                     } catch (e) {}
 
                     let badgeHtml = '';
-                    if (!isUnlocked && t > 1) {
+                    if (!isUnlockedNow() && t > 1) {
                         badgeHtml = `<span class="px-2 py-0.5 text-[10px] font-bold rounded-full bg-amber-50 text-amber-700 border border-amber-200">🔒 Khóa</span>`;
                     } else if (progress) {
                         let colorClass = progress.percent >= 80 ? 'bg-green-100 text-green-700 border-green-200' : 
                                          (progress.percent >= 50 ? 'bg-yellow-100 text-yellow-700 border-yellow-200' : 'bg-red-100 text-red-700 border-red-200');
-                        let lockIcon = !isUnlocked ? ' 🔒' : '';
+                        let lockIcon = !isUnlockedNow() ? ' 🔒' : '';
                         badgeHtml = `<span class="px-2 py-0.5 text-[11px] font-bold rounded-full border ${colorClass}">${progress.percent}%${lockIcon}</span>`;
                     } else if (hasData) {
-                        badgeHtml = !isUnlocked
+                        badgeHtml = !isUnlockedNow()
                             ? `<span class="px-2 py-0.5 text-[10px] font-bold rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200">🔓 Làm thử</span>`
                             : `<span class="px-2 py-0.5 text-[10px] font-semibold rounded-full bg-blue-50 text-blue-600 border border-blue-200">Có sẵn đề</span>`;
                     }
@@ -28538,7 +28560,7 @@
         }
 
         function toggleUnit(unit) {
-            if (!isUnlocked && hasCompletedAllFourTest1s()) {
+            if (!isUnlockedNow() && hasCompletedAllFourTest1s()) {
                 pendingAction = { type: 'unit', val: unit };
                 showPasswordModal();
                 return;
@@ -28548,7 +28570,7 @@
         }
 
         function selectTest(unit, test) {
-            if (!isUnlocked && (test > 1 || hasCompletedAllFourTest1s() || hasCompletedSectionTest1(currentCategory))) {
+            if (!isUnlockedNow() && (test > 1 || hasCompletedAllFourTest1s() || hasCompletedSectionTest1(currentCategory))) {
                 pendingAction = { type: 'test', unit: unit, test: test };
                 showPasswordModal();
                 return;
@@ -29197,7 +29219,7 @@
             document.getElementById('result-screen').classList.remove('hidden-element');
             window.scrollTo({ top: document.getElementById('result-screen').offsetTop - 50, behavior: 'smooth' });
 
-            if (!isUnlocked && hasCompletedAllFourTest1s()) {
+            if (!isUnlockedNow() && hasCompletedAllFourTest1s()) {
                 setTimeout(() => {
                     showPasswordModal();
                 }, 800);
@@ -29223,7 +29245,7 @@
 
         /* MỞ KHÓA MỀM */
         function continueAfterResult() { 
-            if (!isUnlocked) {
+            if (!isUnlockedNow()) {
                 pendingAction = null; showPasswordModal(); 
             } else {
                 document.getElementById('test-screen').classList.add('hidden-element');
@@ -29235,7 +29257,10 @@
 
         function showPasswordModal() {
             document.getElementById('password-modal').classList.remove('hidden-element');
-            document.getElementById('password-error').classList.add('hidden-element');
+            const pe = document.getElementById('password-error');
+            const exp = expiredMessage();
+            pe.textContent = exp || PWD_WRONG_MSG;
+            pe.classList.toggle('hidden-element', !exp);
             document.getElementById('password-input').value = '';
             document.getElementById('password-input').focus();
         }
@@ -29247,10 +29272,19 @@
 
         function checkPassword() {
             const pwd = document.getElementById('password-input').value.trim();
-            if (pwd === "tienhuong28011981") {
-                isUnlocked = true;
+            if (pwd === UNLOCK_PASSWORD) {
+                const old = getUnlockExpiry();
+                if (old > 0 && Date.now() >= old) { // mật khẩu đã dùng hết 365 ngày
+                    const pe = document.getElementById('password-error');
+                    pe.textContent = expiredMessage();
+                    pe.classList.remove('hidden-element');
+                    return;
+                }
+                const exp = old || (Date.now() + UNLOCK_DAYS * 86400000); // kích hoạt lần đầu: +365 ngày
+                unlockExpiryMem = exp;
+                try { localStorage.setItem(UNLOCK_KEY, String(exp)); } catch (e) {}
                 document.getElementById('password-modal').classList.add('hidden-element');
-                alert("Mật khẩu chính xác! Bạn đã được cấp quyền làm toàn bộ kho đề thi HSG Tỉnh Thanh Hóa.");
+                alert("Mật khẩu chính xác! Bạn đã được cấp quyền làm toàn bộ kho đề thi HSG Tỉnh Thanh Hóa.\nMật khẩu có hiệu lực 365 ngày, đến ngày " + fmtDate(exp) + ".");
                 
                 renderSidebar();
                 
@@ -29266,7 +29300,9 @@
                     window.scrollTo({ top: 0, behavior: 'smooth' });
                 }
             } else {
-                document.getElementById('password-error').classList.remove('hidden-element');
+                const pe = document.getElementById('password-error');
+                pe.textContent = PWD_WRONG_MSG;
+                pe.classList.remove('hidden-element');
             }
         }
     </script>

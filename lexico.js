@@ -402,28 +402,28 @@ window.examDatabase['lexico'] = {
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "Little did the expedition members suspect that the glacier bridge had already cracked, __________?",
+        "text": "Let’s review the safety checklist once more before the drill begins, __________?",
         "options": [
-          "did they",
-          "didn’t they",
-          "had they",
-          "hadn’t they"
+          "will we",
+          "do we",
+          "don’t we",
+          "shall we"
         ],
-        "answer": 0,
-        "explanation": "Mệnh đề chính có “Little” (mang nghĩa phủ định) và trợ động từ “did” + chủ ngữ “the expedition members” → câu hỏi đuôi khẳng định: did they?"
+        "answer": 3,
+        "explanation": "Let’s + V (lời rủ rê, đề nghị cùng làm) → câu hỏi đuôi luôn là “shall we?”."
       },
       {
         "origNum": 17,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "__________ the new battery chemistry promises double the energy density, it remains too unstable for commercial aircraft.",
+        "text": "__________ the new battery chemistry may seem, it remains too unstable for commercial aircraft.",
         "options": [
-          "Much as",
-          "Despite",
-          "However",
-          "No matter"
+          "Whatever promising",
+          "No matter promising",
+          "However promising",
+          "Although promising"
         ],
-        "answer": 0,
-        "explanation": "Much as + S + V = Although + S + V (Mặc dù công nghệ pin mới hứa hẹn mật độ năng lượng gấp đôi...)."
+        "answer": 2,
+        "explanation": "However + tính từ + S + may/V, … = dù … đến mấy (nhượng bộ). “Whatever/No matter” cần “how” mới đi trước tính từ; “Although promising + S” sai cấu trúc."
       },
       {
         "origNum": 18,
@@ -534,15 +534,15 @@ window.examDatabase['lexico'] = {
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "No one in the control tower had been notified of the runway inspection, __________?",
+        "text": "I am entitled to a full refund under the extended warranty, __________?",
         "options": [
-          "hadn’t they",
-          "had they",
-          "did they",
-          "weren’t they"
+          "aren’t I",
+          "am not I",
+          "don’t I",
+          "isn’t it"
         ],
-        "answer": 1,
-        "explanation": "Chủ ngữ “No one” mang nghĩa phủ định → câu hỏi đuôi khẳng định; động từ “had been notified” → had they?"
+        "answer": 0,
+        "explanation": "Câu hỏi đuôi của “I am …” là “aren’t I?” (không dùng “am not I”)."
       },
       {
         "origNum": 17,
@@ -666,15 +666,15 @@ window.examDatabase['lexico'] = {
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "Nothing in the archive basement had been damaged by the power surge, __________?",
+        "text": "Please submit the revised budget proposal before Friday noon, __________?",
         "options": [
-          "did it",
-          "hadn’t it",
-          "had it",
-          "was it"
+          "shall we",
+          "will you",
+          "do you",
+          "don’t you"
         ],
-        "answer": 2,
-        "explanation": "Chủ ngữ “Nothing” mang nghĩa phủ định + đại từ quy chiếu “it” + trợ động từ “had” → had it?"
+        "answer": 1,
+        "explanation": "Câu mệnh lệnh/đề nghị (kể cả có “Please”) → câu hỏi đuôi thường là “will you?”."
       },
       {
         "origNum": 17,
@@ -798,15 +798,15 @@ window.examDatabase['lexico'] = {
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "Barely five percent of the surveyed commuters supported cutting the night-bus service, __________?",
+        "text": "Everybody in the front row could hear the lecturer clearly, __________?",
         "options": [
-          "had they",
-          "didn’t they",
-          "were they",
-          "did they"
+          "couldn’t they",
+          "couldn’t he",
+          "could they",
+          "didn’t they"
         ],
-        "answer": 3,
-        "explanation": "“Barely” mang nghĩa phủ định + động từ quá khứ đơn “supported” + đại từ “they” → câu hỏi đuôi khẳng định: did they?"
+        "answer": 0,
+        "explanation": "“Everybody” là đại từ bất định mang nghĩa khẳng định → dùng “they” trong câu hỏi đuôi; mệnh đề chính khẳng định với “could” → đuôi phủ định “couldn’t they?”."
       },
       {
         "origNum": 17,
@@ -930,15 +930,15 @@ window.examDatabase['lexico'] = {
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "Neither of the external examiners raised any objection to the thesis methodology, __________?",
+        "text": "There has never been a public inquiry into the incident, __________?",
         "options": [
-          "did they",
-          "didn’t they",
-          "did he",
-          "had they"
+          "hasn’t there",
+          "has it",
+          "have they",
+          "has there"
         ],
-        "answer": 0,
-        "explanation": "Chủ ngữ “Neither of...” mang nghĩa phủ định + động từ quá khứ đơn “raised” + đại từ “they” → câu hỏi đuôi khẳng định: did they?"
+        "answer": 3,
+        "explanation": "“There has never been …”: “never” mang nghĩa phủ định → đuôi khẳng định; chủ ngữ giả “there” + trợ động từ “has” → has there?"
       },
       {
         "origNum": 17,
@@ -1062,15 +1062,15 @@ window.examDatabase['lexico'] = {
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "Few of the original timber cottages along the quay survived the 1953 storm surge, __________?",
+        "text": "The new regulations should have been announced much earlier, __________?",
         "options": [
-          "didn’t they",
-          "did they",
-          "were they",
-          "had they"
+          "should they",
+          "haven’t they",
+          "shouldn’t they",
+          "weren’t they"
         ],
-        "answer": 1,
-        "explanation": "Chủ ngữ có “Few” (mang nghĩa phủ định: hầu như không) + động từ quá khứ đơn “survived” → câu hỏi đuôi khẳng định: did they?"
+        "answer": 2,
+        "explanation": "Mệnh đề chính khẳng định với “should have been announced” → đuôi phủ định lấy trợ động từ đầu tiên “should” → shouldn’t they?"
       },
       {
         "origNum": 17,
@@ -1418,46 +1418,46 @@ window.examDatabase['lexico'] = {
         ],
         "answer": 0,
         "explanation": "ecological ramifications = những hệ lụy sinh thái phức tạp.",
-        "passage": "<b>DEEP-SEA MINING: TREASURE OR TRAGEDY?</b>\nThe race to harvest polymetallic nodules from the ocean floor has prompted an urgent debate over the ecological (26)__________ of industrialising the abyss. According to the International Seabed Authority’s recent environmental briefings, vast tracts of the Clarion-Clipperton Zone in the Pacific contain millions of tonnes of cobalt, nickel and manganese. Yet marine biologists warn that vacuuming up these potato-sized nodules could (27)__________ havoc on fragile abyssal ecosystems that have evolved in near-total darkness over millions of years.\nThe primary concern involves sediment plumes stirred up by collector vehicles: once suspended in mid-water, fine particles can drift for hundreds of kilometres and smother filter-feeding organisms. (28)__________, acoustic studies indicate that the continuous roar of seabed machinery and riser pipes could travel across entire ocean basins, disrupting whale migration routes. In such an environment, a single commercial mining contract could (29)__________ rise to irreversible biodiversity loss before scientists have even catalogued the species living there.\nOnly in the past few years (30)__________ to call for a precautionary moratorium until independent baseline studies are completed. Unless international negotiators establish binding environmental thresholds, the damage visible in early test tracks may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from Nature and International Union for Conservation of Nature Reports)</i>"
+        "passage": "<b>DEEP-SEA MINING: TREASURE OR TRAGEDY?</b>\nThe race to harvest polymetallic nodules from the ocean floor has prompted an urgent debate over the ecological (26)__________ of industrialising the abyss. According to the International Seabed Authority’s recent environmental briefings, vast tracts of the Clarion-Clipperton Zone in the Pacific contain millions of tonnes of cobalt, nickel and manganese. Yet marine biologists warn that vacuuming up these potato-sized nodules could (27)__________ irreversible damage on fragile abyssal ecosystems that have evolved in near-total darkness over millions of years.\nThe primary concern involves sediment plumes stirred up by collector vehicles: once suspended in mid-water, fine particles can drift for hundreds of kilometres and smother filter-feeding organisms. (28)__________, acoustic studies indicate that the continuous roar of seabed machinery and riser pipes could travel across entire ocean basins, disrupting whale migration routes. In such an environment, a single commercial mining contract could (29)__________ about irreversible biodiversity loss before scientists have even catalogued the species living there.\nOnly in the past few years (30)__________ to call for a precautionary moratorium until independent baseline studies are completed. Unless international negotiators establish binding environmental thresholds, the damage visible in early test tracks may prove to be just the thin end of the (31)__________.\n<i>(Adapted from Nature and International Union for Conservation of Nature Reports)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wring",
-          "wreak",
-          "wrest",
-          "wreathe"
+          "afflict",
+          "inflict",
+          "indict",
+          "convict"
         ],
         "answer": 1,
-        "explanation": "wreak havoc on (gây tàn phá nặng nề)."
+        "explanation": "inflict damage on = gây thiệt hại nặng nề cho. afflict + người/vật (afflict sb with sth); indict = truy tố; convict = kết án."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "What is more",
-          "Conversely",
+          "Nevertheless",
           "Otherwise",
-          "By contrast"
+          "Furthermore",
+          "In contrast"
         ],
-        "answer": 0,
-        "explanation": "What is more = Hơn thế nữa (bổ sung luận điểm nghiêm trọng tiếp theo)."
+        "answer": 2,
+        "explanation": "Furthermore = hơn nữa (bổ sung thêm một tác hại khác). Nevertheless = tuy nhiên; Otherwise = nếu không thì; In contrast = trái lại."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "put",
+          "carry",
+          "run",
           "bring",
-          "give",
-          "lend"
+          "hand"
         ],
         "answer": 2,
-        "explanation": "give rise to = gây ra, dẫn tới."
+        "explanation": "bring about = gây ra, đem lại. carry/run/hand + about không tạo thành cụm có nghĩa phù hợp."
       },
       {
         "origNum": 30,
@@ -1477,13 +1477,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "peak",
-          "crest",
-          "tip",
-          "summit"
+          "lever",
+          "blade",
+          "wedge",
+          "spike"
         ],
         "answer": 2,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "explanation": "the thin end of the wedge = dấu hiệu ban đầu của điều tồi tệ hơn sắp đến (thành ngữ)."
       }
     ],
     "3": [
@@ -1492,53 +1492,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "denominations",
-          "repercussions",
-          "fluctuations",
-          "connotations"
+          "circumstances",
+          "consequences",
+          "conveniences",
+          "consultations"
         ],
         "answer": 1,
-        "explanation": "public-health repercussions = những hệ lụy đối với sức khỏe cộng đồng.",
-        "passage": "<b>ANTIBIOTIC RESISTANCE: THE SILENT PANDEMIC</b>\nThe overuse of antimicrobial drugs in medicine and livestock farming has forced a sobering reassessment of the public-health (26)__________ of treating antibiotics as disposable commodities. According to the World Health Organization’s latest surveillance data, drug-resistant bacterial infections already claim more than 1.2 million lives globally each year. Pathologists warn that if current trends continue, routine surgical procedures could soon (27)__________ havoc on hospital recovery wards as common post-operative microbes become untreatable.\nThe root of the crisis is evolutionary pressure: whenever an antibiotic wipes out susceptible bacteria, mutated strains survive and multiply. (28)__________, pharmaceutical investment in novel classes of antibiotics has stalled for decades because new drugs must be held in reserve as a last resort, making them commercially unattractive. Under such conditions, the misuse of a single broad-spectrum drug can (29)__________ rise to ‘superbugs’ capable of crossing continents within weeks.\nOnly recently (30)__________ to pioneer ‘subscription-style’ funding models that pay drugmakers a fixed annual fee for guaranteed access rather than sales volume. Unless hospitals and farms curb unnecessary prescriptions, the resistant strains detected today may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from World Health Organization Global Antimicrobial Resistance Surveillance Report)</i>"
+        "explanation": "public-health consequences = những hậu quả đối với sức khỏe cộng đồng. circumstances = hoàn cảnh; conveniences = sự tiện lợi; consultations = buổi tư vấn.",
+        "passage": "<b>ANTIBIOTIC RESISTANCE: THE SILENT PANDEMIC</b>\nThe overuse of antimicrobial drugs in medicine and livestock farming has forced a sobering reassessment of the public-health (26)__________ of treating antibiotics as disposable commodities. According to the World Health Organization’s latest surveillance data, drug-resistant bacterial infections already claim more than 1.2 million lives globally each year. Pathologists warn that if current trends continue, routine surgical procedures could soon (27)__________ a grave threat to hospital recovery wards as common post-operative microbes become untreatable.\nThe root of the crisis is evolutionary pressure: whenever an antibiotic wipes out susceptible bacteria, mutated strains survive and multiply. (28)__________, pharmaceutical investment in novel classes of antibiotics has stalled for decades because new drugs must be held in reserve as a last resort, making them commercially unattractive. Under such conditions, the misuse of a single broad-spectrum drug can (29)__________ in ‘superbugs’ capable of crossing continents within weeks.\nOnly recently (30)__________ to pioneer ‘subscription-style’ funding models that pay drugmakers a fixed annual fee for guaranteed access rather than sales volume. Unless hospitals and farms curb unnecessary prescriptions, the resistant strains detected today may prove to be the writing on the (31)__________.\n<i>(Adapted from World Health Organization Global Antimicrobial Resistance Surveillance Report)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wring",
-          "wreak",
-          "wrest",
-          "wreathe"
+          "impose",
+          "expose",
+          "pose",
+          "propose"
         ],
-        "answer": 1,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 2,
+        "explanation": "pose a threat to = gây ra mối đe dọa cho (cụm cố định). impose = áp đặt; expose = phơi bày; propose = đề xuất."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "Conversely",
-          "What is more",
+          "Meanwhile",
+          "Instead",
           "Otherwise",
-          "By contrast"
+          "Conversely"
         ],
-        "answer": 1,
-        "explanation": "What is more = Hơn thế nữa (bổ sung luận điểm làm vấn đề trầm trọng hơn)."
+        "answer": 0,
+        "explanation": "Meanwhile = trong khi đó (diễn biến song song). Instead = thay vào đó; Otherwise = nếu không thì; Conversely = ngược lại."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "put",
-          "give",
-          "bring",
-          "lend"
+          "arise",
+          "result",
+          "stem",
+          "derive"
         ],
         "answer": 1,
-        "explanation": "give rise to = gây ra, làm phát sinh."
+        "explanation": "result in = dẫn đến, gây ra. arise (in), stem (from), derive (from) mang nghĩa “bắt nguồn từ” và dùng giới từ khác."
       },
       {
         "origNum": 30,
@@ -1558,13 +1558,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "peak",
-          "tip",
-          "crest",
-          "top"
+          "door",
+          "wall",
+          "board",
+          "floor"
         ],
         "answer": 1,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "explanation": "the writing on the wall = điềm báo rõ ràng về điều xấu sắp xảy ra (thành ngữ)."
       }
     ],
     "4": [
@@ -1573,53 +1573,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "oscillations",
-          "denominations",
-          "ramifications",
-          "connotations"
+          "foothold",
+          "footfall",
+          "footprint",
+          "footnote"
         ],
         "answer": 2,
-        "explanation": "environmental ramifications = những hệ lụy về môi trường.",
-        "passage": "<b>THE VANISHING SAND: WHY THE WORLD IS RUNNING OUT OF AGGREGATE</b>\nThe construction boom across fast-growing cities has triggered an overdue inquiry into the environmental (26)__________ of dredging riverbeds and coastlines for sand. According to a United Nations Environment Programme report, humanity extracts some 50 billion tonnes of sand and gravel every year—making aggregate the second most exploited natural resource after water. Hydrologists warn that unregulated river-sand mining can (27)__________ havoc on delta infrastructure, causing bridge pilings to collapse and riverbanks to slump into the current.\nDesert sand, smoothed round by the wind, is too slippery to bind in structural concrete; builders need angular grains shaped by running water. (28)__________, upstream dams trap natural sediment before it can replenish coastal beaches, accelerating saltwater intrusion into delta rice paddies. In fragile estuaries, a single illegal dredging fleet can (29)__________ rise to severe coastal erosion that leaves fishing villages exposed to storm surges.\nOnly in the past decade (30)__________ to mandate recycled crushed-concrete quotas and manufactured quarry dust in public works. Unless urban planners rethink how we build, the sinking river deltas we see today may turn out to be just the (31)__________ of the iceberg.\n<i>(Adapted from UNEP, Sand and Sustainability: 10 Strategic Recommendations)</i>"
+        "explanation": "environmental footprint = dấu chân (tác động) môi trường. foothold = chỗ đứng; footfall = lượng người qua lại; footnote = chú thích.",
+        "passage": "<b>THE VANISHING SAND: WHY THE WORLD IS RUNNING OUT OF AGGREGATE</b>\nThe construction boom across fast-growing cities has triggered an overdue inquiry into the environmental (26)__________ of dredging riverbeds and coastlines for sand. According to a United Nations Environment Programme report, humanity extracts some 50 billion tonnes of sand and gravel every year—making aggregate the second most exploited natural resource after water. Hydrologists warn that unregulated river-sand mining can (27)__________ a heavy toll on delta infrastructure, causing bridge pilings to collapse and riverbanks to slump into the current.\nDesert sand, smoothed round by the wind, is too slippery to bind in structural concrete; builders need angular grains shaped by running water. (28)__________, upstream dams trap natural sediment before it can replenish coastal beaches, accelerating saltwater intrusion into delta rice paddies. In fragile estuaries, a single illegal dredging fleet can (29)__________ to severe coastal erosion that leaves fishing villages exposed to storm surges.\nOnly in the past decade (30)__________ to mandate recycled crushed-concrete quotas and manufactured quarry dust in public works. Unless urban planners rethink how we build, the sinking river deltas we see today may turn out to be a ticking time (31)__________.\n<i>(Adapted from UNEP, Sand and Sustainability: 10 Strategic Recommendations)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wrest",
-          "wring",
-          "wreak",
-          "wreathe"
+          "make",
+          "do",
+          "cast",
+          "take"
         ],
-        "answer": 2,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 3,
+        "explanation": "take a heavy toll on = gây tổn thất nặng nề cho (cụm cố định). make/do/cast không kết hợp với “toll” theo nghĩa này."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "Instead",
+          "By contrast",
+          "Otherwise",
           "Nevertheless",
-          "What is more",
-          "Otherwise"
+          "Equally important"
         ],
-        "answer": 2,
-        "explanation": "What is more = Hơn nữa (bổ sung tác động tiêu cực tiếp theo)."
+        "answer": 3,
+        "explanation": "Equally important = quan trọng không kém (thêm một yếu tố nghiêm trọng nữa). By contrast = ngược lại; Otherwise = nếu không; Nevertheless = tuy nhiên."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "bring",
-          "put",
-          "give",
-          "lend"
+          "attribute",
+          "distribute",
+          "subscribe",
+          "contribute"
         ],
-        "answer": 2,
-        "explanation": "give rise to = dẫn đến, gây ra."
+        "answer": 3,
+        "explanation": "contribute to = góp phần gây ra. attribute sth to sb = quy cho; distribute = phân phát; subscribe = đăng ký."
       },
       {
         "origNum": 30,
@@ -1639,13 +1639,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "crest",
-          "peak",
-          "tip",
-          "summit"
+          "bomb",
+          "mine",
+          "gun",
+          "bullet"
         ],
-        "answer": 2,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "answer": 0,
+        "explanation": "a ticking time bomb = quả bom nổ chậm (thành ngữ), chỉ mối nguy sắp bùng phát."
       }
     ],
     "5": [
@@ -1654,53 +1654,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "connotations",
-          "denominations",
-          "fluctuations",
-          "repercussions"
+          "tariff",
+          "toll",
+          "levy",
+          "fare"
         ],
-        "answer": 3,
-        "explanation": "ecological repercussions = những hệ lụy sinh thái.",
-        "passage": "<b>GHOST GEAR: THE INVISIBLE TRAP IN OUR OCEANS</b>\nThe expansion of industrial deep-sea fishing has prompted a sobering look at the ecological (26)__________ of synthetic nylon nets lost or abandoned at sea. According to conservation estimates, more than 640,000 tonnes of ‘ghost gear’ enter the oceans annually. Because modern monofilament lines do not biodegrade, a single drifting gillnet can (27)__________ havoc on marine food webs for decades, entangling turtles, whales and diving seabirds.\nThe problem is self-perpetuating: fish trapped in a sunken net die and attract scavengers, which become entangled in turn. (28)__________, winter storms drag weighted lobster pots and longlines across coral reefs, snapping slow-growing branching corals that shelter juvenile fish. In busy fishing grounds, one severe typhoon can (29)__________ rise to thousands of kilometres of snagged netting on the continental shelf.\nOnly recently (30)__________ to require electronic acoustic transponders on commercial nets and fund harbour buy-back schemes for damaged gear. Unless maritime nations enforce strict gear-marking treaties, the entangled wildlife washing ashore today may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from FAO and UNEP Report on Abandoned, Lost or Otherwise Discarded Fishing Gear)</i>"
+        "answer": 1,
+        "explanation": "ecological toll = cái giá/tổn thất sinh thái. tariff = thuế quan; levy = khoản thu; fare = tiền vé.",
+        "passage": "<b>GHOST GEAR: THE INVISIBLE TRAP IN OUR OCEANS</b>\nThe expansion of industrial deep-sea fishing has prompted a sobering look at the ecological (26)__________ of synthetic nylon nets lost or abandoned at sea. According to conservation estimates, more than 640,000 tonnes of ‘ghost gear’ enter the oceans annually. Because modern monofilament lines do not biodegrade, a single drifting gillnet can (27)__________ disaster for marine food webs for decades, entangling turtles, whales and diving seabirds.\nThe problem is self-perpetuating: fish trapped in a sunken net die and attract scavengers, which become entangled in turn. (28)__________, winter storms drag weighted lobster pots and longlines across coral reefs, snapping slow-growing branching corals that shelter juvenile fish. In busy fishing grounds, one severe typhoon can (29)__________ to thousands of kilometres of snagged netting on the continental shelf.\nOnly recently (30)__________ to require electronic acoustic transponders on commercial nets and fund harbour buy-back schemes for damaged gear. Unless maritime nations enforce strict gear-marking treaties, the entangled wildlife washing ashore today may prove to be a canary in the coal (31)__________.\n<i>(Adapted from FAO and UNEP Report on Abandoned, Lost or Otherwise Discarded Fishing Gear)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wreathe",
-          "wring",
-          "wrest",
-          "wreak"
+          "spell",
+          "spill",
+          "spoil",
+          "spare"
         ],
-        "answer": 3,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 0,
+        "explanation": "spell disaster for = báo hiệu/gây ra thảm họa cho. spill = làm đổ; spoil = làm hỏng; spare = tha, dành ra."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "By contrast",
           "Conversely",
-          "Otherwise",
-          "What is more"
+          "Additionally",
+          "Alternatively",
+          "Even so"
         ],
-        "answer": 3,
-        "explanation": "What is more = Hơn thế nữa."
+        "answer": 1,
+        "explanation": "Additionally = ngoài ra (bổ sung thông tin). Conversely = ngược lại; Alternatively = hoặc là; Even so = dù vậy."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "lend",
-          "put",
-          "bring",
-          "give"
+          "lead",
+          "take",
+          "turn",
+          "carry"
         ],
-        "answer": 3,
-        "explanation": "give rise to = gây ra, dẫn đến."
+        "answer": 0,
+        "explanation": "lead to = dẫn đến. take to = bắt đầu thích; turn to = chuyển sang; carry to = mang đến (không hợp nghĩa)."
       },
       {
         "origNum": 30,
@@ -1720,13 +1720,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "crest",
-          "peak",
-          "top",
-          "tip"
+          "cave",
+          "tunnel",
+          "quarry",
+          "mine"
         ],
         "answer": 3,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "explanation": "a canary in the coal mine = dấu hiệu cảnh báo sớm về mối nguy (thành ngữ)."
       }
     ],
     "6": [
@@ -1735,53 +1735,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "ramifications",
-          "denominations",
-          "connotations",
-          "oscillations"
+          "windfall",
+          "landfall",
+          "rainfall",
+          "fallout"
         ],
-        "answer": 0,
-        "explanation": "global ramifications = những hệ lụy trên phạm vi toàn cầu.",
-        "passage": "<b>THE THAWING CRYOSPHERE: PERMAFROST ON THE BRINK</b>\nAccelerating warming across the high Arctic has forced climate scientists to confront the global (26)__________ of thawing permafrost. Across Alaska, Canada and Siberia, ground that has remained frozen for tens of thousands of years holds roughly twice as much carbon as the entire atmosphere today. Civil engineers warn that as ice wedges melt underground, the collapsing soil can (27)__________ havoc on northern communities, buckling highways, cracking airport runways and tilting apartment blocks.\nThe greater danger, however, is a planetary feedback loop: as organic matter thaws, microbes decompose it and release methane and carbon dioxide. (28)__________, slumping riverbanks expose ancient sediment layers to summer sunlight, accelerating the rate of bacterial breakdown even further. In such a landscape, a single record-breaking Arctic heatwave can (29)__________ rise to thousands of new thermokarst lakes bubbling with greenhouse gases.\nOnly in the last few years (30)__________ to integrate abrupt permafrost-thaw feedbacks into their flagship global climate models. Unless global emissions fall rapidly, the subsiding roads of northern towns may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from IPCC Special Report on the Ocean and Cryosphere in a Changing Climate)</i>"
+        "answer": 3,
+        "explanation": "global fallout = hậu quả lan rộng toàn cầu. windfall = món lợi bất ngờ; landfall = lúc bão đổ bộ; rainfall = lượng mưa.",
+        "passage": "<b>THE THAWING CRYOSPHERE: PERMAFROST ON THE BRINK</b>\nAccelerating warming across the high Arctic has forced climate scientists to confront the global (26)__________ of thawing permafrost. Across Alaska, Canada and Siberia, ground that has remained frozen for tens of thousands of years holds roughly twice as much carbon as the entire atmosphere today. Civil engineers warn that as ice wedges melt underground, the collapsing soil can (27)__________ the stability of northern communities, buckling highways, cracking airport runways and tilting apartment blocks.\nThe greater danger, however, is a planetary feedback loop: as organic matter thaws, microbes decompose it and release methane and carbon dioxide. (28)__________, slumping riverbanks expose ancient sediment layers to summer sunlight, accelerating the rate of bacterial breakdown even further. In such a landscape, a single record-breaking Arctic heatwave can (29)__________ the way for thousands of new thermokarst lakes bubbling with greenhouse gases.\nOnly in the last few years (30)__________ to integrate abrupt permafrost-thaw feedbacks into their flagship global climate models. Unless global emissions fall rapidly, the subsiding roads of northern towns may prove to be just a glimpse of the shape of things to (31)__________.\n<i>(Adapted from IPCC Special Report on the Ocean and Cryosphere in a Changing Climate)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wreak",
-          "wring",
-          "wrest",
-          "wreathe"
+          "underline",
+          "undermine",
+          "undertake",
+          "undergo"
         ],
-        "answer": 0,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 1,
+        "explanation": "undermine = làm suy yếu, phá hoại dần. underline = nhấn mạnh; undertake = đảm nhận; undergo = trải qua."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "What is more",
+          "By contrast",
+          "Instead",
           "Otherwise",
-          "Conversely",
-          "By contrast"
+          "In addition"
         ],
-        "answer": 0,
-        "explanation": "What is more = Hơn thế nữa."
+        "answer": 3,
+        "explanation": "In addition = thêm vào đó (bổ sung thông tin cùng chiều). By contrast = ngược lại; Instead = thay vào đó; Otherwise = nếu không thì."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "give",
-          "put",
-          "bring",
-          "lend"
+          "pace",
+          "pave",
+          "pale",
+          "pare"
         ],
-        "answer": 0,
-        "explanation": "give rise to = gây ra, dẫn đến."
+        "answer": 1,
+        "explanation": "pave the way for = mở đường cho (cụm cố định). pace = đi đi lại lại; pale = nhợt đi; pare = gọt, cắt bớt."
       },
       {
         "origNum": 30,
@@ -1801,13 +1801,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "tip",
-          "peak",
-          "crest",
-          "summit"
+          "go",
+          "come",
+          "run",
+          "stay"
         ],
-        "answer": 0,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "answer": 1,
+        "explanation": "the shape of things to come = hình hài của những điều sắp xảy ra (thành ngữ)."
       }
     ],
     "7": [
@@ -1816,27 +1816,27 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "denominations",
-          "repercussions",
-          "fluctuations",
-          "connotations"
+          "externalities",
+          "expenditures",
+          "eventualities",
+          "exemptions"
         ],
-        "answer": 1,
-        "explanation": "environmental repercussions = những hệ lụy về môi trường.",
-        "passage": "<b>THE E-WASTE MOUNTAIN: RETHINKING CONSUMER ELECTRONICS</b>\nShortening product lifecycles and glued-in batteries have triggered an urgent debate over the environmental (26)__________ of our throwaway gadget culture. According to the United Nations Global E-waste Monitor, the world generated a record 62 million tonnes of discarded electronics in 2022, yet less than a quarter was formally recycled. Toxicologists warn that informal open-air burning of circuit boards can (27)__________ havoc on local ecosystems, leaching lead, mercury and brominated flame retardants into soil and groundwater.\nAt the same time, discarding old phones wastes a literal goldmine: a tonne of smartphones contains roughly a hundred times more gold than a tonne of mined gold ore. (28)__________, critical rare-earth magnets needed for wind turbines and electric vehicles are routinely shredded and lost in general scrap. In this linear economy, a single generation of non-repairable earbuds can (29)__________ rise to thousands of tonnes of hazardous lithium-battery waste.\nOnly recently (30)__________ to enforce ‘Right to Repair’ directives that compel manufacturers to supply spare parts and replaceable batteries for up to ten years. Unless circular design becomes mandatory, today’s overflowing civic recycling bins may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from UNITAR & ITU, The Global E-waste Monitor 2024)</i>"
+        "answer": 0,
+        "explanation": "environmental externalities = các tác động ngoại biên (chi phí môi trường mà bên gây ra không chi trả). expenditures = khoản chi; eventualities = tình huống có thể xảy ra; exemptions = sự miễn trừ.",
+        "passage": "<b>THE E-WASTE MOUNTAIN: RETHINKING CONSUMER ELECTRONICS</b>\nShortening product lifecycles and glued-in batteries have triggered an urgent debate over the environmental (26)__________ of our throwaway gadget culture. According to the United Nations Global E-waste Monitor, the world generated a record 62 million tonnes of discarded electronics in 2022, yet less than a quarter was formally recycled. Toxicologists warn that informal open-air burning of circuit boards can (27)__________ the health of local ecosystems, leaching lead, mercury and brominated flame retardants into soil and groundwater.\nAt the same time, discarding old phones wastes a literal goldmine: a tonne of smartphones contains roughly a hundred times more gold than a tonne of mined gold ore. (28)__________, critical rare-earth magnets needed for wind turbines and electric vehicles are routinely shredded and lost in general scrap. In this linear economy, a single generation of non-repairable earbuds can (29)__________ for thousands of tonnes of hazardous lithium-battery waste.\nOnly recently (30)__________ to enforce ‘Right to Repair’ directives that compel manufacturers to supply spare parts and replaceable batteries for up to ten years. Unless circular design becomes mandatory, emptying today’s overflowing civic recycling bins will barely (31)__________ the surface of the problem.\n<i>(Adapted from UNITAR & ITU, The Global E-waste Monitor 2024)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wring",
-          "wreak",
-          "wrest",
-          "wreathe"
+          "jettison",
+          "jumble",
+          "jostle",
+          "jeopardise"
         ],
-        "answer": 1,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 3,
+        "explanation": "jeopardise = gây nguy hại cho, đe dọa. jettison = vứt bỏ; jumble = làm lộn xộn; jostle = chen lấn."
       },
       {
         "origNum": 28,
@@ -1844,25 +1844,25 @@ window.examDatabase['lexico'] = {
         "text": "",
         "options": [
           "Conversely",
-          "What is more",
+          "Similarly",
           "Otherwise",
-          "Instead"
+          "Nevertheless"
         ],
         "answer": 1,
-        "explanation": "What is more = Hơn thế nữa."
+        "explanation": "Similarly = tương tự như vậy (nam châm đất hiếm cũng bị lãng phí giống như vàng trong điện thoại cũ). Conversely = ngược lại; Otherwise = nếu không; Nevertheless = tuy nhiên."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "put",
-          "give",
-          "bring",
-          "lend"
+          "reckon",
+          "calculate",
+          "estimate",
+          "account"
         ],
-        "answer": 1,
-        "explanation": "give rise to = gây ra, làm phát sinh."
+        "answer": 3,
+        "explanation": "account for = chiếm (một tỷ lệ/khối lượng), giải thích cho. reckon/calculate/estimate không đi với “for” theo nghĩa này."
       },
       {
         "origNum": 30,
@@ -1882,13 +1882,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "peak",
-          "tip",
-          "top",
-          "crest"
+          "scorch",
+          "scrub",
+          "scratch",
+          "scrap"
         ],
-        "answer": 1,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "answer": 2,
+        "explanation": "scratch the surface = mới chỉ chạm tới bề nổi của vấn đề (thành ngữ). scorch = thiêu cháy; scrub = chà rửa; scrap = bỏ đi."
       }
     ],
     "8": [
@@ -1897,53 +1897,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "connotations",
-          "denominations",
-          "ramifications",
-          "oscillations"
+          "replications",
+          "duplications",
+          "explications",
+          "implications"
         ],
-        "answer": 2,
-        "explanation": "economic ramifications = những hệ lụy về kinh tế.",
-        "passage": "<b>INVASIVE SPECIES: STOWAWAYS OF GLOBAL TRADE</b>\nThe expansion of container shipping routes has forced ecologists to confront the economic (26)__________ of biological invasions. According to the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), more than 37,000 alien species have been introduced by human activity across the globe, costing the world economy over $423 billion annually. Marine biologists warn that organisms carried in ship ballast water can (27)__________ havoc on native coastal fisheries within a single breeding season.\nUnlike chemical spills, which dilute over time, an invasive species reproduces and spreads autonomously once established. (28)__________, climate change is allowing subtropical pests such as the Asian tiger mosquito and emerald ash borer to survive winters in higher latitudes. In island archipelagos, the accidental arrival of a single predatory snake or rodent can (29)__________ rise to the extinction of ground-nesting birds that evolved without mammalian predators.\nOnly in the past decade (30)__________ to enforce international conventions requiring cargo vessels to treat ballast water with ultraviolet radiation before discharging it in port. Unless biosecurity checks at borders are tightened, current agricultural losses may turn out to be just the (31)__________ of the iceberg.\n<i>(Adapted from IPBES Invasive Alien Species Assessment Report)</i>"
+        "answer": 3,
+        "explanation": "economic implications = những hệ lụy/tác động về kinh tế. replications, duplications = sự sao chép, lặp lại; explications = sự giải thích chi tiết.",
+        "passage": "<b>INVASIVE SPECIES: STOWAWAYS OF GLOBAL TRADE</b>\nThe expansion of container shipping routes has forced ecologists to confront the economic (26)__________ of biological invasions. According to the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), more than 37,000 alien species have been introduced by human activity across the globe, costing the world economy over $423 billion annually. Marine biologists warn that organisms carried in ship ballast water can (27)__________ native coastal fisheries within a single breeding season.\nUnlike chemical spills, which dilute over time, an invasive species reproduces and spreads autonomously once established. (28)__________, climate change is allowing subtropical pests such as the Asian tiger mosquito and emerald ash borer to survive winters in higher latitudes. In island archipelagos, the accidental arrival of a single predatory snake or rodent can (29)__________ the door to the extinction of ground-nesting birds that evolved without mammalian predators.\nOnly in the past decade (30)__________ to enforce international conventions requiring cargo vessels to treat ballast water with ultraviolet radiation before discharging it in port. Unless biosecurity checks at borders are tightened, current agricultural losses may turn out to be a mere (31)__________ in the ocean compared with the losses to come.\n<i>(Adapted from IPBES Invasive Alien Species Assessment Report)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wrest",
-          "wring",
-          "wreak",
-          "wreathe"
+          "devastate",
+          "deviate",
+          "deflate",
+          "defuse"
         ],
-        "answer": 2,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 0,
+        "explanation": "devastate = tàn phá hoàn toàn. deviate = đi chệch hướng; deflate = làm xẹp; defuse = tháo ngòi nổ."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "Otherwise",
           "Conversely",
-          "What is more",
-          "By contrast"
+          "Instead",
+          "Moreover",
+          "Otherwise"
         ],
         "answer": 2,
-        "explanation": "What is more = Hơn thế nữa."
+        "explanation": "Moreover = hơn nữa (thêm một mối đe dọa nữa). Conversely = ngược lại; Instead = thay vào đó; Otherwise = nếu không thì."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "bring",
-          "put",
-          "give",
-          "lend"
+          "lift",
+          "push",
+          "open",
+          "hold"
         ],
         "answer": 2,
-        "explanation": "give rise to = gây ra, dẫn đến."
+        "explanation": "open the door to = mở đường/tạo điều kiện cho (điều xảy ra). lift/push/hold không đi với “the door to” theo nghĩa này."
       },
       {
         "origNum": 30,
@@ -1963,13 +1963,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "crest",
-          "peak",
-          "tip",
-          "summit"
+          "dot",
+          "drop",
+          "dash",
+          "bit"
         ],
-        "answer": 2,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "answer": 1,
+        "explanation": "a drop in the ocean = giọt nước giữa biển cả (rất nhỏ so với cái lớn hơn đang đến). dot/dash/bit không tạo thành thành ngữ này."
       }
     ],
     "9": [
@@ -1978,53 +1978,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "connotations",
-          "denominations",
-          "fluctuations",
-          "repercussions"
+          "commands",
+          "remands",
+          "demands",
+          "reprimands"
         ],
-        "answer": 3,
-        "explanation": "resource repercussions = những hệ lụy về tài nguyên.",
-        "passage": "<b>THE THIRSTY CLOUD: WATER CONSUMPTION OF AI DATA CENTRES</b>\nThe exponential growth of generative artificial intelligence has sparked an urgent inquiry into the resource (26)__________ of cooling hyperscale server farms. Training and running large language models generates immense heat across thousands of graphics processors packed into windowless halls. Water-resource engineers warn that building evaporative cooling towers in drought-prone regions can (27)__________ havoc on municipal aquifers during summer peak demand.\nA single large data-centre campus can evaporate millions of litres of potable water a day to keep silicon chips below their thermal threshold. (28)__________, the extra electricity required to power these servers indirectly consumes even more water at thermoelectric power plants downstream. In arid river basins, clustering several server farms in one industrial park can (29)__________ rise to acute competition between tech operators and smallholder irrigators.\nOnly recently (30)__________ to deploy closed-loop direct-to-chip liquid cooling systems that recirculate fluid without evaporating fresh water into the sky. Unless regulators mandate transparent water-usage reporting, today’s grid bottlenecks may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from Nature Sustainability and OECD Digital Economy Papers)</i>"
+        "answer": 2,
+        "explanation": "resource demands = nhu cầu về tài nguyên. commands = mệnh lệnh; remands = lệnh tạm giam; reprimands = lời khiển trách.",
+        "passage": "<b>THE THIRSTY CLOUD: WATER CONSUMPTION OF AI DATA CENTRES</b>\nThe exponential growth of generative artificial intelligence has sparked an urgent inquiry into the resource (26)__________ of cooling hyperscale server farms. Training and running large language models generates immense heat across thousands of graphics processors packed into windowless halls. Water-resource engineers warn that building evaporative cooling towers in drought-prone regions can (27)__________ immense pressure on municipal aquifers during summer peak demand.\nA single large data-centre campus can evaporate millions of litres of potable water a day to keep silicon chips below their thermal threshold. (28)__________, the extra electricity required to power these servers indirectly consumes even more water at thermoelectric power plants downstream. In arid river basins, clustering several server farms in one industrial park can (29)__________ acute competition between tech operators and smallholder irrigators.\nOnly recently (30)__________ to deploy closed-loop direct-to-chip liquid cooling systems that recirculate fluid without evaporating fresh water into the sky. Unless regulators mandate transparent water-usage reporting, today’s grid bottlenecks may prove to be just a (31)__________ of things to come.\n<i>(Adapted from Nature Sustainability and OECD Digital Economy Papers)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wreathe",
-          "wring",
-          "wrest",
-          "wreak"
+          "exhort",
+          "exalt",
+          "exert",
+          "exhale"
         ],
-        "answer": 3,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 2,
+        "explanation": "exert pressure on = gây áp lực lên (cụm cố định). exhort = hối thúc; exalt = tôn vinh; exhale = thở ra."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "Instead",
-          "Conversely",
+          "Worse still",
+          "By contrast",
           "Otherwise",
-          "What is more"
+          "Even so"
         ],
-        "answer": 3,
-        "explanation": "What is more = Hơn thế nữa."
+        "answer": 0,
+        "explanation": "Worse still = tệ hơn nữa (thông tin sau nghiêm trọng hơn thông tin trước). By contrast = ngược lại; Otherwise = nếu không; Even so = dù vậy."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "lend",
-          "put",
-          "bring",
-          "give"
+          "spoil",
+          "spare",
+          "spoke",
+          "spark"
         ],
         "answer": 3,
-        "explanation": "give rise to = gây ra, dẫn tới."
+        "explanation": "spark = châm ngòi, làm bùng lên (spark competition). spoil = làm hỏng; spare = tha, dành ra; spoke = đã nói/nan hoa."
       },
       {
         "origNum": 30,
@@ -2044,13 +2044,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "crest",
-          "peak",
-          "top",
-          "tip"
+          "smell",
+          "sound",
+          "taste",
+          "touch"
         ],
-        "answer": 3,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "answer": 2,
+        "explanation": "a taste of things to come = dấu hiệu/trải nghiệm ban đầu của những điều sắp tới (thành ngữ)."
       }
     ],
     "10": [
@@ -2059,53 +2059,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "ramifications",
-          "denominations",
-          "connotations",
-          "oscillations"
+          "pitfalls",
+          "windfalls",
+          "landfalls",
+          "waterfalls"
         ],
         "answer": 0,
-        "explanation": "economic ramifications = những hệ lụy về kinh tế.",
-        "passage": "<b>VANISHING POLLINATORS: THE AGRICULTURAL STAKES</b>\nThe steep decline in wild bee and hoverfly populations has forced agronomists to confront the economic (26)__________ of simplifying farm landscapes. According to the Food and Agriculture Organization, three-quarters of the world’s leading food crops—including apples, coffee, almonds and cocoa—depend at least in part on animal pollination. Entomologists warn that losing wild pollinators could (27)__________ havoc on global nutrition, since pollinator-dependent crops supply the majority of dietary vitamins A and C.\nThe decline is driven by a combination of habitat fragmentation, monoculture cropping and systemic pesticides that impair insect navigation. (28)__________, shifting spring temperatures are causing orchards to blossom days before native solitary bees emerge from hibernation, creating an ecological mismatch. In intensive fruit-growing valleys, a single week of mistimed bloom can (29)__________ rise to a forty-percent drop in harvestable fruit.\nOnly in the past few years (30)__________ to reward farmers for planting uncut wildflower strips and hedgerow corridors right through the middle of arable fields. Unless agro-ecological practices scale up rapidly, rising fruit prices in supermarkets may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from FAO & IPBES Assessment Report on Pollinators, Pollination and Food Production)</i>"
+        "explanation": "economic pitfalls = những cạm bẫy/rủi ro về kinh tế. windfalls = món lợi bất ngờ; landfalls = lúc đổ bộ; waterfalls = thác nước.",
+        "passage": "<b>VANISHING POLLINATORS: THE AGRICULTURAL STAKES</b>\nThe steep decline in wild bee and hoverfly populations has forced agronomists to confront the economic (26)__________ of simplifying farm landscapes. According to the Food and Agriculture Organization, three-quarters of the world’s leading food crops—including apples, coffee, almonds and cocoa—depend at least in part on animal pollination. Entomologists warn that losing wild pollinators could (27)__________ a severe blow to global nutrition, since pollinator-dependent crops supply the majority of dietary vitamins A and C.\nThe decline is driven by a combination of habitat fragmentation, monoculture cropping and systemic pesticides that impair insect navigation. (28)__________, shifting spring temperatures are causing orchards to blossom days before native solitary bees emerge from hibernation, creating an ecological mismatch. In intensive fruit-growing valleys, a single week of mistimed bloom can (29)__________ into a forty-percent drop in harvestable fruit.\nOnly in the past few years (30)__________ to reward farmers for planting uncut wildflower strips and hedgerow corridors right through the middle of arable fields. Unless agro-ecological practices scale up rapidly, rising fruit prices in supermarkets may prove to be just the first (31)__________ in a long chain of shortages.\n<i>(Adapted from FAO & IPBES Assessment Report on Pollinators, Pollination and Food Production)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wreak",
-          "wring",
-          "wrest",
-          "wreathe"
+          "lend",
+          "deal",
+          "spare",
+          "hold"
         ],
-        "answer": 0,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 1,
+        "explanation": "deal a blow to = giáng một đòn vào (cụm cố định). lend = cho mượn; spare = dành ra; hold = giữ."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "What is more",
+          "On top of that",
           "Conversely",
           "Otherwise",
-          "By contrast"
+          "In contrast"
         ],
         "answer": 0,
-        "explanation": "What is more = Hơn thế nữa."
+        "explanation": "On top of that = hơn thế nữa, thêm vào đó. Conversely/In contrast = ngược lại; Otherwise = nếu không thì."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "give",
-          "put",
-          "bring",
-          "lend"
+          "translate",
+          "transcribe",
+          "transpire",
+          "transmit"
         ],
         "answer": 0,
-        "explanation": "give rise to = gây ra, dẫn đến."
+        "explanation": "translate into = chuyển thành, dẫn đến (kết quả cụ thể). transcribe = sao chép; transpire = xảy ra, lộ ra; transmit = truyền đi."
       },
       {
         "origNum": 30,
@@ -2125,13 +2125,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "tip",
-          "peak",
-          "crest",
-          "summit"
+          "link",
+          "loop",
+          "knot",
+          "ring"
         ],
         "answer": 0,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "explanation": "the first link in a long chain = mắt xích đầu tiên trong một chuỗi dài."
       }
     ]
   },
@@ -2250,13 +2250,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "On behalf of",
-          "In recognition of",
-          "In defiance of",
-          "By means of"
+          "Of",
+          "For",
+          "By",
+          "At"
         ],
         "answer": 1,
-        "explanation": "In recognition of = để ghi nhận đóng góp của ông."
+        "explanation": "For + cụm danh từ, S + V … = vì/để ghi nhận (đóng góp). Of, By, At không dùng được ở đầu câu với nghĩa này."
       },
       {
         "origNum": 35,
@@ -2276,13 +2276,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "A great deal",
-          "A large number",
           "Much",
-          "An amount"
+          "Little",
+          "A great deal",
+          "The majority"
         ],
-        "answer": 1,
-        "explanation": "A large number of + danh từ đếm được số nhiều (the rural districts) + V số nhiều."
+        "answer": 3,
+        "explanation": "the majority of + N số nhiều = phần lớn. Much/Little/A great deal of dùng với danh từ không đếm được."
       },
       {
         "origNum": 37,
@@ -2304,13 +2304,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "embeds",
-          "embellishes",
-          "emboldens",
-          "embodies"
+          "exempts",
+          "expedites",
+          "expires",
+          "exemplifies"
         ],
         "answer": 3,
-        "explanation": "embodies = là hiện thân cho (sức mạnh của khoa học kết hợp văn chương).",
+        "explanation": "exemplify = là ví dụ điển hình cho, minh họa tiêu biểu. exempt = miễn trừ; expedite = xúc tiến; expire = hết hạn.",
         "passage": "<b>RACHEL CARSON: VOICE OF THE MODERN ENVIRONMENTAL MOVEMENT</b>\nRachel Carson’s career (32)__________ the power of rigorous science combined with lyrical prose to awaken public conscience. Let’s explore the defining chapters of her life:\n<b>Marine Biologist and Author</b>\n• Carson’s early fascination (33)__________ ocean ecosystems led her to join the US Fish and Wildlife Service, where her trilogy of books on the sea became international bestsellers.\n• (34)__________ her landmark 1962 book <i>Silent Spring</i>, which exposed the ecological dangers of synthetic pesticides such as DDT, she was posthumously awarded the Presidential Medal of Freedom.\n<b>Challenging Chemical Orthodoxy</b>\n• Compiling hundreds of field studies, she demonstrated how persistent pesticides accumulate up the food chain and thin the shells of (35)__________.\n• (36)__________ of the grassroots conservation groups that formed in the 1960s traced their inspiration directly to Carson’s televised testimony before Congress.\n<b>Enduring Legacy</b>\n• Her warnings prompted a nationwide ban on agricultural DDT in 1972 and catalysed the creation of the US Environmental Protection Agency.\n• She believed passionately in (37)__________ the public of the scientific facts behind environmental policy.\n<i>(Adapted from National Women’s History Museum and Encyclopaedia Britannica)</i>"
       },
       {
@@ -2331,13 +2331,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "By way of",
-          "On behalf of",
-          "In defiance of",
-          "In recognition of"
+          "Because of",
+          "Because",
+          "Despite",
+          "Whereas"
         ],
-        "answer": 3,
-        "explanation": "In recognition of = Để ghi nhận tác phẩm bước ngoặt Silent Spring của bà."
+        "answer": 0,
+        "explanation": "Because of + cụm danh từ = bởi vì. Because + mệnh đề; Despite = mặc dù (ngược nghĩa); Whereas = trong khi (liên từ, cần mệnh đề)."
       },
       {
         "origNum": 35,
@@ -2357,13 +2357,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "An amount",
-          "A great deal",
           "Much",
-          "A large number"
+          "Little",
+          "Several",
+          "Every"
         ],
-        "answer": 3,
-        "explanation": "A large number of + danh từ đếm được số nhiều (conservation groups)."
+        "answer": 2,
+        "explanation": "several of the + N số nhiều = một vài. Much/Little + N không đếm được; every không đi trực tiếp với “of the”."
       },
       {
         "origNum": 37,
@@ -2385,40 +2385,40 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "epitomises",
-          "embellishes",
-          "emboldens",
-          "embeds"
+          "demonstrates",
+          "dominates",
+          "demolishes",
+          "denounces"
         ],
         "answer": 0,
-        "explanation": "epitomises = là minh chứng/hiện thân tiêu biểu cho.",
-        "passage": "<b>TU YOUYOU: ANCIENT WISDOM MEETS MODERN PHARMACOLOGY</b>\nTu Youyou’s scientific journey (32)__________ how traditional herbal texts and modern laboratory chemistry can unite to save millions of lives. Let’s look at her remarkable achievements:\n<b>The Search for a Malaria Cure</b>\n• Tu’s lifelong dedication (33)__________ pharmaceutical research began at Beijing Medical College, and in 1969 she was appointed head of Project 523 to find a treatment for chloroquine-resistant malaria.\n• (34)__________ her discovery of artemisinin—a compound extracted from sweet wormwood—she became, in 2015, the first mainland Chinese scientist to receive the Nobel Prize in Physiology or Medicine.\n<b>From Manuscript to Molecule</b>\n• Inspired by a fourth-century medical handbook by Ge Hong, she used a low-temperature ether process to isolate (35)__________ without destroying the active ingredient.\n• (36)__________ of the clinical trials conducted in Hainan province showed rapid parasite clearance, and Tu famously volunteered to be the first human subject to test the extract’s safety.\n<b>Global Health Impact</b>\n• Artemisinin-based combination therapies are now recommended by the WHO as the frontline defence against malaria across tropical regions.\n• She has always insisted on (37)__________ credit with her entire research team rather than claiming sole glory.\n<i>(Adapted from Nobel Prize Outreach and The Lancet)</i>"
+        "explanation": "demonstrate how … = chứng minh/cho thấy cách mà … dominate = chi phối; demolish = phá hủy; denounce = tố cáo.",
+        "passage": "<b>TU YOUYOU: ANCIENT WISDOM MEETS MODERN PHARMACOLOGY</b>\nTu Youyou’s scientific journey (32)__________ how traditional herbal texts and modern laboratory chemistry can unite to save millions of lives. Let’s look at her remarkable achievements:\n<b>The Search for a Malaria Cure</b>\n• Tu’s lifelong interest (33)__________ pharmaceutical research began at Beijing Medical College, and in 1969 she was appointed head of Project 523 to find a treatment for chloroquine-resistant malaria.\n• (34)__________ her discovery of artemisinin—a compound extracted from sweet wormwood—she became, in 2015, the first mainland Chinese scientist to receive the Nobel Prize in Physiology or Medicine.\n<b>From Manuscript to Molecule</b>\n• Inspired by a fourth-century medical handbook by Ge Hong, she used a low-temperature ether process to isolate (35)__________ without destroying the active ingredient.\n• (36)__________ of the clinical trials conducted in Hainan province showed rapid parasite clearance, and Tu famously volunteered to be the first human subject to test the extract’s safety.\n<b>Global Health Impact</b>\n• Artemisinin-based combination therapies are now recommended by the WHO as the frontline defence against malaria across tropical regions.\n• She has always insisted on (37)__________ credit with her entire research team rather than claiming sole glory.\n<i>(Adapted from Nobel Prize Outreach and The Lancet)</i>"
       },
       {
         "origNum": 33,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "to",
-          "for",
-          "with",
-          "in"
+          "at",
+          "on",
+          "in",
+          "by"
         ],
-        "answer": 0,
-        "explanation": "dedication to + N (sự cống hiến trọn đời cho nghiên cứu dược học)."
+        "answer": 2,
+        "explanation": "interest in + N = sự quan tâm đến. at/on/by không đi với “interest” theo nghĩa này."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "In recognition of",
-          "On behalf of",
-          "In spite of",
-          "By means of"
+          "Thanks to",
+          "Thanks for",
+          "Thank to",
+          "Thanking to"
         ],
         "answer": 0,
-        "explanation": "In recognition of = Để ghi nhận khám phá ra hợp chất artemisinin của bà."
+        "explanation": "Thanks to + N = nhờ có (cụm giới từ cố định). Thanks for / Thank to / Thanking to sai cấu trúc."
       },
       {
         "origNum": 35,
@@ -2438,13 +2438,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "A large number",
-          "A great deal",
-          "Much",
-          "An amount"
+          "Almost",
+          "Most",
+          "Mostly",
+          "The most"
         ],
-        "answer": 0,
-        "explanation": "A large number of + danh từ số nhiều (the clinical trials)."
+        "answer": 1,
+        "explanation": "most of the + N = hầu hết. Almost/Mostly không đứng ngay trước “of the”; “the most of” không dùng theo nghĩa này."
       },
       {
         "origNum": 37,
@@ -2466,27 +2466,27 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "embellish",
-          "embody",
-          "embolden",
-          "embed"
+          "certify",
+          "justify",
+          "notify",
+          "testify"
         ],
-        "answer": 1,
-        "explanation": "embody (chủ ngữ số nhiều “six decades...”) = hiện thân cho ý tưởng...",
-        "passage": "<b>JANE GOODALL: REDEFINING HUMANITY’S PLACE IN NATURE</b>\nJane Goodall’s six decades of fieldwork (32)__________ the idea that patient observation and empathy can revolutionise behavioural science. Let’s explore the highlights of her career:\n<b>Pioneering Primatology</b>\n• Goodall’s deep devotion (33)__________ wildlife began in childhood, and in 1960 the palaeontologist Louis Leakey sent her to Gombe Stream in Tanzania to study wild chimpanzees.\n• (34)__________ her groundbreaking observation that chimpanzees strip leaves off twigs to fish for termites—shattering the belief that only humans make tools—she was awarded a doctorate by Cambridge University.\n<b>From Scientist to Global Advocate</b>\n• In 1977 she founded the Jane Goodall Institute, which works with African villages to establish (35)__________ around chimpanzee habitats.\n• (36)__________ of the schools participating in her ‘Roots & Shoots’ youth programme have launched local tree-planting and wetland-clean-up campaigns in over a hundred countries.\n<b>A Message of Hope</b>\n• Travelling nearly three hundred days a year well into her eighties, Goodall urged governments to halt deforestation and wildlife trafficking.\n• She remains committed to (37)__________ young people to take practical action in their own neighbourhoods.\n<i>(Adapted from the Jane Goodall Institute and National Geographic)</i>"
+        "answer": 3,
+        "explanation": "testify to + N = là bằng chứng cho (chủ ngữ “decades” số nhiều → testify). certify/justify/notify không đi với “to” theo nghĩa này.",
+        "passage": "<b>JANE GOODALL: REDEFINING HUMANITY’S PLACE IN NATURE</b>\nJane Goodall’s six decades of fieldwork (32)__________ to the idea that patient observation and empathy can revolutionise behavioural science. Let’s explore the highlights of her career:\n<b>Pioneering Primatology</b>\n• Goodall’s deep devotion (33)__________ wildlife began in childhood, and in 1960 the palaeontologist Louis Leakey sent her to Gombe Stream in Tanzania to study wild chimpanzees.\n• (34)__________ her groundbreaking observation that chimpanzees strip leaves off twigs to fish for termites—shattering the belief that only humans make tools—she was awarded a doctorate by Cambridge University.\n<b>From Scientist to Global Advocate</b>\n• In 1977 she founded the Jane Goodall Institute, which works with African villages to establish (35)__________ around chimpanzee habitats.\n• (36)__________ of the schools participating in her ‘Roots & Shoots’ youth programme have launched local tree-planting and wetland-clean-up campaigns in over a hundred countries.\n<b>A Message of Hope</b>\n• Travelling nearly three hundred days a year well into her eighties, Goodall urged governments to halt deforestation and wildlife trafficking.\n• She remains committed to (37)__________ young people to take practical action in their own neighbourhoods.\n<i>(Adapted from the Jane Goodall Institute and National Geographic)</i>"
       },
       {
         "origNum": 33,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "for",
-          "to",
-          "with",
-          "in"
+          "at",
+          "in",
+          "upon",
+          "to"
         ],
-        "answer": 1,
-        "explanation": "devotion to + N (tình yêu và sự tận tụy sâu sắc dành cho động vật hoang dã)."
+        "answer": 3,
+        "explanation": "devotion to + N = sự tận tụy, tận tâm dành cho. at/in/upon không đi với “devotion” theo nghĩa này."
       },
       {
         "origNum": 34,
@@ -2494,12 +2494,12 @@ window.examDatabase['lexico'] = {
         "text": "",
         "options": [
           "On behalf of",
-          "In recognition of",
-          "In defiance of",
-          "By way of"
+          "On the strength of",
+          "In spite of",
+          "In lieu of"
         ],
         "answer": 1,
-        "explanation": "In recognition of = Để ghi nhận phát hiện đột phá của bà."
+        "explanation": "on the strength of = dựa vào/nhờ vào (thành tựu). on behalf of = thay mặt; in spite of = mặc dù; in lieu of = thay cho."
       },
       {
         "origNum": 35,
@@ -2519,13 +2519,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "A great deal",
-          "A large number",
-          "Much",
-          "An amount"
+          "Hundreds",
+          "Hundred",
+          "Two hundreds",
+          "A hundreds"
         ],
-        "answer": 1,
-        "explanation": "A large number of + N số nhiều (the schools) + V số nhiều (have launched)."
+        "answer": 0,
+        "explanation": "hundreds of + N = hàng trăm (dạng số nhiều khi không có số cụ thể đứng trước). Hundred/Two hundreds/A hundreds sai."
       },
       {
         "origNum": 37,
@@ -2547,40 +2547,40 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "emboldens",
-          "embellishes",
-          "epitomises",
-          "embeds"
+          "shortcuts",
+          "shrugs",
+          "showcases",
+          "shatters"
         ],
         "answer": 2,
-        "explanation": "epitomises = là hiện thân tiêu biểu cho.",
-        "passage": "<b>TON THAT TUNG: PIONEER OF MODERN LIVER SURGERY</b>\nProfessor Tôn Thất Tùng’s extraordinary career (32)__________ how anatomical precision and surgical courage can place Vietnamese medicine on the world map. Let’s review his enduring contributions:\n<b>Anatomical Breakthroughs</b>\n• Tùng’s relentless commitment (33)__________ medical research began in Hanoi in the late 1930s, when he meticulously dissected over two hundred autopsy livers to map their internal blood vessels.\n• (34)__________ his revolutionary ‘dry’ liver-resection technique—which reduced operation times from several hours to under ten minutes—he was elected a member of prestigious surgical academies in Paris and Moscow.\n<b>Serving on the Frontlines</b>\n• During the resistance years, he trained generations of doctors in makeshift jungle hospitals using (35)__________.\n• (36)__________ of the international surgeons who visited Viet Duc Hospital in the 1960s and 1970s adopted his finger-fracture clamping method to save patients with liver tumours.\n<b>Scientific Legacy</b>\n• In the 1970s, he also led pioneering epidemiological studies on the long-term health effects of wartime dioxin defoliants.\n• Throughout his life, he believed in (37)__________ young Vietnamese physicians to master both clinical skill and scientific inquiry.\n<i>(Adapted from The Lancet and Vietnam Journal of Medicine)</i>"
+        "explanation": "showcase how … = phô bày, thể hiện cách mà … shortcut = đi đường tắt; shrug = nhún vai; shatter = làm tan vỡ.",
+        "passage": "<b>TON THAT TUNG: PIONEER OF MODERN LIVER SURGERY</b>\nProfessor Tôn Thất Tùng’s extraordinary career (32)__________ how anatomical precision and surgical courage can place Vietnamese medicine on the world map. Let’s review his enduring contributions:\n<b>Anatomical Breakthroughs</b>\n• Tùng’s relentless obsession (33)__________ medical research began in Hanoi in the late 1930s, when he meticulously dissected over two hundred autopsy livers to map their internal blood vessels.\n• (34)__________ his revolutionary ‘dry’ liver-resection technique—which reduced operation times from several hours to under ten minutes—he was elected a member of prestigious surgical academies in Paris and Moscow.\n<b>Serving on the Frontlines</b>\n• During the resistance years, he trained generations of doctors in makeshift jungle hospitals using (35)__________.\n• (36)__________ of the international surgeons who visited Viet Duc Hospital in the 1960s and 1970s adopted his finger-fracture clamping method to save patients with liver tumours.\n<b>Scientific Legacy</b>\n• In the 1970s, he also led pioneering epidemiological studies on the long-term health effects of wartime dioxin defoliants.\n• Throughout his life, he believed in (37)__________ young Vietnamese physicians to master both clinical skill and scientific inquiry.\n<i>(Adapted from The Lancet and Vietnam Journal of Medicine)</i>"
       },
       {
         "origNum": 33,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "with",
-          "for",
           "to",
-          "in"
+          "of",
+          "with",
+          "from"
         ],
         "answer": 2,
-        "explanation": "commitment to + N (sự tận tâm không ngừng nghỉ cho nghiên cứu y học)."
+        "explanation": "obsession with + N = nỗi ám ảnh/niềm đam mê với. to/of/from không đi với “obsession”."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "In spite of",
-          "On behalf of",
-          "In recognition of",
-          "By means of"
+          "In defiance of",
+          "In place of",
+          "By way of",
+          "By virtue of"
         ],
-        "answer": 2,
-        "explanation": "In recognition of = Để ghi nhận kỹ thuật cắt gan nổi tiếng của ông."
+        "answer": 3,
+        "explanation": "by virtue of = nhờ vào, do (thành tựu/tư cách). in defiance of = bất chấp; in place of = thay cho; by way of = bằng cách, qua."
       },
       {
         "origNum": 35,
@@ -2601,12 +2601,12 @@ window.examDatabase['lexico'] = {
         "text": "",
         "options": [
           "Much",
-          "A great deal",
-          "A large number",
-          "An amount"
+          "Little",
+          "A little",
+          "Many"
         ],
-        "answer": 2,
-        "explanation": "A large number of + N số nhiều (the international surgeons)."
+        "answer": 3,
+        "explanation": "many of the + N số nhiều = nhiều. Much/Little/A little chỉ dùng với danh từ không đếm được."
       },
       {
         "origNum": 37,
@@ -2628,13 +2628,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "embed",
-          "embellish",
-          "embolden",
-          "embody"
+          "sympathise",
+          "symbolise",
+          "synchronise",
+          "systemise"
         ],
-        "answer": 3,
-        "explanation": "embody (chủ ngữ số nhiều “engineering feats”) = hiện thân cho khát vọng...",
+        "answer": 1,
+        "explanation": "symbolise = tượng trưng cho (chủ ngữ “feats” số nhiều). sympathise = cảm thông; synchronise = đồng bộ hóa; systemise = hệ thống hóa.",
         "passage": "<b>ISAMBARD KINGDOM BRUNEL: VISIONARY OF THE INDUSTRIAL AGE</b>\nIsambard Kingdom Brunel’s engineering feats (32)__________ the boundless ambition of nineteenth-century British infrastructure design. Let’s explore the landmarks of his career:\n<b>Bridges, Tunnels and Railways</b>\n• Brunel’s lifelong passion (33)__________ civil engineering began under his father Marc on the Thames Tunnel, and at just twenty-seven he was appointed chief engineer of the Great Western Railway.\n• (34)__________ his bold design for the Clifton Suspension Bridge and the two-mile Box Tunnel, contemporaries hailed him as the most original engineer of his generation.\n<b>Transatlantic Steamships</b>\n• Determined to link Bristol and New York by steam, he designed three record-breaking vessels, culminating in the <i>SS Great Britain</i>, the world’s first (35)__________.\n• (36)__________ of the viaducts, stations and iron bridges he built between London and the West Country remain in daily rail service nearly two centuries later.\n<b>Lasting Influence</b>\n• Although his atmospheric-railway experiment in Devon failed due to leather valve decay, his meticulous notebooks set new standards for structural calculation.\n• Modern conservationists have succeeded in (37)__________ the hull of the <i>SS Great Britain</i> inside a glass-roofed dry dock in Bristol.\n<i>(Adapted from Brunel Institute and Encyclopaedia Britannica)</i>"
       },
       {
@@ -2642,26 +2642,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
+          "for",
           "at",
           "to",
-          "with",
-          "for"
+          "over"
         ],
-        "answer": 3,
-        "explanation": "passion for + N (niềm đam mê trọn đời dành cho kỹ thuật xây dựng)."
+        "answer": 0,
+        "explanation": "passion for + N = niềm đam mê dành cho. at/to/over không đi với “passion” theo nghĩa này."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "By way of",
-          "On behalf of",
-          "In defiance of",
-          "In recognition of"
+          "In front of",
+          "In case of",
+          "In view of",
+          "In search of"
         ],
-        "answer": 3,
-        "explanation": "In recognition of = Để ghi nhận thiết kế táo bạo của ông."
+        "answer": 2,
+        "explanation": "in view of = xét đến, do bởi. in front of = phía trước; in case of = trong trường hợp; in search of = đi tìm."
       },
       {
         "origNum": 35,
@@ -2681,13 +2681,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "An amount",
-          "A great deal",
-          "Much",
-          "A large number"
+          "Dozen",
+          "Dozens",
+          "A dozens",
+          "Two dozens"
         ],
-        "answer": 3,
-        "explanation": "A large number of + N số nhiều (the viaducts, stations and iron bridges) + V số nhiều (remain)."
+        "answer": 1,
+        "explanation": "dozens of + N số nhiều = hàng chục. “Dozen of”, “A dozens of”, “Two dozens of” sai (dozen giữ nguyên dạng khi đi sau số từ/mạo từ và không thêm of; dozens chỉ dùng khi không có số cụ thể)."
       },
       {
         "origNum": 37,
@@ -2709,14 +2709,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "embodies",
-          "embellishes",
-          "emboldens",
-          "embeds"
+          "reimburses",
+          "reprimands",
+          "rejuvenates",
+          "reaffirms"
         ],
-        "answer": 0,
-        "explanation": "embodies = là hiện thân cho niềm tin rằng...",
-        "passage": "<b>ELINOR OSTROM: RETHINKING THE TRAGEDY OF THE COMMONS</b>\nElinor Ostrom’s scholarship (32)__________ the conviction that local communities can govern shared natural resources sustainably without privatisation or top-down state control. Let’s examine her groundbreaking work:\n<b>Challenging Economic Dogma</b>\n• Ostrom’s academic dedication (33)__________ institutional analysis led her to study how real-world communities manage pastures, irrigation canals and coastal fisheries.\n• (34)__________ her empirical refutation of the ‘tragedy of the commons’, she became, in 2009, the first woman to be awarded the Nobel Memorial Prize in Economic Sciences.\n<b>Fieldwork Across Continents</b>\n• From Alpine meadows in Switzerland to forest user groups in Nepal, she documented how locals craft (35)__________ to prevent over-exploitation.\n• (36)__________ of the self-governing irrigation systems she analysed in Spain and the Philippines had endured for centuries outperforming state-built dams.\n<b>Eight Design Principles</b>\n• Ostrom distilled eight core principles for successful commons—including clear boundaries, graduated sanctions for rule-breakers and accessible conflict resolution.\n• She consistently advocated (37)__________ local users a direct voice in crafting the rules that govern their livelihoods.\n<i>(Adapted from Nobel Prize Outreach and Indiana University Ostrom Workshop)</i>"
+        "answer": 3,
+        "explanation": "reaffirm the conviction = tái khẳng định niềm tin. reimburse = hoàn tiền; reprimand = khiển trách; rejuvenate = làm trẻ lại.",
+        "passage": "<b>ELINOR OSTROM: RETHINKING THE TRAGEDY OF THE COMMONS</b>\nElinor Ostrom’s scholarship (32)__________ the conviction that local communities can govern shared natural resources sustainably without privatisation or top-down state control. Let’s examine her groundbreaking work:\n<b>Challenging Economic Dogma</b>\n• Ostrom’s academic grounding (33)__________ institutional analysis led her to study how real-world communities manage pastures, irrigation canals and coastal fisheries.\n• (34)__________ her empirical refutation of the ‘tragedy of the commons’, she became, in 2009, the first woman to be awarded the Nobel Memorial Prize in Economic Sciences.\n<b>Fieldwork Across Continents</b>\n• From Alpine meadows in Switzerland to forest user groups in Nepal, she documented how locals craft (35)__________ to prevent over-exploitation.\n• (36)__________ of the self-governing irrigation systems she analysed in Spain and the Philippines had endured for centuries outperforming state-built dams.\n<b>Eight Design Principles</b>\n• Ostrom distilled eight core principles for successful commons—including clear boundaries, graduated sanctions for rule-breakers and accessible conflict resolution.\n• She consistently advocated (37)__________ local users a direct voice in crafting the rules that govern their livelihoods.\n<i>(Adapted from Nobel Prize Outreach and Indiana University Ostrom Workshop)</i>"
       },
       {
         "origNum": 33,
@@ -2724,25 +2724,25 @@ window.examDatabase['lexico'] = {
         "text": "",
         "options": [
           "to",
-          "for",
+          "in",
           "with",
-          "in"
+          "from"
         ],
-        "answer": 0,
-        "explanation": "dedication to + N (sự cống hiến học thuật cho phân tích thể chế)."
+        "answer": 1,
+        "explanation": "grounding in + N = nền tảng kiến thức vững về. to/with/from không đi với “grounding” theo nghĩa này."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "In recognition of",
-          "On behalf of",
-          "In spite of",
-          "By means of"
+          "As a result of",
+          "As a matter of",
+          "As a means of",
+          "As a form of"
         ],
         "answer": 0,
-        "explanation": "In recognition of = Để ghi nhận công trình bác bỏ thực nghiệm của bà."
+        "explanation": "as a result of = do/nhờ kết quả của. as a matter of = về mặt (as a matter of fact); as a means of = như một phương tiện; as a form of = như một dạng."
       },
       {
         "origNum": 35,
@@ -2762,13 +2762,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "A large number",
-          "A great deal",
-          "Much",
-          "An amount"
+          "Somewhat",
+          "Somebody",
+          "Sometimes",
+          "Some"
         ],
-        "answer": 0,
-        "explanation": "A large number of + N số nhiều (the self-governing irrigation systems)."
+        "answer": 3,
+        "explanation": "some of the + N = một số trong những … Somewhat = hơi; somebody = ai đó; sometimes = đôi khi — không đứng trước “of the”."
       },
       {
         "origNum": 37,
@@ -2790,40 +2790,40 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "embellishes",
-          "epitomises",
-          "emboldens",
-          "embeds"
+          "illustrates",
+          "inundates",
+          "inaugurates",
+          "infiltrates"
         ],
-        "answer": 1,
-        "explanation": "epitomises = là hiện thân tiêu biểu cho.",
-        "passage": "<b>KATALIN KARIKÓ: PERSEVERANCE BEHIND THE mRNA REVOLUTION</b>\nKatalin Karikó’s four-decade quest (32)__________ how scientific persistence in the face of repeated grant rejections can transform global medicine. Let’s trace her remarkable story:\n<b>Unwavering Belief in mRNA</b>\n• Karikó’s steadfast commitment (33)__________ messenger RNA therapy began in Hungary and continued at the University of Pennsylvania, even when reviewers dismissed the molecule as too unstable.\n• (34)__________ her discovery, alongside Drew Weissman, that modifying nucleosides prevents mRNA from triggering inflammatory immune reactions, the pair received the 2023 Nobel Prize in Physiology or Medicine.\n<b>From Bench to Bedside</b>\n• That key chemical modification enabled bio-engineers to package (35)__________ inside protective lipid nanoparticles.\n• (36)__________ of the billions of COVID-19 vaccine doses deployed worldwide in 2021 relied directly on Karikó and Weissman’s modified-mRNA platform.\n<b>Future Horizons</b>\n• Beyond infectious diseases, clinical trials are now testing mRNA candidates for personalised cancer immunotherapies and rare genetic disorders.\n• Speaking to students, she emphasises the importance of (37)__________ focused on solving the underlying scientific puzzle rather than chasing academic status.\n<i>(Adapted from Nobel Prize Outreach and Nature)</i>"
+        "answer": 0,
+        "explanation": "illustrate how … = minh họa cho thấy … inundate = làm ngập; inaugurate = khánh thành; infiltrate = xâm nhập.",
+        "passage": "<b>KATALIN KARIKÓ: PERSEVERANCE BEHIND THE mRNA REVOLUTION</b>\nKatalin Karikó’s four-decade quest (32)__________ how scientific persistence in the face of repeated grant rejections can transform global medicine. Let’s trace her remarkable story:\n<b>Unwavering Belief in mRNA</b>\n• Karikó’s steadfast belief (33)__________ messenger RNA therapy began in Hungary and continued at the University of Pennsylvania, even when reviewers dismissed the molecule as too unstable.\n• (34)__________ her discovery, alongside Drew Weissman, that modifying nucleosides prevents mRNA from triggering inflammatory immune reactions, the pair received the 2023 Nobel Prize in Physiology or Medicine.\n<b>From Bench to Bedside</b>\n• That key chemical modification enabled bio-engineers to package (35)__________ inside protective lipid nanoparticles.\n• (36)__________ of the billions of COVID-19 vaccine doses deployed worldwide in 2021 relied directly on Karikó and Weissman’s modified-mRNA platform.\n<b>Future Horizons</b>\n• Beyond infectious diseases, clinical trials are now testing mRNA candidates for personalised cancer immunotherapies and rare genetic disorders.\n• Speaking to students, she emphasises the importance of (37)__________ focused on solving the underlying scientific puzzle rather than chasing academic status.\n<i>(Adapted from Nobel Prize Outreach and Nature)</i>"
       },
       {
         "origNum": 33,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
+          "on",
           "for",
           "to",
-          "with",
           "in"
         ],
-        "answer": 1,
-        "explanation": "commitment to + N (sự kiên định theo đuổi liệu pháp mRNA)."
+        "answer": 3,
+        "explanation": "belief in + N = niềm tin vào. on/for/to không đi với “belief” theo nghĩa này."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "On behalf of",
-          "In recognition of",
-          "In defiance of",
-          "By way of"
+          "Owed to",
+          "Owning to",
+          "Owing to",
+          "Own to"
         ],
-        "answer": 1,
-        "explanation": "In recognition of = Để ghi nhận khám phá của bà cùng Drew Weissman."
+        "answer": 2,
+        "explanation": "owing to + N = bởi vì, do. Owed to / Owning to / Own to sai cấu trúc."
       },
       {
         "origNum": 35,
@@ -2843,13 +2843,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "A great deal",
-          "A large number",
-          "Much",
-          "An amount"
+          "Almost",
+          "Mostly all",
+          "Almost all",
+          "All almost"
         ],
-        "answer": 1,
-        "explanation": "A large number of + N số nhiều (the billions of... doses)."
+        "answer": 2,
+        "explanation": "almost all of the + N = gần như tất cả. “Almost” không đứng ngay trước “of”; mostly all / all almost sai trật tự và không tự nhiên."
       },
       {
         "origNum": 37,
@@ -2871,40 +2871,40 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "emboldens",
-          "embellishes",
-          "embodies",
-          "embeds"
+          "chambers",
+          "champions",
+          "chatters",
+          "chafes"
         ],
-        "answer": 2,
-        "explanation": "embodies = là hiện thân cho triết lý kiến trúc bền vững.",
-        "passage": "<b>HASSAN FATHY: ARCHITECT FOR THE POOR</b>\nThe Egyptian architect Hassan Fathy’s career (32)__________ the philosophy that sustainable architecture should draw on local earth, climate wisdom and community craftsmanship. Let’s explore his influential work:\n<b>Reviving Vernacular Building</b>\n• Fathy’s deep devotion (33)__________ rural housing reform began in the 1940s, when timber and steel shortages prompted him to study ancient Nubian mud-brick vaulting.\n• (34)__________ his lifelong contribution to affordable, climate-responsive architecture, he was awarded the inaugural Right Livelihood Award and the Aga Khan Chairman’s Award in 1980.\n<b>Passive Cooling Innovation</b>\n• In designing the village of New Gourna near Luxor, he combined (35)__________ with shaded courtyards and wind-catching towers to drop indoor temperatures without air conditioning.\n• (36)__________ of the contemporary ‘rammed-earth’ and bioclimatic architects working in arid regions today cite Fathy’s 1969 book <i>Architecture for the Poor</i> as their foundational text.\n<b>Human-Centred Design</b>\n• Fathy demonstrated that training villagers to mould sun-dried adobe bricks reduced building costs to a fraction of imported concrete.\n• He believed whole-heartedly in (37)__________ residents to shape their own homes rather than imposing uniform industrial blocks.\n<i>(Adapted from Aga Khan Award for Architecture and Architectural Review)</i>"
+        "answer": 1,
+        "explanation": "champion = ủng hộ, bênh vực (một quan điểm/triết lý). chambers, chatters, chafes không có nghĩa phù hợp với tân ngữ “the philosophy”.",
+        "passage": "<b>HASSAN FATHY: ARCHITECT FOR THE POOR</b>\nThe Egyptian architect Hassan Fathy’s career (32)__________ the philosophy that sustainable architecture should draw on local earth, climate wisdom and community craftsmanship. Let’s explore his influential work:\n<b>Reviving Vernacular Building</b>\n• Fathy’s deep aversion (33)__________ imported building materials began in the 1940s, when timber and steel shortages prompted him to study ancient Nubian mud-brick vaulting.\n• (34)__________ his lifelong contribution to affordable, climate-responsive architecture, he was awarded the inaugural Right Livelihood Award and the Aga Khan Chairman’s Award in 1980.\n<b>Passive Cooling Innovation</b>\n• In designing the village of New Gourna near Luxor, he combined (35)__________ with shaded courtyards and wind-catching towers to drop indoor temperatures without air conditioning.\n• (36)__________ of the contemporary ‘rammed-earth’ and bioclimatic architects working in arid regions today cite Fathy’s 1969 book <i>Architecture for the Poor</i> as their foundational text.\n<b>Human-Centred Design</b>\n• Fathy demonstrated that training villagers to mould sun-dried adobe bricks reduced building costs to a fraction of imported concrete.\n• He believed whole-heartedly in (37)__________ residents to shape their own homes rather than imposing uniform industrial blocks.\n<i>(Adapted from Aga Khan Award for Architecture and Architectural Review)</i>"
       },
       {
         "origNum": 33,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "with",
-          "for",
+          "at",
+          "on",
           "to",
-          "in"
+          "over"
         ],
         "answer": 2,
-        "explanation": "devotion to + N (sự tận tụy sâu sắc đối với cải cách nhà ở nông thôn)."
+        "explanation": "aversion to + N = sự ác cảm với. at/on/over không đi với “aversion”."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "In spite of",
-          "On behalf of",
-          "In recognition of",
-          "By means of"
+          "In pursuit of",
+          "In appreciation of",
+          "In defiance of",
+          "In place of"
         ],
-        "answer": 2,
-        "explanation": "In recognition of = Để ghi nhận đóng góp trọn đời của ông."
+        "answer": 1,
+        "explanation": "in appreciation of = để ghi nhận, tri ân. in pursuit of = theo đuổi; in defiance of = bất chấp; in place of = thay cho."
       },
       {
         "origNum": 35,
@@ -2924,26 +2924,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "Much",
+          "A great many",
           "A great deal",
-          "A large number",
-          "An amount"
+          "A great amount",
+          "A great much"
         ],
-        "answer": 2,
-        "explanation": "A large number of + N số nhiều (the contemporary... architects)."
+        "answer": 0,
+        "explanation": "a great many of + N số nhiều = rất nhiều. a great deal/a great amount dùng với danh từ không đếm được; “a great much” sai."
       },
       {
         "origNum": 37,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "to empower",
-          "empower",
-          "empowering",
-          "empowered"
+          "enable",
+          "to enable",
+          "enabled",
+          "enabling"
         ],
-        "answer": 2,
-        "explanation": "believe in + V-ing (empowering residents to shape...)."
+        "answer": 3,
+        "explanation": "believe in + V-ing = tin vào việc … → “believed whole-heartedly in enabling residents to shape their own homes”."
       }
     ]
   },
@@ -3776,7 +3776,7 @@ window.examDatabase['lexico'] = {
         ],
         "answer": 1,
         "explanation": "obviate (loại bỏ hoàn toàn nhu cầu) đối lập với việc chỉ giảm nhẹ.",
-        "passage": "<b>THE PARADOX OF PAPERLESS OFFICES</b>\nWhen the philosopher and futurist Alvin Toffler predicted in 1970 that networked computers would usher in a ‘paperless office’, few doubted his vision. Digital screens, the argument went, would not merely reduce the corporate appetite for pulp and ink but would (43)__________ it altogether. Yet over the four decades that followed the arrival of the personal computer, global consumption of office paper did not shrink; on the contrary, it (44)__________ by more than 200 percent.\nThe explanation, sociologists Sellen and Harper demonstrated in their landmark study <i>The Myth of the Paperless Office</i>, lies in the way digital tools lower the friction of document distribution. Whenever email and laser printers (45)__________ the effort required to access and reproduce a report, employees print out more drafts for reading and annotation, a phenomenon that behavioural economists liken to the (46)__________ effect in energy use.\n(47)__________ screen resolution has improved dramatically in recent years, physical paper retains cognitive affordances that glass tablets struggle to match. Laboratory experiments show a clear (48)__________ between spatial navigation on paper pages and deeper reading comprehension. By the early 2010s, the cost of printing a single page had (49)__________ to a fraction of a penny, encouraging workers to print lengthy attachments ‘just in case’.\nNone of this implies that digitisation is pointless. Forward-looking organisations therefore (50)__________ cloud workflows with default duplex-printing locks and paper-quota dashboards. Digital technology, in short, (51)__________: it eliminates the need for filing cabinets of carbon copies, yet can effortlessly (52)__________ the volume of transient paper passing across our desks.\n<i>(Adapted from A. J. Sellen & R. H. R. Harper, The Myth of the Paperless Office, MIT Press)</i>"
+        "passage": "<b>THE PARADOX OF PAPERLESS OFFICES</b>\nWhen the philosopher and futurist Alvin Toffler predicted in 1970 that networked computers would usher in a ‘paperless office’, few doubted his vision. Digital screens, the argument went, would not merely reduce the corporate appetite for pulp and ink but would (43)__________ it altogether. Yet over the four decades that followed the arrival of the personal computer, global consumption of office paper did not shrink; on the contrary, it (44)__________ by more than 200 percent.\nThe explanation, sociologists Sellen and Harper demonstrated in their landmark study <i>The Myth of the Paperless Office</i>, lies in the way digital tools lower the friction of document distribution. Whenever email and laser printers (45)__________ the effort required to access and reproduce a report, employees print out more drafts for reading and annotation, a phenomenon that behavioural economists liken to the (46)__________ effect in energy use.\n(47)__________ screen resolution has improved dramatically in recent years, physical paper retains cognitive affordances that glass tablets struggle to match. Laboratory experiments show a clear (48)__________ between spatial navigation on paper pages and deeper reading comprehension. By the early 2010s, the cost of printing a single page had (49)__________ to a fraction of a penny, encouraging workers to print lengthy attachments ‘just in case’.\nNone of this implies that digitisation is pointless. Forward-looking organisations therefore (50)__________ cloud workflows with default duplex-printing locks and paper-quota dashboards. Digital technology, in short, is a double-edged (51)__________: it eliminates the need for filing cabinets of carbon copies, yet can effortlessly (52)__________ the volume of transient paper passing across our desks.\n<i>(Adapted from A. J. Sellen & R. H. R. Harper, The Myth of the Paperless Office, MIT Press)</i>"
       },
       {
         "origNum": 44,
@@ -3796,91 +3796,91 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "turn down",
-          "put down",
-          "let down",
-          "bring down"
+          "lower",
+          "elevate",
+          "augment",
+          "amplify"
         ],
-        "answer": 3,
-        "explanation": "bring down the effort/cost (làm giảm công sức/chi phí)."
+        "answer": 0,
+        "explanation": "lower the effort required = giảm bớt công sức cần bỏ ra. elevate/augment/amplify = nâng lên/tăng thêm (ngược nghĩa)."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "rebound",
-          "ripple",
-          "halo",
-          "placebo"
+          "bandwagon",
+          "placebo",
+          "boomerang",
+          "domino"
         ],
-        "answer": 0,
-        "explanation": "rebound effect (hiệu ứng bật lại trong kinh tế học hành vi)."
+        "answer": 2,
+        "explanation": "boomerang effect = hiệu ứng “ném ra rồi quay về”: hành động gây ra kết quả ngược mục đích (màn hình số lại làm in nhiều giấy hơn). bandwagon = chạy theo đám đông; placebo = giả dược; domino = hiệu ứng dây chuyền."
       },
       {
         "origNum": 47,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Seeing that",
-          "Much as",
-          "Provided that",
-          "Insofar as"
+          "Despite",
+          "Although",
+          "Unless",
+          "Because"
         ],
         "answer": 1,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "explanation": "Although + mệnh đề (S + V) = mặc dù. Despite + N/V-ing; Unless = trừ khi; Because = bởi vì (không hợp nghĩa nhượng bộ)."
       },
       {
         "origNum": 48,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "discrepancy",
-          "collision",
-          "departure",
-          "correlation"
+          "paradox",
+          "parallel",
+          "parable",
+          "paradigm"
         ],
-        "answer": 3,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 1,
+        "explanation": "a clear parallel between A and B = sự tương đồng rõ rệt giữa A và B. paradox = nghịch lý; parable = truyện ngụ ngôn; paradigm = mô hình, hệ hình."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "plummeted",
-          "escalated",
-          "lingered",
-          "fluctuated"
+          "trebled",
+          "towered",
+          "tripped",
+          "tumbled"
         ],
-        "answer": 0,
-        "explanation": "plummeted to a fraction of a penny (giảm mạnh xuống chưa đầy một xu)."
+        "answer": 3,
+        "explanation": "tumble to = rơi mạnh xuống mức … treble = tăng gấp ba; tower = cao vượt lên; trip = vấp ngã."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "compliment",
-          "supplant",
-          "complement",
-          "contaminate"
+          "supplement",
+          "suppress",
+          "supplicate",
+          "supervise"
         ],
-        "answer": 2,
-        "explanation": "complement A with B (bổ trợ quy trình đám mây bằng khóa in hai mặt)."
+        "answer": 0,
+        "explanation": "supplement A with B = bổ sung A bằng B. suppress = đàn áp; supplicate = van xin; supervise = giám sát."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "misses the boat",
-          "cuts both ways",
-          "hits the sack",
-          "toes the line"
+          "knife",
+          "spear",
+          "sword",
+          "shield"
         ],
-        "answer": 1,
-        "explanation": "cuts both ways = có hai mặt (vừa lợi vừa hại)."
+        "answer": 2,
+        "explanation": "a double-edged sword = con dao hai lưỡi (vừa có lợi vừa có hại) – hợp với vế sau “it eliminates … yet can …”."
       },
       {
         "origNum": 52,
@@ -3902,53 +3902,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "poring",
-          "hovering",
-          "wading",
-          "hanging"
+          "shifting",
+          "sifting",
+          "sipping",
+          "sighing"
         ],
-        "answer": 0,
-        "explanation": "pore over + statistics (nghiền ngẫm số liệu thống kê).",
-        "passage": "<b>THE PELTZMAN EFFECT: WHEN SAFETY GEAR BREEDS RISK</b>\nAfter years (43)__________ over US highway accident statistics, the University of Chicago economist Sam Peltzman published a controversial 1975 paper arguing that mandatory car-safety regulations did not reduce total road deaths as much as engineers had predicted, and in some cases could even (44)__________ reckless driving. Seatbelts, energy-absorbing steering columns and dual brakes undoubtedly protected occupants during a crash; yet, instead of falling sharply, pedestrian and cyclist fatalities (45)__________ after the laws took effect.\nFeeling safer inside a steel cage, Peltzman reasoned, drivers unconsciously drove slightly faster and followed the car ahead more closely. Whenever an engineering intervention (46)__________ the perceived personal cost of a mistake, human beings adjust their behaviour to consume some of that safety margin as extra speed—a phenomenon psychologists now call risk (47)__________.\n(48)__________ Peltzman’s original econometric model sparked fierce debate, subsequent field studies have documented similar behavioural shifts in sports and finance. Research on Alpine skiers wearing hard-shell helmets, for instance, reveals a striking (49)__________ between head protection and faster descent speeds on steep slopes. Meanwhile, after anti-lock braking systems (ABS) were introduced on Munich taxicabs in the 1980s, harsh braking distances (50)__________, yet drivers tailed other vehicles more closely in wet weather.\nNone of this implies that seatbelts or helmets should be abandoned. Smart safety authorities therefore (51)__________ protective equipment with physical traffic-calming measures—such as narrow chicanes and speed cameras—that prevent drivers from speeding up. Safety technology, in short, (52)__________: it shields us when an accident happens, but can subtly tempt us into courting the very hazards it was built to survive.\n<i>(Adapted from S. Peltzman, Journal of Political Economy (1975), and G. J. S. Wilde, Target Risk)</i>"
+        "answer": 1,
+        "explanation": "sift through = lục lọi, sàng lọc kỹ (số liệu, tài liệu). shift = dịch chuyển; sip = nhấp từng ngụm; sigh = thở dài.",
+        "passage": "<b>THE PELTZMAN EFFECT: WHEN SAFETY GEAR BREEDS RISK</b>\nAfter years (43)__________ through US highway accident statistics, the University of Chicago economist Sam Peltzman published a controversial 1975 paper arguing that mandatory car-safety regulations did not reduce total road deaths as much as engineers had predicted, and in some cases could even (44)__________ reckless driving. Seatbelts, energy-absorbing steering columns and dual brakes undoubtedly protected occupants during a crash; yet, instead of falling sharply, pedestrian and cyclist fatalities (45)__________ after the laws took effect.\nFeeling safer inside a steel cage, Peltzman reasoned, drivers unconsciously drove slightly faster and followed the car ahead more closely. Whenever an engineering intervention (46)__________ the perceived personal cost of a mistake, human beings adjust their behaviour to consume some of that safety margin as extra speed—a phenomenon psychologists now call risk (47)__________.\n(48)__________ Peltzman’s original econometric model sparked fierce debate, subsequent field studies have documented similar behavioural shifts in sports and finance. Research on Alpine skiers wearing hard-shell helmets, for instance, reveals a striking (49)__________ between head protection and faster descent speeds on steep slopes. Meanwhile, after anti-lock braking systems (ABS) were introduced on Munich taxicabs in the 1980s, harsh braking distances (50)__________, yet drivers tailed other vehicles more closely in wet weather.\nNone of this implies that seatbelts or helmets should be abandoned. Smart safety authorities therefore (51)__________ protective equipment with physical traffic-calming measures—such as narrow chicanes and speed cameras—that prevent drivers from speeding up. Safety technology, in short, is a Trojan (52)__________: it shields us when an accident happens, but can subtly tempt us into courting the very hazards it was built to survive.\n<i>(Adapted from S. Peltzman, Journal of Political Economy (1975), and G. J. S. Wilde, Target Risk)</i>"
       },
       {
         "origNum": 44,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "spur",
-          "curtail",
-          "stifle",
-          "deter"
+          "forgo",
+          "forfeit",
+          "foster",
+          "forbid"
         ],
-        "answer": 0,
-        "explanation": "spur (thúc đẩy, kích thích hành vi lái xe ẩu) đối lập với giảm tai nạn."
+        "answer": 2,
+        "explanation": "foster = nuôi dưỡng, thúc đẩy (foster reckless driving). forgo = từ bỏ; forfeit = đánh mất; forbid = cấm."
       },
       {
         "origNum": 45,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "shot up",
-          "tailed off",
-          "levelled off",
-          "wore off"
+          "surged",
+          "dipped",
+          "lapsed",
+          "waned"
         ],
         "answer": 0,
-        "explanation": "shot up = tăng vọt (đối lập với “instead of falling sharply”)."
+        "explanation": "surge = tăng vọt. dip = giảm nhẹ; lapse = suy giảm/hết hiệu lực; wane = yếu dần."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "brings down",
-          "turns down",
-          "takes down",
-          "runs down"
+          "dismisses",
+          "disperses",
+          "dislikes",
+          "diminishes"
         ],
-        "answer": 0,
-        "explanation": "bring down the cost (làm giảm cái giá phải trả của một sai lầm)."
+        "answer": 3,
+        "explanation": "diminish = làm giảm bớt. dismiss = gạt bỏ; disperse = giải tán; dislike = không thích."
       },
       {
         "origNum": 47,
@@ -3968,65 +3968,65 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Much as",
-          "Inasmuch as",
-          "So long as",
-          "Now that"
+          "Unless",
+          "Because",
+          "So that",
+          "Though"
         ],
-        "answer": 0,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 3,
+        "explanation": "Though + mệnh đề = mặc dù (nhượng bộ). Unless = nếu không; Because = bởi vì; So that = để mà."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "correlation",
-          "discrepancy",
-          "juncture",
-          "proximity"
+          "connection",
+          "conversion",
+          "convention",
+          "confession"
         ],
         "answer": 0,
-        "explanation": "correlation between A and B (mối tương quan giữa đội mũ bảo hiểm và tốc độ trượt nhanh hơn)."
+        "explanation": "connection between A and B = mối liên hệ giữa A và B. conversion = sự chuyển đổi; convention = quy ước; confession = lời thú nhận."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "plummeted",
-          "escalated",
-          "lingered",
-          "ballooned"
+          "swelled",
+          "sprawled",
+          "shrank",
+          "strayed"
         ],
-        "answer": 0,
-        "explanation": "plummeted = giảm mạnh (quãng đường phanh giảm mạnh nhờ ABS)."
+        "answer": 2,
+        "explanation": "shrink = co lại, giảm xuống. swell = phình ra; sprawl = lan rộng; stray = đi lạc."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "complement",
-          "compliment",
-          "supplant",
-          "contaminate"
+          "copy",
+          "cope",
+          "coop",
+          "couple"
         ],
-        "answer": 0,
-        "explanation": "complement A with B = bổ trợ thiết bị bảo hộ bằng các biện pháp hạ nhiệt giao thông vật lý."
+        "answer": 3,
+        "explanation": "couple A with B = kết hợp A với B. copy = sao chép; cope (with) = đối phó; coop = nhốt lại."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "cuts both ways",
-          "holds water",
-          "rings a bell",
-          "goes without saying"
+          "horse",
+          "tower",
+          "tunnel",
+          "gate"
         ],
         "answer": 0,
-        "explanation": "cuts both ways = có hai mặt (vừa bảo vệ khi tai nạn xảy ra, vừa dễ khiến người ta chủ quan)."
+        "explanation": "a Trojan horse = ngựa thành Troy: thứ trông có lợi nhưng ẩn chứa mối nguy – hợp với vế sau “it shields us … but can subtly tempt us …”."
       }
     ],
     "4": [
@@ -4035,14 +4035,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "hovering",
-          "poring",
-          "hanging",
-          "wading"
+          "hurtling",
+          "lingering",
+          "delving",
+          "barging"
         ],
-        "answer": 1,
-        "explanation": "pore over + models/statistics (nghiền ngẫm các mô hình toán học).",
-        "passage": "<b>THE BRAESS PARADOX: WHY ADDING ROADS CAN SLOW TRAFFIC</b>\nIn 1968, after months (43)__________ over mathematical models of urban traffic networks, the German mathematician Dietrich Braess demonstrated a startling proposition: adding a new high-capacity shortcut to a congested road network would not necessarily ease gridlock, and could actually (44)__________ journey times for every single commuter. When Seoul demolished the elevated Cheonggyecheon six-lane highway in 2003 to uncover a historic stream, critics predicted chaos; yet, instead of worsening, cross-town traffic speeds (45)__________.\nThe explanation lies in game theory and selfish routing. Whenever a new shortcut (46)__________ the initial travel time between two arterial avenues, rational drivers abandon secondary routes and converge on the same junction, creating a bottleneck that economists compare to the (47)__________ effect in resource consumption.\n(48)__________ the mathematics appears paradoxical at first glance, empirical examples abound in transport history. When New York City closed 42nd Street for Earth Day in 1990, traffic engineers documented a clear (49)__________ between the street closure and smoother vehicle flow across Midtown Manhattan. Similarly, after Stuttgart closed a newly built inner-city link road in 1969, average peak-hour delays (50)__________ back to their pre-construction levels.\nNone of this suggests that cities should demolish every bridge. Forward-thinking urban planners therefore (51)__________ road-network modelling with congestion pricing and dedicated bus lanes that prevent bottlenecks from forming. Highway capacity, in short, (52)__________: it can connect isolated regions, yet in dense urban grids an extra lane can slow everyone down.\n<i>(Adapted from D. Braess, Transportation Science, and The New York Times)</i>"
+        "answer": 2,
+        "explanation": "delve into = đào sâu nghiên cứu. hurtle = lao vút; linger = nấn ná; barge into = xông vào.",
+        "passage": "<b>THE BRAESS PARADOX: WHY ADDING ROADS CAN SLOW TRAFFIC</b>\nIn 1968, after months (43)__________ into mathematical models of urban traffic networks, the German mathematician Dietrich Braess demonstrated a startling proposition: adding a new high-capacity shortcut to a congested road network would not necessarily ease gridlock, and could actually (44)__________ journey times for every single commuter. When Seoul demolished the elevated Cheonggyecheon six-lane highway in 2003 to uncover a historic stream, critics predicted chaos; yet, instead of worsening, cross-town traffic speeds (45)__________.\nThe explanation lies in game theory and selfish routing. Whenever a new shortcut (46)__________ the initial travel time between two arterial avenues, rational drivers abandon secondary routes and converge on the same junction, creating a bottleneck that economists compare to the (47)__________ effect in consumer markets.\nParadoxical (48)__________ the mathematics may appear at first glance, empirical examples abound in transport history. When New York City closed 42nd Street for Earth Day in 1990, traffic engineers documented a clear (49)__________ between the street closure and smoother vehicle flow across Midtown Manhattan. Similarly, after Stuttgart closed a newly built inner-city link road in 1969, average peak-hour delays (50)__________ to their pre-construction levels.\nNone of this suggests that cities should demolish every bridge. Forward-thinking urban planners therefore (51)__________ road-network modelling with congestion pricing and dedicated bus lanes that prevent bottlenecks from forming. Highway capacity, in short, carries a sting in its (52)__________: it can connect isolated regions, yet in dense urban grids an extra lane can slow everyone down.\n<i>(Adapted from D. Braess, Transportation Science, and The New York Times)</i>"
       },
       {
         "origNum": 44,
@@ -4062,104 +4062,104 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "tailed off",
-          "shot up",
-          "died down",
-          "wore off"
+          "dropped off",
+          "gave out",
+          "faded away",
+          "picked up"
         ],
-        "answer": 1,
-        "explanation": "shot up = tăng vọt (tốc độ giao thông tăng lên thay vì tệ đi)."
+        "answer": 3,
+        "explanation": "pick up = tăng lên, khá lên (tốc độ). drop off = giảm; give out = cạn kiệt; fade away = tan biến."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "turns down",
-          "brings down",
-          "puts down",
-          "lets down"
+          "adds",
+          "cuts",
+          "piles",
+          "gains"
         ],
         "answer": 1,
-        "explanation": "bring down the travel time (làm giảm thời gian di chuyển ban đầu)."
+        "explanation": "cut the travel time = rút ngắn thời gian di chuyển. add/pile/gain mang nghĩa tăng thêm, không hợp ngữ cảnh."
       },
       {
         "origNum": 47,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "placebo",
-          "rebound",
-          "halo",
-          "doppler"
+          "greenhouse",
+          "doppler",
+          "bandwagon",
+          "halo"
         ],
-        "answer": 1,
-        "explanation": "rebound effect (hiệu ứng bật lại)."
+        "answer": 2,
+        "explanation": "bandwagon effect = hiệu ứng đám đông: ai cũng đổ xô theo cùng một lựa chọn (cùng dồn về một giao lộ). greenhouse = nhà kính; Doppler = hiệu ứng sóng; halo = vầng hào quang."
       },
       {
         "origNum": 48,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Seeing that",
-          "Much as",
-          "Provided that",
-          "Insofar as"
+          "as",
+          "that",
+          "although",
+          "despite"
         ],
-        "answer": 1,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 0,
+        "explanation": "Tính từ + as + S + may/V = dù … đến mấy (đảo tính từ để nhượng bộ). that/although/despite không dùng trong cấu trúc này."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "discrepancy",
-          "correlation",
-          "collision",
-          "departure"
+          "assertion",
+          "assumption",
+          "assurance",
+          "association"
         ],
-        "answer": 1,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 3,
+        "explanation": "association between A and B = mối liên quan giữa A và B. assertion = lời khẳng định; assumption = giả định; assurance = sự đảm bảo."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "soared",
-          "plummeted",
-          "escalated",
-          "multiplied"
+          "revolted",
+          "reversed",
+          "revived",
+          "reverted"
         ],
-        "answer": 1,
-        "explanation": "plummeted back to... (giảm mạnh trở về mức trước khi xây)."
+        "answer": 3,
+        "explanation": "revert to = quay trở lại (mức cũ). revolt = nổi loạn; reverse = đảo ngược; revive = hồi sinh."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "compliment",
-          "complement",
-          "supplant",
-          "contaminate"
+          "pair",
+          "pare",
+          "peer",
+          "pore"
         ],
-        "answer": 1,
-        "explanation": "complement A with B (bổ trợ quy hoạch mạng lưới đường bằng phí chống ùn tắc)."
+        "answer": 0,
+        "explanation": "pair A with B = kết hợp A với B. pare = gọt, cắt bớt; peer = nhìn chăm chú; pore (over) = nghiền ngẫm."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "misses the boat",
-          "cuts both ways",
-          "hits the sack",
-          "toes the line"
+          "head",
+          "tail",
+          "back",
+          "wing"
         ],
         "answer": 1,
-        "explanation": "cuts both ways = có hai mặt."
+        "explanation": "a sting in the tail = điểm bất lợi cay đắng ở phần cuối (thành ngữ)."
       }
     ],
     "5": [
@@ -4168,14 +4168,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "wading",
-          "hovering",
-          "poring",
-          "hanging"
+          "stooping",
+          "stuttering",
+          "stirring",
+          "sulking"
         ],
-        "answer": 2,
-        "explanation": "pore over (chăm chú tìm kiếm/nghiền ngẫm mặt vỉa hè dưới cột đèn).",
-        "passage": "<b>THE STREETLIGHT EFFECT IN SCIENTIFIC RESEARCH</b>\nThere is an old parable about a man seen (43)__________ over the pavement beneath a lamppost at midnight, searching for his lost house keys. When a passing police officer asks if he dropped them there, the man replies, ‘No, I dropped them in the dark park across the road, but the light is much better here.’ Sociologists of science warn that modern data-driven research can easily fall into the same trap, which does not broaden human inquiry but can (44)__________ it.\nWhenever automated sensors or digital archives make one specific dataset effortless to download, the number of academic papers analysing that dataset (45)__________, while harder-to-measure questions remain in the dark. Whenever technology (46)__________ the cost of collecting a particular metric, researchers naturally gravitate toward it, a bias methodologists call the (47)__________ effect.\n(48)__________ big-data analytics has revolutionised fields from genomics to economics, over-reliance on convenient data carries real risks. In medical research, for example, historians have noted a troubling (49)__________ between the availability of insurance billing records and the neglect of rural populations who pay for clinic visits in cash. Once the cost of sequencing standard laboratory model organisms had (50)__________ in the 2000s, funding for field taxonomy of wild tropical species struggled to keep pace.\nNone of this means that large digital databases are unhelpful. Wise funding councils therefore (51)__________ big-data grants with dedicated fellowships for qualitative fieldwork in under-studied regions. Convenient measurement, in short, (52)__________: it illuminates what lies directly beneath the lamp, but can blind us to the vital questions waiting in the shadows.\n<i>(Adapted from D. H. Freedman, Why Scientific Studies Are So Often Wrong, and Nature)</i>"
+        "answer": 0,
+        "explanation": "stoop over = cúi người xuống (hợp với việc tìm chìa khóa dưới đất). stutter = nói lắp; stir = khuấy; sulk = hờn dỗi.",
+        "passage": "<b>THE STREETLIGHT EFFECT IN SCIENTIFIC RESEARCH</b>\nThere is an old parable about a man seen (43)__________ over the pavement beneath a lamppost at midnight, searching for his lost house keys. When a passing police officer asks if he dropped them there, the man replies, ‘No, I dropped them in the dark park across the road, but the light is much better here.’ Sociologists of science warn that modern data-driven research can easily fall into the same trap, which does not broaden human inquiry but can (44)__________ it.\nWhenever automated sensors or digital archives make one specific dataset effortless to download, the number of academic papers analysing that dataset (45)__________, while harder-to-measure questions remain in the dark. Whenever technology (46)__________ the cost of collecting a particular metric, researchers naturally gravitate toward it, a bias methodologists call the (47)__________ effect.\n(48)__________ big-data analytics has revolutionised fields from genomics to economics, over-reliance on convenient data carries real risks. In medical research, for example, historians have noted a troubling (49)__________ between the availability of insurance billing records and the neglect of rural populations who pay for clinic visits in cash. Once the cost of sequencing standard laboratory model organisms had (50)__________ in the 2000s, funding for field taxonomy of wild tropical species struggled to keep pace.\nNone of this means that large digital databases are unhelpful. Wise funding councils therefore (51)__________ big-data grants with dedicated fellowships for qualitative fieldwork in under-studied regions. Convenient measurement, in short, is a poisoned (52)__________: it illuminates what lies directly beneath the lamp, but can blind us to the vital questions waiting in the shadows.\n<i>(Adapted from D. H. Freedman, Why Scientific Studies Are So Often Wrong, and Nature)</i>"
       },
       {
         "origNum": 44,
@@ -4195,26 +4195,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "levels off",
-          "tails off",
-          "shoots up",
-          "wears off"
+          "dwindles",
+          "withers",
+          "falters",
+          "mushrooms"
         ],
-        "answer": 2,
-        "explanation": "shoots up = tăng vọt."
+        "answer": 3,
+        "explanation": "mushroom = tăng nhanh, mọc lên như nấm. dwindle = giảm dần; wither = héo úa; falter = chùn bước."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "takes down",
-          "turns down",
-          "brings down",
-          "puts down"
+          "smashes",
+          "splashes",
+          "slashes",
+          "slams"
         ],
         "answer": 2,
-        "explanation": "bring down the cost (hạ chi phí thu thập số liệu)."
+        "explanation": "slash the cost = cắt giảm mạnh chi phí. smash = đập vỡ; splash = làm bắn tóe; slam = đóng sầm."
       },
       {
         "origNum": 47,
@@ -4234,65 +4234,65 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "So long as",
-          "Inasmuch as",
-          "Much as",
-          "Now that"
+          "Despite",
+          "In spite",
+          "Despite the fact that",
+          "Instead of the fact that"
         ],
         "answer": 2,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "explanation": "Despite the fact that + mệnh đề = mặc dù. Despite + N/V-ing; “In spite” thiếu “of”; instead of không mang nghĩa nhượng bộ."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "juncture",
-          "discrepancy",
-          "correlation",
-          "proximity"
+          "disposal",
+          "disparity",
+          "display",
+          "disguise"
         ],
-        "answer": 2,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 1,
+        "explanation": "disparity between A and B = sự chênh lệch giữa A và B. disposal = sự vứt bỏ; display = sự trưng bày; disguise = sự ngụy trang."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "escalated",
-          "skyrocketed",
-          "plummeted",
-          "ballooned"
+          "slumped",
+          "slammed",
+          "slotted",
+          "sloshed"
         ],
-        "answer": 2,
-        "explanation": "plummeted = giảm mạnh (chi phí giải trình tự gen giảm mạnh)."
+        "answer": 0,
+        "explanation": "slump = sụt giảm mạnh. slam = đóng sầm; slot = xếp vào khe; slosh = văng tóe."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "supplant",
-          "compliment",
-          "complement",
-          "implement"
+          "balloon",
+          "balance",
+          "banish",
+          "baffle"
         ],
-        "answer": 2,
-        "explanation": "complement A with B (bổ trợ các khoản tài trợ dữ liệu lớn bằng học bổng điền dã)."
+        "answer": 1,
+        "explanation": "balance A with B = cân bằng A với B. balloon = phồng lên; banish = trục xuất; baffle = làm bối rối."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "rings a bell",
-          "holds water",
-          "cuts both ways",
-          "goes without saying"
+          "chalice",
+          "cradle",
+          "cargo",
+          "canvas"
         ],
-        "answer": 2,
-        "explanation": "cuts both ways = có hai mặt."
+        "answer": 0,
+        "explanation": "a poisoned chalice = món quà tưởng tốt nhưng ẩn họa (thành ngữ)."
       }
     ],
     "6": [
@@ -4301,40 +4301,40 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "wading",
-          "hovering",
-          "hanging",
-          "poring"
+          "combining",
+          "coaxing",
+          "cornering",
+          "combing"
         ],
         "answer": 3,
-        "explanation": "pore over + history/records (nghiên cứu, nghiền ngẫm lịch sử chính sách).",
-        "passage": "<b>THE COBRA EFFECT: WHEN INCENTIVES BACKFIRE</b>\nAfter decades (43)__________ over the history of colonial and modern economic policy, the German economist Horst Siebert coined a vivid term for poorly designed rewards that do not solve a social problem but inadvertently (44)__________ it. According to the famous anecdote set in nineteenth-century Delhi, the authorities offered a cash bounty for every dead venomous cobra brought to the municipal office; yet, instead of disappearing, the city’s cobra population ultimately (45)__________ after enterprising residents began breeding the snakes in sheds for the reward.\nWhen the authorities realised what was happening and cancelled the bounty, breeders released their now-worthless snakes into the streets. Whenever a policy (46)__________ a complex civic goal to a single monetised target, human ingenuity finds ways to game the metric—a pathology that economists call the (47)__________ effect.\n(48)__________ the Delhi snake story may be apocryphal, documented cases in modern governance are all too real. When Mexico City introduced its ‘Hoy No Circula’ licence-plate ban in 1989, forbidding each car from driving one weekday per week, researchers found a clear (49)__________ between the restriction and a surge in second-hand car imports, as affluent commuters bought a cheap, high-emission second vehicle with a different plate number. Meanwhile, after colonial authorities in Hanoi offered a bounty for rat tails in 1902, sightings of healthy, tailless rats (50)__________ across the city’s sewers.\nNone of this implies that incentives are inherently flawed. Prudent policymakers therefore (51)__________ financial rewards with independent audits and holistic outcome measures. Monetary bounties, in short, (52)__________: they can mobilise rapid public participation, yet if poorly framed they can breed the very pest they were meant to eradicate.\n<i>(Adapted from H. Siebert, Der Kobra-Effekt (2001), and M. Vann, Journal of Colonialism and Colonial History)</i>"
+        "explanation": "comb through = lục soát kỹ lưỡng. combine = kết hợp; coax = dỗ dành; corner = dồn vào chân tường.",
+        "passage": "<b>THE COBRA EFFECT: WHEN INCENTIVES BACKFIRE</b>\nAfter decades (43)__________ through the history of colonial and modern economic policy, the German economist Horst Siebert coined a vivid term for poorly designed rewards that do not solve a social problem but inadvertently (44)__________ it. According to the famous anecdote set in nineteenth-century Delhi, the authorities offered a cash bounty for every dead venomous cobra brought to the municipal office; yet, instead of disappearing, the city’s cobra population ultimately (45)__________ after enterprising residents began breeding the snakes in sheds for the reward.\nWhen the authorities realised what was happening and cancelled the bounty, breeders released their now-worthless snakes into the streets. Whenever a policy (46)__________ a complex civic goal to a single monetised target, human ingenuity finds ways to game the metric—a pathology that economists call the (47)__________ effect.\n(48)__________ the Delhi snake story may be apocryphal, documented cases in modern governance are all too real. When Mexico City introduced its ‘Hoy No Circula’ licence-plate ban in 1989, forbidding each car from driving one weekday per week, researchers found a clear (49)__________ between the restriction and a surge in second-hand car imports, as affluent commuters bought a cheap, high-emission second vehicle with a different plate number. Meanwhile, after colonial authorities in Hanoi offered a bounty for rat tails in 1902, sightings of healthy, tailless rats (50)__________ across the city’s sewers.\nNone of this implies that incentives are inherently flawed. Prudent policymakers therefore (51)__________ financial rewards with independent audits and holistic outcome measures. Monetary bounties, in short, are a mixed (52)__________: they can mobilise rapid public participation, yet if poorly framed they can breed the very pest they were meant to eradicate.\n<i>(Adapted from H. Siebert, Der Kobra-Effekt (2001), and M. Vann, Journal of Colonialism and Colonial History)</i>"
       },
       {
         "origNum": 44,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "assuage",
-          "alleviate",
-          "mitigate",
-          "exacerbate"
+          "aggregate",
+          "aggravate",
+          "aggrandise",
+          "agitate"
         ],
-        "answer": 3,
-        "explanation": "exacerbate (làm trầm trọng thêm vấn đề) đối lập với “solve”."
+        "answer": 1,
+        "explanation": "aggravate = làm trầm trọng thêm (aggravate a problem). aggregate = gộp lại; aggrandise = tâng bốc, phóng đại; agitate = khuấy động."
       },
       {
         "origNum": 45,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "died down",
-          "tailed off",
-          "levelled off",
-          "shot up"
+          "receded",
+          "dissolved",
+          "snowballed",
+          "evaporated"
         ],
-        "answer": 3,
-        "explanation": "shot up = tăng vọt (đối lập với “instead of disappearing”)."
+        "answer": 2,
+        "explanation": "snowball = tăng lên nhanh chóng như quả cầu tuyết. recede = rút đi; dissolve = tan ra; evaporate = bốc hơi."
       },
       {
         "origNum": 46,
@@ -4367,65 +4367,65 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Insofar as",
+          "Now that",
+          "Granted that",
           "Seeing that",
-          "Provided that",
-          "Much as"
+          "So long as"
         ],
-        "answer": 3,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 1,
+        "explanation": "Granted that + mệnh đề = cứ cho là (nhượng bộ). Now that = vì bây giờ; Seeing that = xét thấy rằng; So long as = miễn là."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "departure",
-          "discrepancy",
-          "collision",
-          "correlation"
+          "relaxation",
+          "relegation",
+          "relationship",
+          "reluctance"
         ],
-        "answer": 3,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 2,
+        "explanation": "relationship between A and B = mối quan hệ giữa A và B. relaxation = sự thư giãn; relegation = sự xuống hạng; reluctance = sự miễn cưỡng."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "subsided",
-          "plummeted",
-          "waned",
-          "soared"
+          "prolonged",
+          "prohibited",
+          "proliferated",
+          "protracted"
         ],
-        "answer": 3,
-        "explanation": "soared = tăng vọt (số lượng chuột cụt đuôi khỏe mạnh tăng vọt)."
+        "answer": 2,
+        "explanation": "proliferate = sinh sôi nhanh chóng (nội động từ). prolong/protract = kéo dài (ngoại động từ); prohibit = cấm."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "contaminate",
-          "compliment",
-          "supplant",
-          "complement"
+          "tamper",
+          "tempt",
+          "temper",
+          "tender"
         ],
-        "answer": 3,
-        "explanation": "complement A with B (bổ trợ phần thưởng tài chính bằng kiểm toán độc lập)."
+        "answer": 2,
+        "explanation": "temper A with B = điều hòa, làm dịu A bằng B. tamper (with) = can thiệp bừa bãi; tempt = cám dỗ; tender = chào giá."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "go without saying",
-          "hold water",
-          "ring a bell",
-          "cut both ways"
+          "fortune",
+          "blessing",
+          "luck",
+          "fate"
         ],
-        "answer": 3,
-        "explanation": "cut both ways (chủ ngữ số nhiều “Monetary bounties”) = có hai mặt."
+        "answer": 1,
+        "explanation": "a mixed blessing = điều vừa có lợi vừa có hại (thành ngữ)."
       }
     ],
     "7": [
@@ -4434,14 +4434,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "poring",
-          "hovering",
-          "hanging",
-          "wading"
+          "scoring",
+          "scorning",
+          "scouring",
+          "scooping"
         ],
-        "answer": 0,
-        "explanation": "pore over + hydrological records (nghiền ngẫm hồ sơ thủy văn).",
-        "passage": "<b>THE IRRIGATION PARADOX: WHY DRIP PIPES CAN DRAIN AQUIFERS</b>\nFor decades, water-resource ministries assumed that subsidising high-tech drip irrigation would automatically leave more water in rivers and underground aquifers. After years (43)__________ over hydrological records from Spain, Morocco and the western United States, however, the economist Frank Ward and his colleagues concluded that more efficient sprinklers often do not reduce basin-wide water depletion, and can actually (44)__________ it. Drip lines deliver water directly to crop roots with minimal evaporation; yet, instead of falling, total groundwater extraction in many subsidised valleys (45)__________.\nThe reason is straightforward farm economics. Traditional flood irrigation wastes water on the surface, but much of that ‘wasted’ runoff seeps back down into the aquifer for downstream users. Whenever drip technology (46)__________ the water required per hectare, farmers use the saved water to expand their planted acreage or switch from drought-tolerant barley to thirsty, high-value orchards like almonds and avocados—an agricultural version of the (47)__________ effect.\n(48)__________ drip irrigation is indispensable for individual farm productivity, its basin-level hydrology is sobering. Satellite gravity measurements across Mediterranean river basins show a stark (49)__________ between drip-irrigation subsidies and accelerating aquifer decline. By the 2010s, the volume of return-flow water reaching natural wetlands in several modernised irrigation districts had (50)__________ by more than forty percent.\nNone of this means farmers should return to leaky earthen ditches. Astute water authorities therefore (51)__________ drip-irrigation grants with strict, metered caps on total groundwater extraction and bans on expanding irrigated acreage. Irrigation efficiency, in short, (52)__________: it grows more crop per drop, but without extraction limits it can leave the river itself bone dry.\n<i>(Adapted from F. A. Ward & M. Pulido-Velazquez, PNAS (2008), and Science)</i>"
+        "answer": 2,
+        "explanation": "scour + N = lùng sục, tìm kiếm kỹ. score = ghi điểm; scorn = khinh miệt; scoop = xúc, múc.",
+        "passage": "<b>THE IRRIGATION PARADOX: WHY DRIP PIPES CAN DRAIN AQUIFERS</b>\nFor decades, water-resource ministries assumed that subsidising high-tech drip irrigation would automatically leave more water in rivers and underground aquifers. After years (43)__________ hydrological records from Spain, Morocco and the western United States, however, the economist Frank Ward and his colleagues concluded that more efficient sprinklers often do not reduce basin-wide water depletion, and can actually (44)__________ it. Drip lines deliver water directly to crop roots with minimal evaporation; yet, instead of falling, total groundwater extraction in many subsidised valleys (45)__________.\nThe reason is straightforward farm economics. Traditional flood irrigation wastes water on the surface, but much of that ‘wasted’ runoff seeps back down into the aquifer for downstream users. Whenever drip technology (46)__________ the water required per hectare, farmers use the saved water to expand their planted acreage or switch from drought-tolerant barley to thirsty, high-value orchards like almonds and avocados—an agricultural version of the (47)__________ effect.\n(48)__________ drip irrigation is indispensable for individual farm productivity, its basin-level hydrology is sobering. Satellite gravity measurements across Mediterranean river basins show a stark (49)__________ between drip-irrigation subsidies and accelerating aquifer decline. By the 2010s, the volume of return-flow water reaching natural wetlands in several modernised irrigation districts had (50)__________ by more than forty percent.\nNone of this means farmers should return to leaky earthen ditches. Astute water authorities therefore (51)__________ drip-irrigation grants with strict, metered caps on total groundwater extraction and bans on expanding irrigated acreage. Irrigation efficiency, in short, comes with (52)__________ attached: it grows more crop per drop, but without extraction limits it can leave the river itself bone dry.\n<i>(Adapted from F. A. Ward & M. Pulido-Velazquez, PNAS (2008), and Science)</i>"
       },
       {
         "origNum": 44,
@@ -4461,104 +4461,104 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "shot up",
-          "tailed off",
-          "levelled off",
-          "wore off"
+          "sagged",
+          "rocketed",
+          "slackened",
+          "dipped"
         ],
-        "answer": 0,
-        "explanation": "shot up = tăng vọt (đối lập với “instead of falling”)."
+        "answer": 1,
+        "explanation": "rocket = tăng vọt. sag = trũng xuống; slacken = chậm lại; dip = giảm nhẹ."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "brings down",
-          "turns down",
-          "takes down",
-          "puts down"
+          "trips",
+          "trims",
+          "traps",
+          "trails"
         ],
-        "answer": 0,
-        "explanation": "bring down the water required (làm giảm lượng nước cần trên mỗi héc-ta)."
+        "answer": 1,
+        "explanation": "trim = cắt giảm bớt. trip = vấp ngã; trap = đặt bẫy; trail = kéo lê, theo sau."
       },
       {
         "origNum": 47,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "rebound",
-          "placebo",
           "halo",
-          "ripple"
+          "backfire",
+          "placebo",
+          "doppler"
         ],
-        "answer": 0,
-        "explanation": "rebound effect (hiệu ứng bật lại)."
+        "answer": 1,
+        "explanation": "backfire effect = hiệu ứng “gậy ông đập lưng ông”: tiết kiệm nước lại làm tổng lượng nước dùng tăng lên. halo = vầng hào quang; placebo = giả dược; Doppler = hiệu ứng sóng."
       },
       {
         "origNum": 48,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Much as",
-          "Inasmuch as",
-          "So long as",
-          "Now that"
+          "Whenever",
+          "Whichever",
+          "Whatsoever",
+          "Whilst"
         ],
-        "answer": 0,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 3,
+        "explanation": "Whilst = trong khi/mặc dù (dạng trang trọng của while, dùng để nhượng bộ hoặc đối lập). Whenever = bất cứ khi nào; Whichever = bất cứ cái nào; Whatsoever = chút nào (nhấn mạnh phủ định)."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "correlation",
-          "discrepancy",
-          "juncture",
-          "proximity"
+          "tension",
+          "tendency",
+          "tenancy",
+          "tenure"
         ],
         "answer": 0,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "explanation": "tension between A and B = sự căng thẳng/xung đột giữa A và B. tendency = xu hướng; tenancy = quyền thuê; tenure = nhiệm kỳ."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "plummeted",
-          "soared",
-          "escalated",
-          "ballooned"
+          "dazzled",
+          "dwindled",
+          "dangled",
+          "dawdled"
         ],
-        "answer": 0,
-        "explanation": "plummeted by more than forty percent (sụt giảm mạnh hơn 40%)."
+        "answer": 1,
+        "explanation": "dwindle = teo tóp, giảm dần. dazzle = làm lóa mắt; dangle = đung đưa; dawdle = la cà."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "complement",
-          "compliment",
-          "supplant",
-          "contaminate"
+          "reimburse",
+          "reinstate",
+          "rejuvenate",
+          "reinforce"
         ],
-        "answer": 0,
-        "explanation": "complement A with B (bổ trợ trợ cấp tưới nhỏ giọt bằng hạn mức khai thác nước ngầm)."
+        "answer": 3,
+        "explanation": "reinforce A with B = củng cố A bằng B. reimburse = hoàn tiền; reinstate = phục hồi chức vụ; rejuvenate = làm trẻ lại."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "cuts both ways",
-          "holds water",
-          "rings a bell",
-          "goes without saying"
+          "labels",
+          "tags",
+          "ribbons",
+          "strings"
         ],
-        "answer": 0,
-        "explanation": "cuts both ways = có hai mặt."
+        "answer": 3,
+        "explanation": "with strings attached = kèm điều kiện ràng buộc (thành ngữ)."
       }
     ],
     "8": [
@@ -4567,14 +4567,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "hovering",
-          "poring",
-          "hanging",
-          "wading"
+          "scattering",
+          "scrambling",
+          "scratching",
+          "scrutinising"
         ],
-        "answer": 1,
-        "explanation": "pore over + incident logs (nghiền ngẫm nhật ký sự cố).",
-        "passage": "<b>THE AUTOMATION PARADOX IN COCKPITS AND CONTROL ROOMS</b>\nIn 1983, after years (43)__________ over industrial-control and aviation incident logs, the engineering psychologist Lisanne Bainbridge published a classic paper titled ‘Ironies of Automation’. She warned that handing routine tasks to computers does not eliminate human error, and in critical emergencies can actually (44)__________ the difficulty of the human operator’s job. Modern autopilots handle ninety-nine percent of flight hours smoothly; yet, when sensors fail in severe icing, the cognitive workload on pilots suddenly (45)__________.\nThe irony is twofold. First, engineers automate all the easy, predictable tasks, leaving the human operator to handle only the rare, ambiguous failures that the algorithm could not solve. Second, whenever automation (46)__________ the need for daily manual practice, operators’ hands-on motor skills and mental models gradually rust—a phenomenon human-factors researchers call skill (47)__________.\n(48)__________ cockpit displays have grown far clearer since Bainbridge’s day, the underlying psychological trap persists in self-driving cars and power-grid control rooms. Simulator studies demonstrate a troubling (49)__________ between prolonged passive monitoring and delayed reaction times when an alarm finally sounds. In several documented aviation incidents, the crew’s situational awareness had (50)__________ during hours of quiet cruise before an unexpected sensor fault disconnected the autopilot.\nNone of this suggests we should rip computers out of airliners. Leading airlines therefore (51)__________ advanced flight-deck automation with mandatory manual-flying hours and ‘surprise’ simulator scenarios that keep reflexes sharp. Automation, in short, (52)__________: it filters out thousands of routine slips, but can leave human operators rusty at the exact moment they are needed most.\n<i>(Adapted from L. Bainbridge, Automatica (1983), and Human Factors)</i>"
+        "answer": 3,
+        "explanation": "scrutinise = xem xét kỹ lưỡng. scatter = rải rác; scramble = tranh giành, xáo trộn; scratch = cào, gãi.",
+        "passage": "<b>THE AUTOMATION PARADOX IN COCKPITS AND CONTROL ROOMS</b>\nIn 1983, after years (43)__________ industrial-control and aviation incident logs, the engineering psychologist Lisanne Bainbridge published a classic paper titled ‘Ironies of Automation’. She warned that handing routine tasks to computers does not eliminate human error, and in critical emergencies can actually (44)__________ the difficulty of the human operator’s job. Modern autopilots handle ninety-nine percent of flight hours smoothly; yet, when sensors fail in severe icing, the cognitive workload on pilots suddenly (45)__________.\nThe irony is twofold. First, engineers automate all the easy, predictable tasks, leaving the human operator to handle only the rare, ambiguous failures that the algorithm could not solve. Second, whenever automation (46)__________ the need for daily manual practice, operators’ hands-on motor skills and mental models gradually rust—a phenomenon human-factors researchers call skill (47)__________.\n(48)__________ cockpit displays have grown far clearer since Bainbridge’s day, the underlying psychological trap persists in self-driving cars and power-grid control rooms. Simulator studies demonstrate a troubling (49)__________ between prolonged passive monitoring and delayed reaction times when an alarm finally sounds. In several documented aviation incidents, the crew’s situational awareness had (50)__________ during hours of quiet cruise before an unexpected sensor fault disconnected the autopilot.\nNone of this suggests we should rip computers out of airliners. Leading airlines therefore (51)__________ advanced flight-deck automation with mandatory manual-flying hours and ‘surprise’ simulator scenarios that keep reflexes sharp. Automation, in short, has a flip (52)__________: it filters out thousands of routine slips, but can leave human operators rusty at the exact moment they are needed most.\n<i>(Adapted from L. Bainbridge, Automatica (1983), and Human Factors)</i>"
       },
       {
         "origNum": 44,
@@ -4594,26 +4594,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "tails off",
-          "shoots up",
-          "levels off",
-          "wears off"
+          "spikes",
+          "eases",
+          "sags",
+          "wanes"
         ],
-        "answer": 1,
-        "explanation": "shoots up = tăng vọt."
+        "answer": 0,
+        "explanation": "spike = tăng vọt đột ngột. ease = dịu bớt; sag = chùng xuống; wane = yếu dần."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "turns down",
-          "brings down",
-          "puts down",
-          "lets down"
+          "eliminates",
+          "elevates",
+          "eludes",
+          "elicits"
         ],
-        "answer": 1,
-        "explanation": "bring down the need for... (làm giảm nhu cầu thực hành thủ công hàng ngày)."
+        "answer": 0,
+        "explanation": "eliminate the need for = loại bỏ nhu cầu về. elevate = nâng lên; elude = lẩn tránh; elicit = gợi ra."
       },
       {
         "origNum": 47,
@@ -4633,26 +4633,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Seeing that",
-          "Much as",
-          "Provided that",
-          "Insofar as"
+          "Regardless of",
+          "Regardless of the fact that",
+          "Regarding the fact that",
+          "As regards of"
         ],
         "answer": 1,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "explanation": "regardless of the fact that + mệnh đề = bất kể việc/mặc dù. regardless of + N; regarding = liên quan đến; as regards of sai cấu trúc."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "discrepancy",
-          "correlation",
-          "collision",
-          "departure"
+          "interior",
+          "interview",
+          "interlude",
+          "interplay"
         ],
-        "answer": 1,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 3,
+        "explanation": "interplay between A and B = sự tác động qua lại giữa A và B. interior = bên trong; interview = phỏng vấn; interlude = đoạn xen kẽ."
       },
       {
         "origNum": 50,
@@ -4672,26 +4672,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "compliment",
-          "complement",
-          "supplant",
-          "contaminate"
+          "augment",
+          "argue",
+          "assemble",
+          "abandon"
         ],
-        "answer": 1,
-        "explanation": "complement A with B (bổ trợ tự động hóa buồng lái bằng giờ bay thủ công bắt buộc)."
+        "answer": 0,
+        "explanation": "augment A with B = bổ sung, tăng cường A bằng B. argue = tranh luận; assemble = lắp ráp; abandon = từ bỏ."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "misses the boat",
-          "cuts both ways",
-          "hits the sack",
-          "toes the line"
+          "face",
+          "edge",
+          "side",
+          "page"
         ],
-        "answer": 1,
-        "explanation": "cuts both ways = có hai mặt."
+        "answer": 2,
+        "explanation": "the flip side = mặt trái (của vấn đề) (thành ngữ)."
       }
     ],
     "9": [
@@ -4700,14 +4700,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "hanging",
-          "hovering",
-          "poring",
-          "wading"
+          "plunging",
+          "ploughing",
+          "plumbing",
+          "plucking"
         ],
-        "answer": 2,
-        "explanation": "pore over + flood-damage records (nghiền ngẫm hồ sơ thiệt hại lũ lụt).",
-        "passage": "<b>THE LEVY PROTECTION EFFECT ON FLOODPLAINS</b>\nAfter decades (43)__________ over historical flood-damage records along the Mississippi and Po rivers, the geographer Gilbert White formulated a famous warning in 1945: building higher concrete levees along a river does not eliminate flood losses, and over the long run can actually (44)__________ the scale of catastrophe when an extreme storm finally overtops the wall. Earthen and concrete dikes stop routine annual spring overflows; yet, instead of declining, average decade-by-decade property losses along many walled rivers (45)__________ during the twentieth century.\nThe mechanism is a collective blind spot. Once a towering levee hides the river from view, municipal zoning boards reclassify the floodplain as ‘safe’. Whenever flood walls (46)__________ the frequency of minor nuisance flooding, developers pour billions into building shopping malls, hospitals and housing estates right behind the embankment—a dynamic hydrologists call the (47)__________ effect.\n(48)__________ modern levees are engineered to higher standards than those of the 1940s, climate change is generating rainfall extremes that exceed historical design thresholds. Satellite mapping of major river deltas reveals a striking (49)__________ between levee construction and rapid urban sprawl on low-lying land. Meanwhile, because concrete channels prevent rivers from spreading out across natural upstream marshes, the natural flood-storage capacity of many basins has (50)__________ to a fraction of its nineteenth-century level.\nNone of this implies that cities should dynamite their flood walls. Forward-looking water boards in the Netherlands—under their ‘Room for the River’ programme—therefore (51)__________ urban dikes with setback floodplains and agricultural bypass meadows that safely absorb peak surges. Flood defences, in short, (52)__________: they protect existing towns from moderate highs, but if treated as invincible they can turn a rare storm into a historic disaster.\n<i>(Adapted from G. F. White, Human Adjustment to Floods (1945), and Nature Climate Change)</i>"
+        "answer": 1,
+        "explanation": "plough through = miệt mài xử lý (khối lượng lớn tài liệu). plunge = lao xuống; plumb = dò đo (độ sâu); pluck = nhổ, bứt.",
+        "passage": "<b>THE LEVY PROTECTION EFFECT ON FLOODPLAINS</b>\nAfter decades (43)__________ through historical flood-damage records along the Mississippi and Po rivers, the geographer Gilbert White formulated a famous warning in 1945: building higher concrete levees along a river does not eliminate flood losses, and over the long run can actually (44)__________ the scale of catastrophe when an extreme storm finally overtops the wall. Earthen and concrete dikes stop routine annual spring overflows; yet, instead of declining, average decade-by-decade property losses along many walled rivers (45)__________ during the twentieth century.\nThe mechanism is a collective blind spot. Once a towering levee hides the river from view, municipal zoning boards reclassify the floodplain as ‘safe’. Whenever flood walls (46)__________ the frequency of minor nuisance flooding, developers pour billions into building shopping malls, hospitals and housing estates right behind the embankment—a dynamic hydrologists call the (47)__________ effect.\n(48)__________ modern levees are engineered to higher standards than those of the 1940s, climate change is generating rainfall extremes that exceed historical design thresholds. Satellite mapping of major river deltas reveals a striking (49)__________ between levee construction and rapid urban sprawl on low-lying land. Meanwhile, because concrete channels prevent rivers from spreading out across natural upstream marshes, the natural flood-storage capacity of many basins has (50)__________ to a fraction of its nineteenth-century level.\nNone of this implies that cities should dynamite their flood walls. Forward-looking water boards in the Netherlands—under their ‘Room for the River’ programme—therefore (51)__________ urban dikes with setback floodplains and agricultural bypass meadows that safely absorb peak surges. Flood defences, in short, lull us into a false sense of (52)__________: they protect existing towns from moderate highs, but if treated as invincible they can turn a rare storm into a historic disaster.\n<i>(Adapted from G. F. White, Human Adjustment to Floods (1945), and Nature Climate Change)</i>"
       },
       {
         "origNum": 44,
@@ -4727,26 +4727,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "levelled off",
-          "tailed off",
-          "shot up",
-          "wore off"
+          "crept up",
+          "died away",
+          "fell through",
+          "wound down"
         ],
-        "answer": 2,
-        "explanation": "shot up = tăng vọt (đối lập với “instead of declining”)."
+        "answer": 0,
+        "explanation": "creep up = tăng dần dần. die away = lịm dần; fall through = thất bại; wind down = giảm dần."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "take down",
-          "turn down",
-          "bring down",
-          "put down"
+          "curve",
+          "curl",
+          "curse",
+          "curb"
         ],
-        "answer": 2,
-        "explanation": "bring down the frequency (làm giảm tần suất lũ nhỏ)."
+        "answer": 3,
+        "explanation": "curb = kiềm chế, hạn chế (chủ ngữ “flood walls” số nhiều → curb). curve = uốn cong; curl = làm xoăn; curse = nguyền rủa."
       },
       {
         "origNum": 47,
@@ -4766,65 +4766,65 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "So long as",
-          "Inasmuch as",
-          "Much as",
-          "Now that"
+          "Many though",
+          "Very though",
+          "Most though",
+          "Much though"
         ],
-        "answer": 2,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 3,
+        "explanation": "Much though + mệnh đề = dù … nhiều đến đâu (nhượng bộ, tương tự “much as”). Many/Very/Most though không dùng."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "juncture",
-          "discrepancy",
-          "correlation",
-          "proximity"
+          "overhaul",
+          "overlap",
+          "overdraft",
+          "overview"
         ],
-        "answer": 2,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 1,
+        "explanation": "overlap between A and B = sự chồng lấn, trùng khớp giữa A và B. overhaul = đại tu; overdraft = thấu chi; overview = cái nhìn tổng quan."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "escalated",
-          "soared",
-          "plummeted",
-          "ballooned"
+          "contacted",
+          "contrasted",
+          "contracted",
+          "contrived"
         ],
         "answer": 2,
-        "explanation": "plummeted to a fraction of... (sụt giảm mạnh xuống chỉ còn một phần nhỏ)."
+        "explanation": "contract = co lại, thu hẹp. contact = liên lạc; contrast = đối chiếu; contrive = bày ra, xoay xở."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "supplant",
-          "compliment",
-          "complement",
-          "contaminate"
+          "butcher",
+          "bruise",
+          "burnish",
+          "buttress"
         ],
-        "answer": 2,
-        "explanation": "complement A with B (bổ trợ đê đô thị bằng vùng thoát lũ tự nhiên)."
+        "answer": 3,
+        "explanation": "buttress A with B = củng cố, chống đỡ A bằng B. butcher = giết mổ, làm hỏng; bruise = làm bầm tím; burnish = đánh bóng."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "ring a bell",
-          "hold water",
-          "cut both ways",
-          "go without saying"
+          "surety",
+          "sanity",
+          "security",
+          "solidity"
         ],
         "answer": 2,
-        "explanation": "cut both ways = có hai mặt."
+        "explanation": "a false sense of security = cảm giác an toàn giả tạo (thành ngữ). surety = vật bảo đảm; sanity = sự tỉnh táo; solidity = sự vững chắc."
       }
     ],
     "10": [
@@ -4833,14 +4833,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "wading",
-          "hovering",
-          "hanging",
-          "poring"
+          "mulling",
+          "mauling",
+          "mooring",
+          "mustering"
         ],
-        "answer": 3,
-        "explanation": "pore over + data/treaties (nghiền ngẫm dữ liệu thị trường dầu mỏ).",
-        "passage": "<b>THE GREEN PARADOX IN RESOURCE ECONOMICS</b>\nAfter years (43)__________ over global oil-market data and climate treaties, the German economist Hans-Werner Sinn published a provocative 2008 book titled <i>The Green Paradox</i>. He argued that announcing gradual future subsidies for clean energy—or pre-announcing carbon taxes that will take effect ten years from now—does not automatically slow fossil-fuel extraction today, and can perversely (44)__________ it. When resource owners expect future demand for oil and coal to shrink, their incentive is to pump faster now; consequently, near-term extraction rates can (45)__________ before the green transition even begins.\nThe logic rests on the economics of exhaustible resources. A barrel of oil left in the ground is worth keeping only if its future price rises faster than interest rates. Whenever a government policy (46)__________ the expected future value of unextracted reserves without capping current supply, resource owners race to liquidate their underground assets while they still can—a market reaction economists call the green (47)__________.\n(48)__________ clean-energy innovation is essential, timing and supply-side rules matter immensely. Historical energy-market studies show a clear (49)__________ between pre-announced future environmental levies and short-term spikes in resource extraction prior to the implementation date. Once global solar-panel manufacturing costs had (50)__________ by eighty percent in the 2010s, several high-cost coal basins still expanded short-term output to capture remaining industrial contracts.\nNone of this means climate policy is futile. Thoughtful economists therefore (51)__________ renewable-energy subsidies with immediate emissions caps and supply-side leasing moratoria that keep fossil carbon in the ground. Climate policy design, in short, (52)__________: a well-timed cap hastens decarbonisation, whereas a delayed, telegraphed tax can trigger a last-minute rush to burn.\n<i>(Adapted from H.-W. Sinn, The Green Paradox (MIT Press, 2012), and Review of Environmental Economics and Policy)</i>"
+        "answer": 0,
+        "explanation": "mull over = cân nhắc, suy ngẫm kỹ. maul = tấn công, xé xác; moor = neo (tàu); muster = tập hợp.",
+        "passage": "<b>THE GREEN PARADOX IN RESOURCE ECONOMICS</b>\nAfter years (43)__________ over global oil-market data and climate treaties, the German economist Hans-Werner Sinn published a provocative 2008 book titled <i>The Green Paradox</i>. He argued that announcing gradual future subsidies for clean energy—or pre-announcing carbon taxes that will take effect ten years from now—does not automatically slow fossil-fuel extraction today, and can perversely (44)__________ it. When resource owners expect future demand for oil and coal to shrink, their incentive is to pump faster now; consequently, near-term extraction rates can (45)__________ before the green transition even begins.\nThe logic rests on the economics of exhaustible resources. A barrel of oil left in the ground is worth keeping only if its future price rises faster than interest rates. Whenever a government policy (46)__________ the expected future value of unextracted reserves without capping current supply, resource owners race to liquidate their underground assets while they still can—a market reaction economists call the green (47)__________.\n(48)__________ clean-energy innovation is essential, timing and supply-side rules matter immensely. Historical energy-market studies show a clear (49)__________ between pre-announced future environmental levies and short-term spikes in resource extraction prior to the implementation date. Once global solar-panel manufacturing costs had (50)__________ by eighty percent in the 2010s, several high-cost coal basins still expanded short-term output to capture remaining industrial contracts.\nNone of this means climate policy is futile. Thoughtful economists therefore (51)__________ renewable-energy subsidies with immediate emissions caps and supply-side leasing moratoria that keep fossil carbon in the ground. Climate policy design, in short, walks a (52)__________: a well-timed cap hastens decarbonisation, whereas a delayed, telegraphed tax can trigger a last-minute rush to burn.\n<i>(Adapted from H.-W. Sinn, The Green Paradox (MIT Press, 2012), and Review of Environmental Economics and Policy)</i>"
       },
       {
         "origNum": 44,
@@ -4860,26 +4860,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "wear off",
-          "tail off",
-          "level off",
-          "shoot up"
+          "subside",
+          "recede",
+          "escalate",
+          "abate"
         ],
-        "answer": 3,
-        "explanation": "shoot up = tăng vọt (sau modal verb “can”)."
+        "answer": 2,
+        "explanation": "escalate = leo thang, tăng nhanh. subside, recede, abate = giảm dần, dịu đi (ngược nghĩa)."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "puts down",
-          "turns down",
-          "takes down",
-          "brings down"
+          "erodes",
+          "erupts",
+          "errs",
+          "erects"
         ],
-        "answer": 3,
-        "explanation": "bring down the expected future value (làm giảm giá trị kỳ vọng tương lai)."
+        "answer": 0,
+        "explanation": "erode = làm xói mòn, làm giảm dần (giá trị). erupt = phun trào; err = mắc lỗi; erect = dựng lên."
       },
       {
         "origNum": 47,
@@ -4899,65 +4899,65 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Insofar as",
-          "Seeing that",
-          "Provided that",
-          "Much as"
+          "Notwithstanding of",
+          "Notwithstanding on",
+          "Notwithstanding the fact that",
+          "Not withstanding to"
         ],
-        "answer": 3,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 2,
+        "explanation": "notwithstanding the fact that + mệnh đề = mặc dù. notwithstanding không đi với of/on; “Not withstanding to” sai."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "departure",
-          "discrepancy",
-          "collision",
-          "correlation"
+          "nexus",
+          "nuance",
+          "novice",
+          "notion"
         ],
-        "answer": 3,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 0,
+        "explanation": "nexus between A and B = mối liên kết chặt chẽ giữa A và B. nuance = sắc thái; novice = người mới; notion = quan niệm."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "ballooned",
-          "soared",
-          "escalated",
-          "plummeted"
+          "collected",
+          "collapsed",
+          "collided",
+          "colluded"
         ],
-        "answer": 3,
-        "explanation": "plummeted by eighty percent (giảm mạnh tới 80%)."
+        "answer": 1,
+        "explanation": "collapse = sụp đổ, giảm mạnh. collect = thu thập; collide = va chạm; collude = thông đồng."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "contaminate",
-          "compliment",
-          "supplant",
-          "complement"
+          "back out",
+          "back off",
+          "back up",
+          "back down"
         ],
-        "answer": 3,
-        "explanation": "complement A with B (bổ trợ trợ cấp năng lượng tái tạo bằng trần phát thải tức thì)."
+        "answer": 2,
+        "explanation": "back up A with B = hậu thuẫn, củng cố A bằng B. back out = rút lui; back off = lùi lại; back down = nhượng bộ."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "toes the line",
-          "misses the boat",
-          "hits the sack",
-          "cuts both ways"
+          "highway",
+          "corridor",
+          "pavement",
+          "tightrope"
         ],
         "answer": 3,
-        "explanation": "cuts both ways = có hai mặt."
+        "explanation": "walk a tightrope = đi trên dây, giữ thế cân bằng mong manh và nhiều rủi ro (thành ngữ)."
       }
     ]
   },
@@ -5592,46 +5592,46 @@ window.examDatabase['lexico'] = {
         ],
         "answer": 0,
         "explanation": "ecological ramifications = những hệ lụy sinh thái phức tạp.",
-        "passage": "<b>DEEP-SEA MINING: TREASURE OR TRAGEDY?</b>\nThe race to harvest polymetallic nodules from the ocean floor has prompted an urgent debate over the ecological (26)__________ of industrialising the abyss. According to the International Seabed Authority’s recent environmental briefings, vast tracts of the Clarion-Clipperton Zone in the Pacific contain millions of tonnes of cobalt, nickel and manganese. Yet marine biologists warn that vacuuming up these potato-sized nodules could (27)__________ havoc on fragile abyssal ecosystems that have evolved in near-total darkness over millions of years.\nThe primary concern involves sediment plumes stirred up by collector vehicles: once suspended in mid-water, fine particles can drift for hundreds of kilometres and smother filter-feeding organisms. (28)__________, acoustic studies indicate that the continuous roar of seabed machinery and riser pipes could travel across entire ocean basins, disrupting whale migration routes. In such an environment, a single commercial mining contract could (29)__________ rise to irreversible biodiversity loss before scientists have even catalogued the species living there.\nOnly in the past few years (30)__________ to call for a precautionary moratorium until independent baseline studies are completed. Unless international negotiators establish binding environmental thresholds, the damage visible in early test tracks may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from Nature and International Union for Conservation of Nature Reports)</i>"
+        "passage": "<b>DEEP-SEA MINING: TREASURE OR TRAGEDY?</b>\nThe race to harvest polymetallic nodules from the ocean floor has prompted an urgent debate over the ecological (26)__________ of industrialising the abyss. According to the International Seabed Authority’s recent environmental briefings, vast tracts of the Clarion-Clipperton Zone in the Pacific contain millions of tonnes of cobalt, nickel and manganese. Yet marine biologists warn that vacuuming up these potato-sized nodules could (27)__________ irreversible damage on fragile abyssal ecosystems that have evolved in near-total darkness over millions of years.\nThe primary concern involves sediment plumes stirred up by collector vehicles: once suspended in mid-water, fine particles can drift for hundreds of kilometres and smother filter-feeding organisms. (28)__________, acoustic studies indicate that the continuous roar of seabed machinery and riser pipes could travel across entire ocean basins, disrupting whale migration routes. In such an environment, a single commercial mining contract could (29)__________ about irreversible biodiversity loss before scientists have even catalogued the species living there.\nOnly in the past few years (30)__________ to call for a precautionary moratorium until independent baseline studies are completed. Unless international negotiators establish binding environmental thresholds, the damage visible in early test tracks may prove to be just the thin end of the (31)__________.\n<i>(Adapted from Nature and International Union for Conservation of Nature Reports)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wring",
-          "wreak",
-          "wrest",
-          "wreathe"
+          "afflict",
+          "inflict",
+          "indict",
+          "convict"
         ],
         "answer": 1,
-        "explanation": "wreak havoc on (gây tàn phá nặng nề)."
+        "explanation": "inflict damage on = gây thiệt hại nặng nề cho. afflict + người/vật (afflict sb with sth); indict = truy tố; convict = kết án."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "What is more",
-          "Conversely",
+          "Nevertheless",
           "Otherwise",
-          "By contrast"
+          "Furthermore",
+          "In contrast"
         ],
-        "answer": 0,
-        "explanation": "What is more = Hơn thế nữa (bổ sung luận điểm nghiêm trọng tiếp theo)."
+        "answer": 2,
+        "explanation": "Furthermore = hơn nữa (bổ sung thêm một tác hại khác). Nevertheless = tuy nhiên; Otherwise = nếu không thì; In contrast = trái lại."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "put",
+          "carry",
+          "run",
           "bring",
-          "give",
-          "lend"
+          "hand"
         ],
         "answer": 2,
-        "explanation": "give rise to = gây ra, dẫn tới."
+        "explanation": "bring about = gây ra, đem lại. carry/run/hand + about không tạo thành cụm có nghĩa phù hợp."
       },
       {
         "origNum": 30,
@@ -5651,13 +5651,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "peak",
-          "crest",
-          "tip",
-          "summit"
+          "lever",
+          "blade",
+          "wedge",
+          "spike"
         ],
         "answer": 2,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "explanation": "the thin end of the wedge = dấu hiệu ban đầu của điều tồi tệ hơn sắp đến (thành ngữ)."
       },
       {
         "origNum": 32,
@@ -5691,13 +5691,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "On behalf of",
-          "In recognition of",
-          "In defiance of",
-          "By means of"
+          "Of",
+          "For",
+          "By",
+          "At"
         ],
         "answer": 1,
-        "explanation": "In recognition of = để ghi nhận đóng góp của ông."
+        "explanation": "For + cụm danh từ, S + V … = vì/để ghi nhận (đóng góp). Of, By, At không dùng được ở đầu câu với nghĩa này."
       },
       {
         "origNum": 35,
@@ -5717,13 +5717,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "A great deal",
-          "A large number",
           "Much",
-          "An amount"
+          "Little",
+          "A great deal",
+          "The majority"
         ],
-        "answer": 1,
-        "explanation": "A large number of + danh từ đếm được số nhiều (the rural districts) + V số nhiều."
+        "answer": 3,
+        "explanation": "the majority of + N số nhiều = phần lớn. Much/Little/A great deal of dùng với danh từ không đếm được."
       },
       {
         "origNum": 37,
@@ -5816,7 +5816,7 @@ window.examDatabase['lexico'] = {
         ],
         "answer": 1,
         "explanation": "obviate (loại bỏ hoàn toàn nhu cầu) đối lập với việc chỉ giảm nhẹ.",
-        "passage": "<b>THE PARADOX OF PAPERLESS OFFICES</b>\nWhen the philosopher and futurist Alvin Toffler predicted in 1970 that networked computers would usher in a ‘paperless office’, few doubted his vision. Digital screens, the argument went, would not merely reduce the corporate appetite for pulp and ink but would (43)__________ it altogether. Yet over the four decades that followed the arrival of the personal computer, global consumption of office paper did not shrink; on the contrary, it (44)__________ by more than 200 percent.\nThe explanation, sociologists Sellen and Harper demonstrated in their landmark study <i>The Myth of the Paperless Office</i>, lies in the way digital tools lower the friction of document distribution. Whenever email and laser printers (45)__________ the effort required to access and reproduce a report, employees print out more drafts for reading and annotation, a phenomenon that behavioural economists liken to the (46)__________ effect in energy use.\n(47)__________ screen resolution has improved dramatically in recent years, physical paper retains cognitive affordances that glass tablets struggle to match. Laboratory experiments show a clear (48)__________ between spatial navigation on paper pages and deeper reading comprehension. By the early 2010s, the cost of printing a single page had (49)__________ to a fraction of a penny, encouraging workers to print lengthy attachments ‘just in case’.\nNone of this implies that digitisation is pointless. Forward-looking organisations therefore (50)__________ cloud workflows with default duplex-printing locks and paper-quota dashboards. Digital technology, in short, (51)__________: it eliminates the need for filing cabinets of carbon copies, yet can effortlessly (52)__________ the volume of transient paper passing across our desks.\n<i>(Adapted from A. J. Sellen & R. H. R. Harper, The Myth of the Paperless Office, MIT Press)</i>"
+        "passage": "<b>THE PARADOX OF PAPERLESS OFFICES</b>\nWhen the philosopher and futurist Alvin Toffler predicted in 1970 that networked computers would usher in a ‘paperless office’, few doubted his vision. Digital screens, the argument went, would not merely reduce the corporate appetite for pulp and ink but would (43)__________ it altogether. Yet over the four decades that followed the arrival of the personal computer, global consumption of office paper did not shrink; on the contrary, it (44)__________ by more than 200 percent.\nThe explanation, sociologists Sellen and Harper demonstrated in their landmark study <i>The Myth of the Paperless Office</i>, lies in the way digital tools lower the friction of document distribution. Whenever email and laser printers (45)__________ the effort required to access and reproduce a report, employees print out more drafts for reading and annotation, a phenomenon that behavioural economists liken to the (46)__________ effect in energy use.\n(47)__________ screen resolution has improved dramatically in recent years, physical paper retains cognitive affordances that glass tablets struggle to match. Laboratory experiments show a clear (48)__________ between spatial navigation on paper pages and deeper reading comprehension. By the early 2010s, the cost of printing a single page had (49)__________ to a fraction of a penny, encouraging workers to print lengthy attachments ‘just in case’.\nNone of this implies that digitisation is pointless. Forward-looking organisations therefore (50)__________ cloud workflows with default duplex-printing locks and paper-quota dashboards. Digital technology, in short, is a double-edged (51)__________: it eliminates the need for filing cabinets of carbon copies, yet can effortlessly (52)__________ the volume of transient paper passing across our desks.\n<i>(Adapted from A. J. Sellen & R. H. R. Harper, The Myth of the Paperless Office, MIT Press)</i>"
       },
       {
         "origNum": 44,
@@ -5836,91 +5836,91 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "turn down",
-          "put down",
-          "let down",
-          "bring down"
+          "lower",
+          "elevate",
+          "augment",
+          "amplify"
         ],
-        "answer": 3,
-        "explanation": "bring down the effort/cost (làm giảm công sức/chi phí)."
+        "answer": 0,
+        "explanation": "lower the effort required = giảm bớt công sức cần bỏ ra. elevate/augment/amplify = nâng lên/tăng thêm (ngược nghĩa)."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "rebound",
-          "ripple",
-          "halo",
-          "placebo"
+          "bandwagon",
+          "placebo",
+          "boomerang",
+          "domino"
         ],
-        "answer": 0,
-        "explanation": "rebound effect (hiệu ứng bật lại trong kinh tế học hành vi)."
+        "answer": 2,
+        "explanation": "boomerang effect = hiệu ứng “ném ra rồi quay về”: hành động gây ra kết quả ngược mục đích (màn hình số lại làm in nhiều giấy hơn). bandwagon = chạy theo đám đông; placebo = giả dược; domino = hiệu ứng dây chuyền."
       },
       {
         "origNum": 47,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Seeing that",
-          "Much as",
-          "Provided that",
-          "Insofar as"
+          "Despite",
+          "Although",
+          "Unless",
+          "Because"
         ],
         "answer": 1,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "explanation": "Although + mệnh đề (S + V) = mặc dù. Despite + N/V-ing; Unless = trừ khi; Because = bởi vì (không hợp nghĩa nhượng bộ)."
       },
       {
         "origNum": 48,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "discrepancy",
-          "collision",
-          "departure",
-          "correlation"
+          "paradox",
+          "parallel",
+          "parable",
+          "paradigm"
         ],
-        "answer": 3,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 1,
+        "explanation": "a clear parallel between A and B = sự tương đồng rõ rệt giữa A và B. paradox = nghịch lý; parable = truyện ngụ ngôn; paradigm = mô hình, hệ hình."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "plummeted",
-          "escalated",
-          "lingered",
-          "fluctuated"
+          "trebled",
+          "towered",
+          "tripped",
+          "tumbled"
         ],
-        "answer": 0,
-        "explanation": "plummeted to a fraction of a penny (giảm mạnh xuống chưa đầy một xu)."
+        "answer": 3,
+        "explanation": "tumble to = rơi mạnh xuống mức … treble = tăng gấp ba; tower = cao vượt lên; trip = vấp ngã."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "compliment",
-          "supplant",
-          "complement",
-          "contaminate"
+          "supplement",
+          "suppress",
+          "supplicate",
+          "supervise"
         ],
-        "answer": 2,
-        "explanation": "complement A with B (bổ trợ quy trình đám mây bằng khóa in hai mặt)."
+        "answer": 0,
+        "explanation": "supplement A with B = bổ sung A bằng B. suppress = đàn áp; supplicate = van xin; supervise = giám sát."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "misses the boat",
-          "cuts both ways",
-          "hits the sack",
-          "toes the line"
+          "knife",
+          "spear",
+          "sword",
+          "shield"
         ],
-        "answer": 1,
-        "explanation": "cuts both ways = có hai mặt (vừa lợi vừa hại)."
+        "answer": 2,
+        "explanation": "a double-edged sword = con dao hai lưỡi (vừa có lợi vừa có hại) – hợp với vế sau “it eliminates … yet can …”."
       },
       {
         "origNum": 52,
@@ -6072,53 +6072,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "denominations",
-          "repercussions",
-          "fluctuations",
-          "connotations"
+          "circumstances",
+          "consequences",
+          "conveniences",
+          "consultations"
         ],
         "answer": 1,
-        "explanation": "public-health repercussions = những hệ lụy đối với sức khỏe cộng đồng.",
-        "passage": "<b>ANTIBIOTIC RESISTANCE: THE SILENT PANDEMIC</b>\nThe overuse of antimicrobial drugs in medicine and livestock farming has forced a sobering reassessment of the public-health (26)__________ of treating antibiotics as disposable commodities. According to the World Health Organization’s latest surveillance data, drug-resistant bacterial infections already claim more than 1.2 million lives globally each year. Pathologists warn that if current trends continue, routine surgical procedures could soon (27)__________ havoc on hospital recovery wards as common post-operative microbes become untreatable.\nThe root of the crisis is evolutionary pressure: whenever an antibiotic wipes out susceptible bacteria, mutated strains survive and multiply. (28)__________, pharmaceutical investment in novel classes of antibiotics has stalled for decades because new drugs must be held in reserve as a last resort, making them commercially unattractive. Under such conditions, the misuse of a single broad-spectrum drug can (29)__________ rise to ‘superbugs’ capable of crossing continents within weeks.\nOnly recently (30)__________ to pioneer ‘subscription-style’ funding models that pay drugmakers a fixed annual fee for guaranteed access rather than sales volume. Unless hospitals and farms curb unnecessary prescriptions, the resistant strains detected today may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from World Health Organization Global Antimicrobial Resistance Surveillance Report)</i>"
+        "explanation": "public-health consequences = những hậu quả đối với sức khỏe cộng đồng. circumstances = hoàn cảnh; conveniences = sự tiện lợi; consultations = buổi tư vấn.",
+        "passage": "<b>ANTIBIOTIC RESISTANCE: THE SILENT PANDEMIC</b>\nThe overuse of antimicrobial drugs in medicine and livestock farming has forced a sobering reassessment of the public-health (26)__________ of treating antibiotics as disposable commodities. According to the World Health Organization’s latest surveillance data, drug-resistant bacterial infections already claim more than 1.2 million lives globally each year. Pathologists warn that if current trends continue, routine surgical procedures could soon (27)__________ a grave threat to hospital recovery wards as common post-operative microbes become untreatable.\nThe root of the crisis is evolutionary pressure: whenever an antibiotic wipes out susceptible bacteria, mutated strains survive and multiply. (28)__________, pharmaceutical investment in novel classes of antibiotics has stalled for decades because new drugs must be held in reserve as a last resort, making them commercially unattractive. Under such conditions, the misuse of a single broad-spectrum drug can (29)__________ in ‘superbugs’ capable of crossing continents within weeks.\nOnly recently (30)__________ to pioneer ‘subscription-style’ funding models that pay drugmakers a fixed annual fee for guaranteed access rather than sales volume. Unless hospitals and farms curb unnecessary prescriptions, the resistant strains detected today may prove to be the writing on the (31)__________.\n<i>(Adapted from World Health Organization Global Antimicrobial Resistance Surveillance Report)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wring",
-          "wreak",
-          "wrest",
-          "wreathe"
+          "impose",
+          "expose",
+          "pose",
+          "propose"
         ],
-        "answer": 1,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 2,
+        "explanation": "pose a threat to = gây ra mối đe dọa cho (cụm cố định). impose = áp đặt; expose = phơi bày; propose = đề xuất."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "Conversely",
-          "What is more",
+          "Meanwhile",
+          "Instead",
           "Otherwise",
-          "By contrast"
+          "Conversely"
         ],
-        "answer": 1,
-        "explanation": "What is more = Hơn thế nữa (bổ sung luận điểm làm vấn đề trầm trọng hơn)."
+        "answer": 0,
+        "explanation": "Meanwhile = trong khi đó (diễn biến song song). Instead = thay vào đó; Otherwise = nếu không thì; Conversely = ngược lại."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "put",
-          "give",
-          "bring",
-          "lend"
+          "arise",
+          "result",
+          "stem",
+          "derive"
         ],
         "answer": 1,
-        "explanation": "give rise to = gây ra, làm phát sinh."
+        "explanation": "result in = dẫn đến, gây ra. arise (in), stem (from), derive (from) mang nghĩa “bắt nguồn từ” và dùng giới từ khác."
       },
       {
         "origNum": 30,
@@ -6138,26 +6138,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "peak",
-          "tip",
-          "crest",
-          "top"
+          "door",
+          "wall",
+          "board",
+          "floor"
         ],
         "answer": 1,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "explanation": "the writing on the wall = điềm báo rõ ràng về điều xấu sắp xảy ra (thành ngữ)."
       },
       {
         "origNum": 32,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "embeds",
-          "embellishes",
-          "emboldens",
-          "embodies"
+          "exempts",
+          "expedites",
+          "expires",
+          "exemplifies"
         ],
         "answer": 3,
-        "explanation": "embodies = là hiện thân cho (sức mạnh của khoa học kết hợp văn chương).",
+        "explanation": "exemplify = là ví dụ điển hình cho, minh họa tiêu biểu. exempt = miễn trừ; expedite = xúc tiến; expire = hết hạn.",
         "passage": "<b>RACHEL CARSON: VOICE OF THE MODERN ENVIRONMENTAL MOVEMENT</b>\nRachel Carson’s career (32)__________ the power of rigorous science combined with lyrical prose to awaken public conscience. Let’s explore the defining chapters of her life:\n<b>Marine Biologist and Author</b>\n• Carson’s early fascination (33)__________ ocean ecosystems led her to join the US Fish and Wildlife Service, where her trilogy of books on the sea became international bestsellers.\n• (34)__________ her landmark 1962 book <i>Silent Spring</i>, which exposed the ecological dangers of synthetic pesticides such as DDT, she was posthumously awarded the Presidential Medal of Freedom.\n<b>Challenging Chemical Orthodoxy</b>\n• Compiling hundreds of field studies, she demonstrated how persistent pesticides accumulate up the food chain and thin the shells of (35)__________.\n• (36)__________ of the grassroots conservation groups that formed in the 1960s traced their inspiration directly to Carson’s televised testimony before Congress.\n<b>Enduring Legacy</b>\n• Her warnings prompted a nationwide ban on agricultural DDT in 1972 and catalysed the creation of the US Environmental Protection Agency.\n• She believed passionately in (37)__________ the public of the scientific facts behind environmental policy.\n<i>(Adapted from National Women’s History Museum and Encyclopaedia Britannica)</i>"
       },
       {
@@ -6178,13 +6178,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "By way of",
-          "On behalf of",
-          "In defiance of",
-          "In recognition of"
+          "Because of",
+          "Because",
+          "Despite",
+          "Whereas"
         ],
-        "answer": 3,
-        "explanation": "In recognition of = Để ghi nhận tác phẩm bước ngoặt Silent Spring của bà."
+        "answer": 0,
+        "explanation": "Because of + cụm danh từ = bởi vì. Because + mệnh đề; Despite = mặc dù (ngược nghĩa); Whereas = trong khi (liên từ, cần mệnh đề)."
       },
       {
         "origNum": 35,
@@ -6204,13 +6204,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "An amount",
-          "A great deal",
           "Much",
-          "A large number"
+          "Little",
+          "Several",
+          "Every"
         ],
-        "answer": 3,
-        "explanation": "A large number of + danh từ đếm được số nhiều (conservation groups)."
+        "answer": 2,
+        "explanation": "several of the + N số nhiều = một vài. Much/Little + N không đếm được; every không đi trực tiếp với “of the”."
       },
       {
         "origNum": 37,
@@ -6296,53 +6296,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "poring",
-          "hovering",
-          "wading",
-          "hanging"
+          "shifting",
+          "sifting",
+          "sipping",
+          "sighing"
         ],
-        "answer": 0,
-        "explanation": "pore over + statistics (nghiền ngẫm số liệu thống kê).",
-        "passage": "<b>THE PELTZMAN EFFECT: WHEN SAFETY GEAR BREEDS RISK</b>\nAfter years (43)__________ over US highway accident statistics, the University of Chicago economist Sam Peltzman published a controversial 1975 paper arguing that mandatory car-safety regulations did not reduce total road deaths as much as engineers had predicted, and in some cases could even (44)__________ reckless driving. Seatbelts, energy-absorbing steering columns and dual brakes undoubtedly protected occupants during a crash; yet, instead of falling sharply, pedestrian and cyclist fatalities (45)__________ after the laws took effect.\nFeeling safer inside a steel cage, Peltzman reasoned, drivers unconsciously drove slightly faster and followed the car ahead more closely. Whenever an engineering intervention (46)__________ the perceived personal cost of a mistake, human beings adjust their behaviour to consume some of that safety margin as extra speed—a phenomenon psychologists now call risk (47)__________.\n(48)__________ Peltzman’s original econometric model sparked fierce debate, subsequent field studies have documented similar behavioural shifts in sports and finance. Research on Alpine skiers wearing hard-shell helmets, for instance, reveals a striking (49)__________ between head protection and faster descent speeds on steep slopes. Meanwhile, after anti-lock braking systems (ABS) were introduced on Munich taxicabs in the 1980s, harsh braking distances (50)__________, yet drivers tailed other vehicles more closely in wet weather.\nNone of this implies that seatbelts or helmets should be abandoned. Smart safety authorities therefore (51)__________ protective equipment with physical traffic-calming measures—such as narrow chicanes and speed cameras—that prevent drivers from speeding up. Safety technology, in short, (52)__________: it shields us when an accident happens, but can subtly tempt us into courting the very hazards it was built to survive.\n<i>(Adapted from S. Peltzman, Journal of Political Economy (1975), and G. J. S. Wilde, Target Risk)</i>"
+        "answer": 1,
+        "explanation": "sift through = lục lọi, sàng lọc kỹ (số liệu, tài liệu). shift = dịch chuyển; sip = nhấp từng ngụm; sigh = thở dài.",
+        "passage": "<b>THE PELTZMAN EFFECT: WHEN SAFETY GEAR BREEDS RISK</b>\nAfter years (43)__________ through US highway accident statistics, the University of Chicago economist Sam Peltzman published a controversial 1975 paper arguing that mandatory car-safety regulations did not reduce total road deaths as much as engineers had predicted, and in some cases could even (44)__________ reckless driving. Seatbelts, energy-absorbing steering columns and dual brakes undoubtedly protected occupants during a crash; yet, instead of falling sharply, pedestrian and cyclist fatalities (45)__________ after the laws took effect.\nFeeling safer inside a steel cage, Peltzman reasoned, drivers unconsciously drove slightly faster and followed the car ahead more closely. Whenever an engineering intervention (46)__________ the perceived personal cost of a mistake, human beings adjust their behaviour to consume some of that safety margin as extra speed—a phenomenon psychologists now call risk (47)__________.\n(48)__________ Peltzman’s original econometric model sparked fierce debate, subsequent field studies have documented similar behavioural shifts in sports and finance. Research on Alpine skiers wearing hard-shell helmets, for instance, reveals a striking (49)__________ between head protection and faster descent speeds on steep slopes. Meanwhile, after anti-lock braking systems (ABS) were introduced on Munich taxicabs in the 1980s, harsh braking distances (50)__________, yet drivers tailed other vehicles more closely in wet weather.\nNone of this implies that seatbelts or helmets should be abandoned. Smart safety authorities therefore (51)__________ protective equipment with physical traffic-calming measures—such as narrow chicanes and speed cameras—that prevent drivers from speeding up. Safety technology, in short, is a Trojan (52)__________: it shields us when an accident happens, but can subtly tempt us into courting the very hazards it was built to survive.\n<i>(Adapted from S. Peltzman, Journal of Political Economy (1975), and G. J. S. Wilde, Target Risk)</i>"
       },
       {
         "origNum": 44,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "spur",
-          "curtail",
-          "stifle",
-          "deter"
+          "forgo",
+          "forfeit",
+          "foster",
+          "forbid"
         ],
-        "answer": 0,
-        "explanation": "spur (thúc đẩy, kích thích hành vi lái xe ẩu) đối lập với giảm tai nạn."
+        "answer": 2,
+        "explanation": "foster = nuôi dưỡng, thúc đẩy (foster reckless driving). forgo = từ bỏ; forfeit = đánh mất; forbid = cấm."
       },
       {
         "origNum": 45,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "shot up",
-          "tailed off",
-          "levelled off",
-          "wore off"
+          "surged",
+          "dipped",
+          "lapsed",
+          "waned"
         ],
         "answer": 0,
-        "explanation": "shot up = tăng vọt (đối lập với “instead of falling sharply”)."
+        "explanation": "surge = tăng vọt. dip = giảm nhẹ; lapse = suy giảm/hết hiệu lực; wane = yếu dần."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "brings down",
-          "turns down",
-          "takes down",
-          "runs down"
+          "dismisses",
+          "disperses",
+          "dislikes",
+          "diminishes"
         ],
-        "answer": 0,
-        "explanation": "bring down the cost (làm giảm cái giá phải trả của một sai lầm)."
+        "answer": 3,
+        "explanation": "diminish = làm giảm bớt. dismiss = gạt bỏ; disperse = giải tán; dislike = không thích."
       },
       {
         "origNum": 47,
@@ -6362,93 +6362,93 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Much as",
-          "Inasmuch as",
-          "So long as",
-          "Now that"
+          "Unless",
+          "Because",
+          "So that",
+          "Though"
         ],
-        "answer": 0,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 3,
+        "explanation": "Though + mệnh đề = mặc dù (nhượng bộ). Unless = nếu không; Because = bởi vì; So that = để mà."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "correlation",
-          "discrepancy",
-          "juncture",
-          "proximity"
+          "connection",
+          "conversion",
+          "convention",
+          "confession"
         ],
         "answer": 0,
-        "explanation": "correlation between A and B (mối tương quan giữa đội mũ bảo hiểm và tốc độ trượt nhanh hơn)."
+        "explanation": "connection between A and B = mối liên hệ giữa A và B. conversion = sự chuyển đổi; convention = quy ước; confession = lời thú nhận."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "plummeted",
-          "escalated",
-          "lingered",
-          "ballooned"
+          "swelled",
+          "sprawled",
+          "shrank",
+          "strayed"
         ],
-        "answer": 0,
-        "explanation": "plummeted = giảm mạnh (quãng đường phanh giảm mạnh nhờ ABS)."
+        "answer": 2,
+        "explanation": "shrink = co lại, giảm xuống. swell = phình ra; sprawl = lan rộng; stray = đi lạc."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "complement",
-          "compliment",
-          "supplant",
-          "contaminate"
+          "copy",
+          "cope",
+          "coop",
+          "couple"
         ],
-        "answer": 0,
-        "explanation": "complement A with B = bổ trợ thiết bị bảo hộ bằng các biện pháp hạ nhiệt giao thông vật lý."
+        "answer": 3,
+        "explanation": "couple A with B = kết hợp A với B. copy = sao chép; cope (with) = đối phó; coop = nhốt lại."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "cuts both ways",
-          "holds water",
-          "rings a bell",
-          "goes without saying"
+          "horse",
+          "tower",
+          "tunnel",
+          "gate"
         ],
         "answer": 0,
-        "explanation": "cuts both ways = có hai mặt (vừa bảo vệ khi tai nạn xảy ra, vừa dễ khiến người ta chủ quan)."
+        "explanation": "a Trojan horse = ngựa thành Troy: thứ trông có lợi nhưng ẩn chứa mối nguy – hợp với vế sau “it shields us … but can subtly tempt us …”."
       }
     ],
     "4": [
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "Little did the expedition members suspect that the glacier bridge had already cracked, __________?",
+        "text": "Let’s review the safety checklist once more before the drill begins, __________?",
         "options": [
-          "did they",
-          "didn’t they",
-          "had they",
-          "hadn’t they"
+          "will we",
+          "do we",
+          "don’t we",
+          "shall we"
         ],
-        "answer": 0,
-        "explanation": "Mệnh đề chính có “Little” (mang nghĩa phủ định) và trợ động từ “did” + chủ ngữ “the expedition members” → câu hỏi đuôi khẳng định: did they?"
+        "answer": 3,
+        "explanation": "Let’s + V (lời rủ rê, đề nghị cùng làm) → câu hỏi đuôi luôn là “shall we?”."
       },
       {
         "origNum": 17,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "__________ the new battery chemistry promises double the energy density, it remains too unstable for commercial aircraft.",
+        "text": "__________ the new battery chemistry may seem, it remains too unstable for commercial aircraft.",
         "options": [
-          "Much as",
-          "Despite",
-          "However",
-          "No matter"
+          "Whatever promising",
+          "No matter promising",
+          "However promising",
+          "Although promising"
         ],
-        "answer": 0,
-        "explanation": "Much as + S + V = Although + S + V (Mặc dù công nghệ pin mới hứa hẹn mật độ năng lượng gấp đôi...)."
+        "answer": 2,
+        "explanation": "However + tính từ + S + may/V, … = dù … đến mấy (nhượng bộ). “Whatever/No matter” cần “how” mới đi trước tính từ; “Although promising + S” sai cấu trúc."
       },
       {
         "origNum": 18,
@@ -6559,53 +6559,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "oscillations",
-          "denominations",
-          "ramifications",
-          "connotations"
+          "foothold",
+          "footfall",
+          "footprint",
+          "footnote"
         ],
         "answer": 2,
-        "explanation": "environmental ramifications = những hệ lụy về môi trường.",
-        "passage": "<b>THE VANISHING SAND: WHY THE WORLD IS RUNNING OUT OF AGGREGATE</b>\nThe construction boom across fast-growing cities has triggered an overdue inquiry into the environmental (26)__________ of dredging riverbeds and coastlines for sand. According to a United Nations Environment Programme report, humanity extracts some 50 billion tonnes of sand and gravel every year—making aggregate the second most exploited natural resource after water. Hydrologists warn that unregulated river-sand mining can (27)__________ havoc on delta infrastructure, causing bridge pilings to collapse and riverbanks to slump into the current.\nDesert sand, smoothed round by the wind, is too slippery to bind in structural concrete; builders need angular grains shaped by running water. (28)__________, upstream dams trap natural sediment before it can replenish coastal beaches, accelerating saltwater intrusion into delta rice paddies. In fragile estuaries, a single illegal dredging fleet can (29)__________ rise to severe coastal erosion that leaves fishing villages exposed to storm surges.\nOnly in the past decade (30)__________ to mandate recycled crushed-concrete quotas and manufactured quarry dust in public works. Unless urban planners rethink how we build, the sinking river deltas we see today may turn out to be just the (31)__________ of the iceberg.\n<i>(Adapted from UNEP, Sand and Sustainability: 10 Strategic Recommendations)</i>"
+        "explanation": "environmental footprint = dấu chân (tác động) môi trường. foothold = chỗ đứng; footfall = lượng người qua lại; footnote = chú thích.",
+        "passage": "<b>THE VANISHING SAND: WHY THE WORLD IS RUNNING OUT OF AGGREGATE</b>\nThe construction boom across fast-growing cities has triggered an overdue inquiry into the environmental (26)__________ of dredging riverbeds and coastlines for sand. According to a United Nations Environment Programme report, humanity extracts some 50 billion tonnes of sand and gravel every year—making aggregate the second most exploited natural resource after water. Hydrologists warn that unregulated river-sand mining can (27)__________ a heavy toll on delta infrastructure, causing bridge pilings to collapse and riverbanks to slump into the current.\nDesert sand, smoothed round by the wind, is too slippery to bind in structural concrete; builders need angular grains shaped by running water. (28)__________, upstream dams trap natural sediment before it can replenish coastal beaches, accelerating saltwater intrusion into delta rice paddies. In fragile estuaries, a single illegal dredging fleet can (29)__________ to severe coastal erosion that leaves fishing villages exposed to storm surges.\nOnly in the past decade (30)__________ to mandate recycled crushed-concrete quotas and manufactured quarry dust in public works. Unless urban planners rethink how we build, the sinking river deltas we see today may turn out to be a ticking time (31)__________.\n<i>(Adapted from UNEP, Sand and Sustainability: 10 Strategic Recommendations)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wrest",
-          "wring",
-          "wreak",
-          "wreathe"
+          "make",
+          "do",
+          "cast",
+          "take"
         ],
-        "answer": 2,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 3,
+        "explanation": "take a heavy toll on = gây tổn thất nặng nề cho (cụm cố định). make/do/cast không kết hợp với “toll” theo nghĩa này."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "Instead",
+          "By contrast",
+          "Otherwise",
           "Nevertheless",
-          "What is more",
-          "Otherwise"
+          "Equally important"
         ],
-        "answer": 2,
-        "explanation": "What is more = Hơn nữa (bổ sung tác động tiêu cực tiếp theo)."
+        "answer": 3,
+        "explanation": "Equally important = quan trọng không kém (thêm một yếu tố nghiêm trọng nữa). By contrast = ngược lại; Otherwise = nếu không; Nevertheless = tuy nhiên."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "bring",
-          "put",
-          "give",
-          "lend"
+          "attribute",
+          "distribute",
+          "subscribe",
+          "contribute"
         ],
-        "answer": 2,
-        "explanation": "give rise to = dẫn đến, gây ra."
+        "answer": 3,
+        "explanation": "contribute to = góp phần gây ra. attribute sth to sb = quy cho; distribute = phân phát; subscribe = đăng ký."
       },
       {
         "origNum": 30,
@@ -6625,53 +6625,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "crest",
-          "peak",
-          "tip",
-          "summit"
+          "bomb",
+          "mine",
+          "gun",
+          "bullet"
         ],
-        "answer": 2,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "answer": 0,
+        "explanation": "a ticking time bomb = quả bom nổ chậm (thành ngữ), chỉ mối nguy sắp bùng phát."
       },
       {
         "origNum": 32,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "epitomises",
-          "embellishes",
-          "emboldens",
-          "embeds"
+          "demonstrates",
+          "dominates",
+          "demolishes",
+          "denounces"
         ],
         "answer": 0,
-        "explanation": "epitomises = là minh chứng/hiện thân tiêu biểu cho.",
-        "passage": "<b>TU YOUYOU: ANCIENT WISDOM MEETS MODERN PHARMACOLOGY</b>\nTu Youyou’s scientific journey (32)__________ how traditional herbal texts and modern laboratory chemistry can unite to save millions of lives. Let’s look at her remarkable achievements:\n<b>The Search for a Malaria Cure</b>\n• Tu’s lifelong dedication (33)__________ pharmaceutical research began at Beijing Medical College, and in 1969 she was appointed head of Project 523 to find a treatment for chloroquine-resistant malaria.\n• (34)__________ her discovery of artemisinin—a compound extracted from sweet wormwood—she became, in 2015, the first mainland Chinese scientist to receive the Nobel Prize in Physiology or Medicine.\n<b>From Manuscript to Molecule</b>\n• Inspired by a fourth-century medical handbook by Ge Hong, she used a low-temperature ether process to isolate (35)__________ without destroying the active ingredient.\n• (36)__________ of the clinical trials conducted in Hainan province showed rapid parasite clearance, and Tu famously volunteered to be the first human subject to test the extract’s safety.\n<b>Global Health Impact</b>\n• Artemisinin-based combination therapies are now recommended by the WHO as the frontline defence against malaria across tropical regions.\n• She has always insisted on (37)__________ credit with her entire research team rather than claiming sole glory.\n<i>(Adapted from Nobel Prize Outreach and The Lancet)</i>"
+        "explanation": "demonstrate how … = chứng minh/cho thấy cách mà … dominate = chi phối; demolish = phá hủy; denounce = tố cáo.",
+        "passage": "<b>TU YOUYOU: ANCIENT WISDOM MEETS MODERN PHARMACOLOGY</b>\nTu Youyou’s scientific journey (32)__________ how traditional herbal texts and modern laboratory chemistry can unite to save millions of lives. Let’s look at her remarkable achievements:\n<b>The Search for a Malaria Cure</b>\n• Tu’s lifelong interest (33)__________ pharmaceutical research began at Beijing Medical College, and in 1969 she was appointed head of Project 523 to find a treatment for chloroquine-resistant malaria.\n• (34)__________ her discovery of artemisinin—a compound extracted from sweet wormwood—she became, in 2015, the first mainland Chinese scientist to receive the Nobel Prize in Physiology or Medicine.\n<b>From Manuscript to Molecule</b>\n• Inspired by a fourth-century medical handbook by Ge Hong, she used a low-temperature ether process to isolate (35)__________ without destroying the active ingredient.\n• (36)__________ of the clinical trials conducted in Hainan province showed rapid parasite clearance, and Tu famously volunteered to be the first human subject to test the extract’s safety.\n<b>Global Health Impact</b>\n• Artemisinin-based combination therapies are now recommended by the WHO as the frontline defence against malaria across tropical regions.\n• She has always insisted on (37)__________ credit with her entire research team rather than claiming sole glory.\n<i>(Adapted from Nobel Prize Outreach and The Lancet)</i>"
       },
       {
         "origNum": 33,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "to",
-          "for",
-          "with",
-          "in"
+          "at",
+          "on",
+          "in",
+          "by"
         ],
-        "answer": 0,
-        "explanation": "dedication to + N (sự cống hiến trọn đời cho nghiên cứu dược học)."
+        "answer": 2,
+        "explanation": "interest in + N = sự quan tâm đến. at/on/by không đi với “interest” theo nghĩa này."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "In recognition of",
-          "On behalf of",
-          "In spite of",
-          "By means of"
+          "Thanks to",
+          "Thanks for",
+          "Thank to",
+          "Thanking to"
         ],
         "answer": 0,
-        "explanation": "In recognition of = Để ghi nhận khám phá ra hợp chất artemisinin của bà."
+        "explanation": "Thanks to + N = nhờ có (cụm giới từ cố định). Thanks for / Thank to / Thanking to sai cấu trúc."
       },
       {
         "origNum": 35,
@@ -6691,13 +6691,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "A large number",
-          "A great deal",
-          "Much",
-          "An amount"
+          "Almost",
+          "Most",
+          "Mostly",
+          "The most"
         ],
-        "answer": 0,
-        "explanation": "A large number of + danh từ số nhiều (the clinical trials)."
+        "answer": 1,
+        "explanation": "most of the + N = hầu hết. Almost/Mostly không đứng ngay trước “of the”; “the most of” không dùng theo nghĩa này."
       },
       {
         "origNum": 37,
@@ -6783,14 +6783,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "hovering",
-          "poring",
-          "hanging",
-          "wading"
+          "hurtling",
+          "lingering",
+          "delving",
+          "barging"
         ],
-        "answer": 1,
-        "explanation": "pore over + models/statistics (nghiền ngẫm các mô hình toán học).",
-        "passage": "<b>THE BRAESS PARADOX: WHY ADDING ROADS CAN SLOW TRAFFIC</b>\nIn 1968, after months (43)__________ over mathematical models of urban traffic networks, the German mathematician Dietrich Braess demonstrated a startling proposition: adding a new high-capacity shortcut to a congested road network would not necessarily ease gridlock, and could actually (44)__________ journey times for every single commuter. When Seoul demolished the elevated Cheonggyecheon six-lane highway in 2003 to uncover a historic stream, critics predicted chaos; yet, instead of worsening, cross-town traffic speeds (45)__________.\nThe explanation lies in game theory and selfish routing. Whenever a new shortcut (46)__________ the initial travel time between two arterial avenues, rational drivers abandon secondary routes and converge on the same junction, creating a bottleneck that economists compare to the (47)__________ effect in resource consumption.\n(48)__________ the mathematics appears paradoxical at first glance, empirical examples abound in transport history. When New York City closed 42nd Street for Earth Day in 1990, traffic engineers documented a clear (49)__________ between the street closure and smoother vehicle flow across Midtown Manhattan. Similarly, after Stuttgart closed a newly built inner-city link road in 1969, average peak-hour delays (50)__________ back to their pre-construction levels.\nNone of this suggests that cities should demolish every bridge. Forward-thinking urban planners therefore (51)__________ road-network modelling with congestion pricing and dedicated bus lanes that prevent bottlenecks from forming. Highway capacity, in short, (52)__________: it can connect isolated regions, yet in dense urban grids an extra lane can slow everyone down.\n<i>(Adapted from D. Braess, Transportation Science, and The New York Times)</i>"
+        "answer": 2,
+        "explanation": "delve into = đào sâu nghiên cứu. hurtle = lao vút; linger = nấn ná; barge into = xông vào.",
+        "passage": "<b>THE BRAESS PARADOX: WHY ADDING ROADS CAN SLOW TRAFFIC</b>\nIn 1968, after months (43)__________ into mathematical models of urban traffic networks, the German mathematician Dietrich Braess demonstrated a startling proposition: adding a new high-capacity shortcut to a congested road network would not necessarily ease gridlock, and could actually (44)__________ journey times for every single commuter. When Seoul demolished the elevated Cheonggyecheon six-lane highway in 2003 to uncover a historic stream, critics predicted chaos; yet, instead of worsening, cross-town traffic speeds (45)__________.\nThe explanation lies in game theory and selfish routing. Whenever a new shortcut (46)__________ the initial travel time between two arterial avenues, rational drivers abandon secondary routes and converge on the same junction, creating a bottleneck that economists compare to the (47)__________ effect in consumer markets.\nParadoxical (48)__________ the mathematics may appear at first glance, empirical examples abound in transport history. When New York City closed 42nd Street for Earth Day in 1990, traffic engineers documented a clear (49)__________ between the street closure and smoother vehicle flow across Midtown Manhattan. Similarly, after Stuttgart closed a newly built inner-city link road in 1969, average peak-hour delays (50)__________ to their pre-construction levels.\nNone of this suggests that cities should demolish every bridge. Forward-thinking urban planners therefore (51)__________ road-network modelling with congestion pricing and dedicated bus lanes that prevent bottlenecks from forming. Highway capacity, in short, carries a sting in its (52)__________: it can connect isolated regions, yet in dense urban grids an extra lane can slow everyone down.\n<i>(Adapted from D. Braess, Transportation Science, and The New York Times)</i>"
       },
       {
         "origNum": 44,
@@ -6810,119 +6810,119 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "tailed off",
-          "shot up",
-          "died down",
-          "wore off"
+          "dropped off",
+          "gave out",
+          "faded away",
+          "picked up"
         ],
-        "answer": 1,
-        "explanation": "shot up = tăng vọt (tốc độ giao thông tăng lên thay vì tệ đi)."
+        "answer": 3,
+        "explanation": "pick up = tăng lên, khá lên (tốc độ). drop off = giảm; give out = cạn kiệt; fade away = tan biến."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "turns down",
-          "brings down",
-          "puts down",
-          "lets down"
+          "adds",
+          "cuts",
+          "piles",
+          "gains"
         ],
         "answer": 1,
-        "explanation": "bring down the travel time (làm giảm thời gian di chuyển ban đầu)."
+        "explanation": "cut the travel time = rút ngắn thời gian di chuyển. add/pile/gain mang nghĩa tăng thêm, không hợp ngữ cảnh."
       },
       {
         "origNum": 47,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "placebo",
-          "rebound",
-          "halo",
-          "doppler"
+          "greenhouse",
+          "doppler",
+          "bandwagon",
+          "halo"
         ],
-        "answer": 1,
-        "explanation": "rebound effect (hiệu ứng bật lại)."
+        "answer": 2,
+        "explanation": "bandwagon effect = hiệu ứng đám đông: ai cũng đổ xô theo cùng một lựa chọn (cùng dồn về một giao lộ). greenhouse = nhà kính; Doppler = hiệu ứng sóng; halo = vầng hào quang."
       },
       {
         "origNum": 48,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Seeing that",
-          "Much as",
-          "Provided that",
-          "Insofar as"
+          "as",
+          "that",
+          "although",
+          "despite"
         ],
-        "answer": 1,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 0,
+        "explanation": "Tính từ + as + S + may/V = dù … đến mấy (đảo tính từ để nhượng bộ). that/although/despite không dùng trong cấu trúc này."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "discrepancy",
-          "correlation",
-          "collision",
-          "departure"
+          "assertion",
+          "assumption",
+          "assurance",
+          "association"
         ],
-        "answer": 1,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 3,
+        "explanation": "association between A and B = mối liên quan giữa A và B. assertion = lời khẳng định; assumption = giả định; assurance = sự đảm bảo."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "soared",
-          "plummeted",
-          "escalated",
-          "multiplied"
+          "revolted",
+          "reversed",
+          "revived",
+          "reverted"
         ],
-        "answer": 1,
-        "explanation": "plummeted back to... (giảm mạnh trở về mức trước khi xây)."
+        "answer": 3,
+        "explanation": "revert to = quay trở lại (mức cũ). revolt = nổi loạn; reverse = đảo ngược; revive = hồi sinh."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "compliment",
-          "complement",
-          "supplant",
-          "contaminate"
+          "pair",
+          "pare",
+          "peer",
+          "pore"
         ],
-        "answer": 1,
-        "explanation": "complement A with B (bổ trợ quy hoạch mạng lưới đường bằng phí chống ùn tắc)."
+        "answer": 0,
+        "explanation": "pair A with B = kết hợp A với B. pare = gọt, cắt bớt; peer = nhìn chăm chú; pore (over) = nghiền ngẫm."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "misses the boat",
-          "cuts both ways",
-          "hits the sack",
-          "toes the line"
+          "head",
+          "tail",
+          "back",
+          "wing"
         ],
         "answer": 1,
-        "explanation": "cuts both ways = có hai mặt."
+        "explanation": "a sting in the tail = điểm bất lợi cay đắng ở phần cuối (thành ngữ)."
       }
     ],
     "5": [
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "No one in the control tower had been notified of the runway inspection, __________?",
+        "text": "I am entitled to a full refund under the extended warranty, __________?",
         "options": [
-          "hadn’t they",
-          "had they",
-          "did they",
-          "weren’t they"
+          "aren’t I",
+          "am not I",
+          "don’t I",
+          "isn’t it"
         ],
-        "answer": 1,
-        "explanation": "Chủ ngữ “No one” mang nghĩa phủ định → câu hỏi đuôi khẳng định; động từ “had been notified” → had they?"
+        "answer": 0,
+        "explanation": "Câu hỏi đuôi của “I am …” là “aren’t I?” (không dùng “am not I”)."
       },
       {
         "origNum": 17,
@@ -7046,53 +7046,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "connotations",
-          "denominations",
-          "fluctuations",
-          "repercussions"
+          "tariff",
+          "toll",
+          "levy",
+          "fare"
         ],
-        "answer": 3,
-        "explanation": "ecological repercussions = những hệ lụy sinh thái.",
-        "passage": "<b>GHOST GEAR: THE INVISIBLE TRAP IN OUR OCEANS</b>\nThe expansion of industrial deep-sea fishing has prompted a sobering look at the ecological (26)__________ of synthetic nylon nets lost or abandoned at sea. According to conservation estimates, more than 640,000 tonnes of ‘ghost gear’ enter the oceans annually. Because modern monofilament lines do not biodegrade, a single drifting gillnet can (27)__________ havoc on marine food webs for decades, entangling turtles, whales and diving seabirds.\nThe problem is self-perpetuating: fish trapped in a sunken net die and attract scavengers, which become entangled in turn. (28)__________, winter storms drag weighted lobster pots and longlines across coral reefs, snapping slow-growing branching corals that shelter juvenile fish. In busy fishing grounds, one severe typhoon can (29)__________ rise to thousands of kilometres of snagged netting on the continental shelf.\nOnly recently (30)__________ to require electronic acoustic transponders on commercial nets and fund harbour buy-back schemes for damaged gear. Unless maritime nations enforce strict gear-marking treaties, the entangled wildlife washing ashore today may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from FAO and UNEP Report on Abandoned, Lost or Otherwise Discarded Fishing Gear)</i>"
+        "answer": 1,
+        "explanation": "ecological toll = cái giá/tổn thất sinh thái. tariff = thuế quan; levy = khoản thu; fare = tiền vé.",
+        "passage": "<b>GHOST GEAR: THE INVISIBLE TRAP IN OUR OCEANS</b>\nThe expansion of industrial deep-sea fishing has prompted a sobering look at the ecological (26)__________ of synthetic nylon nets lost or abandoned at sea. According to conservation estimates, more than 640,000 tonnes of ‘ghost gear’ enter the oceans annually. Because modern monofilament lines do not biodegrade, a single drifting gillnet can (27)__________ disaster for marine food webs for decades, entangling turtles, whales and diving seabirds.\nThe problem is self-perpetuating: fish trapped in a sunken net die and attract scavengers, which become entangled in turn. (28)__________, winter storms drag weighted lobster pots and longlines across coral reefs, snapping slow-growing branching corals that shelter juvenile fish. In busy fishing grounds, one severe typhoon can (29)__________ to thousands of kilometres of snagged netting on the continental shelf.\nOnly recently (30)__________ to require electronic acoustic transponders on commercial nets and fund harbour buy-back schemes for damaged gear. Unless maritime nations enforce strict gear-marking treaties, the entangled wildlife washing ashore today may prove to be a canary in the coal (31)__________.\n<i>(Adapted from FAO and UNEP Report on Abandoned, Lost or Otherwise Discarded Fishing Gear)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wreathe",
-          "wring",
-          "wrest",
-          "wreak"
+          "spell",
+          "spill",
+          "spoil",
+          "spare"
         ],
-        "answer": 3,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 0,
+        "explanation": "spell disaster for = báo hiệu/gây ra thảm họa cho. spill = làm đổ; spoil = làm hỏng; spare = tha, dành ra."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "By contrast",
           "Conversely",
-          "Otherwise",
-          "What is more"
+          "Additionally",
+          "Alternatively",
+          "Even so"
         ],
-        "answer": 3,
-        "explanation": "What is more = Hơn thế nữa."
+        "answer": 1,
+        "explanation": "Additionally = ngoài ra (bổ sung thông tin). Conversely = ngược lại; Alternatively = hoặc là; Even so = dù vậy."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "lend",
-          "put",
-          "bring",
-          "give"
+          "lead",
+          "take",
+          "turn",
+          "carry"
         ],
-        "answer": 3,
-        "explanation": "give rise to = gây ra, dẫn đến."
+        "answer": 0,
+        "explanation": "lead to = dẫn đến. take to = bắt đầu thích; turn to = chuyển sang; carry to = mang đến (không hợp nghĩa)."
       },
       {
         "origNum": 30,
@@ -7112,40 +7112,40 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "crest",
-          "peak",
-          "top",
-          "tip"
+          "cave",
+          "tunnel",
+          "quarry",
+          "mine"
         ],
         "answer": 3,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "explanation": "a canary in the coal mine = dấu hiệu cảnh báo sớm về mối nguy (thành ngữ)."
       },
       {
         "origNum": 32,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "embellish",
-          "embody",
-          "embolden",
-          "embed"
+          "certify",
+          "justify",
+          "notify",
+          "testify"
         ],
-        "answer": 1,
-        "explanation": "embody (chủ ngữ số nhiều “six decades...”) = hiện thân cho ý tưởng...",
-        "passage": "<b>JANE GOODALL: REDEFINING HUMANITY’S PLACE IN NATURE</b>\nJane Goodall’s six decades of fieldwork (32)__________ the idea that patient observation and empathy can revolutionise behavioural science. Let’s explore the highlights of her career:\n<b>Pioneering Primatology</b>\n• Goodall’s deep devotion (33)__________ wildlife began in childhood, and in 1960 the palaeontologist Louis Leakey sent her to Gombe Stream in Tanzania to study wild chimpanzees.\n• (34)__________ her groundbreaking observation that chimpanzees strip leaves off twigs to fish for termites—shattering the belief that only humans make tools—she was awarded a doctorate by Cambridge University.\n<b>From Scientist to Global Advocate</b>\n• In 1977 she founded the Jane Goodall Institute, which works with African villages to establish (35)__________ around chimpanzee habitats.\n• (36)__________ of the schools participating in her ‘Roots & Shoots’ youth programme have launched local tree-planting and wetland-clean-up campaigns in over a hundred countries.\n<b>A Message of Hope</b>\n• Travelling nearly three hundred days a year well into her eighties, Goodall urged governments to halt deforestation and wildlife trafficking.\n• She remains committed to (37)__________ young people to take practical action in their own neighbourhoods.\n<i>(Adapted from the Jane Goodall Institute and National Geographic)</i>"
+        "answer": 3,
+        "explanation": "testify to + N = là bằng chứng cho (chủ ngữ “decades” số nhiều → testify). certify/justify/notify không đi với “to” theo nghĩa này.",
+        "passage": "<b>JANE GOODALL: REDEFINING HUMANITY’S PLACE IN NATURE</b>\nJane Goodall’s six decades of fieldwork (32)__________ to the idea that patient observation and empathy can revolutionise behavioural science. Let’s explore the highlights of her career:\n<b>Pioneering Primatology</b>\n• Goodall’s deep devotion (33)__________ wildlife began in childhood, and in 1960 the palaeontologist Louis Leakey sent her to Gombe Stream in Tanzania to study wild chimpanzees.\n• (34)__________ her groundbreaking observation that chimpanzees strip leaves off twigs to fish for termites—shattering the belief that only humans make tools—she was awarded a doctorate by Cambridge University.\n<b>From Scientist to Global Advocate</b>\n• In 1977 she founded the Jane Goodall Institute, which works with African villages to establish (35)__________ around chimpanzee habitats.\n• (36)__________ of the schools participating in her ‘Roots & Shoots’ youth programme have launched local tree-planting and wetland-clean-up campaigns in over a hundred countries.\n<b>A Message of Hope</b>\n• Travelling nearly three hundred days a year well into her eighties, Goodall urged governments to halt deforestation and wildlife trafficking.\n• She remains committed to (37)__________ young people to take practical action in their own neighbourhoods.\n<i>(Adapted from the Jane Goodall Institute and National Geographic)</i>"
       },
       {
         "origNum": 33,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "for",
-          "to",
-          "with",
-          "in"
+          "at",
+          "in",
+          "upon",
+          "to"
         ],
-        "answer": 1,
-        "explanation": "devotion to + N (tình yêu và sự tận tụy sâu sắc dành cho động vật hoang dã)."
+        "answer": 3,
+        "explanation": "devotion to + N = sự tận tụy, tận tâm dành cho. at/in/upon không đi với “devotion” theo nghĩa này."
       },
       {
         "origNum": 34,
@@ -7153,12 +7153,12 @@ window.examDatabase['lexico'] = {
         "text": "",
         "options": [
           "On behalf of",
-          "In recognition of",
-          "In defiance of",
-          "By way of"
+          "On the strength of",
+          "In spite of",
+          "In lieu of"
         ],
         "answer": 1,
-        "explanation": "In recognition of = Để ghi nhận phát hiện đột phá của bà."
+        "explanation": "on the strength of = dựa vào/nhờ vào (thành tựu). on behalf of = thay mặt; in spite of = mặc dù; in lieu of = thay cho."
       },
       {
         "origNum": 35,
@@ -7178,13 +7178,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "A great deal",
-          "A large number",
-          "Much",
-          "An amount"
+          "Hundreds",
+          "Hundred",
+          "Two hundreds",
+          "A hundreds"
         ],
-        "answer": 1,
-        "explanation": "A large number of + N số nhiều (the schools) + V số nhiều (have launched)."
+        "answer": 0,
+        "explanation": "hundreds of + N = hàng trăm (dạng số nhiều khi không có số cụ thể đứng trước). Hundred/Two hundreds/A hundreds sai."
       },
       {
         "origNum": 37,
@@ -7270,14 +7270,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "wading",
-          "hovering",
-          "poring",
-          "hanging"
+          "stooping",
+          "stuttering",
+          "stirring",
+          "sulking"
         ],
-        "answer": 2,
-        "explanation": "pore over (chăm chú tìm kiếm/nghiền ngẫm mặt vỉa hè dưới cột đèn).",
-        "passage": "<b>THE STREETLIGHT EFFECT IN SCIENTIFIC RESEARCH</b>\nThere is an old parable about a man seen (43)__________ over the pavement beneath a lamppost at midnight, searching for his lost house keys. When a passing police officer asks if he dropped them there, the man replies, ‘No, I dropped them in the dark park across the road, but the light is much better here.’ Sociologists of science warn that modern data-driven research can easily fall into the same trap, which does not broaden human inquiry but can (44)__________ it.\nWhenever automated sensors or digital archives make one specific dataset effortless to download, the number of academic papers analysing that dataset (45)__________, while harder-to-measure questions remain in the dark. Whenever technology (46)__________ the cost of collecting a particular metric, researchers naturally gravitate toward it, a bias methodologists call the (47)__________ effect.\n(48)__________ big-data analytics has revolutionised fields from genomics to economics, over-reliance on convenient data carries real risks. In medical research, for example, historians have noted a troubling (49)__________ between the availability of insurance billing records and the neglect of rural populations who pay for clinic visits in cash. Once the cost of sequencing standard laboratory model organisms had (50)__________ in the 2000s, funding for field taxonomy of wild tropical species struggled to keep pace.\nNone of this means that large digital databases are unhelpful. Wise funding councils therefore (51)__________ big-data grants with dedicated fellowships for qualitative fieldwork in under-studied regions. Convenient measurement, in short, (52)__________: it illuminates what lies directly beneath the lamp, but can blind us to the vital questions waiting in the shadows.\n<i>(Adapted from D. H. Freedman, Why Scientific Studies Are So Often Wrong, and Nature)</i>"
+        "answer": 0,
+        "explanation": "stoop over = cúi người xuống (hợp với việc tìm chìa khóa dưới đất). stutter = nói lắp; stir = khuấy; sulk = hờn dỗi.",
+        "passage": "<b>THE STREETLIGHT EFFECT IN SCIENTIFIC RESEARCH</b>\nThere is an old parable about a man seen (43)__________ over the pavement beneath a lamppost at midnight, searching for his lost house keys. When a passing police officer asks if he dropped them there, the man replies, ‘No, I dropped them in the dark park across the road, but the light is much better here.’ Sociologists of science warn that modern data-driven research can easily fall into the same trap, which does not broaden human inquiry but can (44)__________ it.\nWhenever automated sensors or digital archives make one specific dataset effortless to download, the number of academic papers analysing that dataset (45)__________, while harder-to-measure questions remain in the dark. Whenever technology (46)__________ the cost of collecting a particular metric, researchers naturally gravitate toward it, a bias methodologists call the (47)__________ effect.\n(48)__________ big-data analytics has revolutionised fields from genomics to economics, over-reliance on convenient data carries real risks. In medical research, for example, historians have noted a troubling (49)__________ between the availability of insurance billing records and the neglect of rural populations who pay for clinic visits in cash. Once the cost of sequencing standard laboratory model organisms had (50)__________ in the 2000s, funding for field taxonomy of wild tropical species struggled to keep pace.\nNone of this means that large digital databases are unhelpful. Wise funding councils therefore (51)__________ big-data grants with dedicated fellowships for qualitative fieldwork in under-studied regions. Convenient measurement, in short, is a poisoned (52)__________: it illuminates what lies directly beneath the lamp, but can blind us to the vital questions waiting in the shadows.\n<i>(Adapted from D. H. Freedman, Why Scientific Studies Are So Often Wrong, and Nature)</i>"
       },
       {
         "origNum": 44,
@@ -7297,26 +7297,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "levels off",
-          "tails off",
-          "shoots up",
-          "wears off"
+          "dwindles",
+          "withers",
+          "falters",
+          "mushrooms"
         ],
-        "answer": 2,
-        "explanation": "shoots up = tăng vọt."
+        "answer": 3,
+        "explanation": "mushroom = tăng nhanh, mọc lên như nấm. dwindle = giảm dần; wither = héo úa; falter = chùn bước."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "takes down",
-          "turns down",
-          "brings down",
-          "puts down"
+          "smashes",
+          "splashes",
+          "slashes",
+          "slams"
         ],
         "answer": 2,
-        "explanation": "bring down the cost (hạ chi phí thu thập số liệu)."
+        "explanation": "slash the cost = cắt giảm mạnh chi phí. smash = đập vỡ; splash = làm bắn tóe; slam = đóng sầm."
       },
       {
         "origNum": 47,
@@ -7336,80 +7336,80 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "So long as",
-          "Inasmuch as",
-          "Much as",
-          "Now that"
+          "Despite",
+          "In spite",
+          "Despite the fact that",
+          "Instead of the fact that"
         ],
         "answer": 2,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "explanation": "Despite the fact that + mệnh đề = mặc dù. Despite + N/V-ing; “In spite” thiếu “of”; instead of không mang nghĩa nhượng bộ."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "juncture",
-          "discrepancy",
-          "correlation",
-          "proximity"
+          "disposal",
+          "disparity",
+          "display",
+          "disguise"
         ],
-        "answer": 2,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 1,
+        "explanation": "disparity between A and B = sự chênh lệch giữa A và B. disposal = sự vứt bỏ; display = sự trưng bày; disguise = sự ngụy trang."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "escalated",
-          "skyrocketed",
-          "plummeted",
-          "ballooned"
+          "slumped",
+          "slammed",
+          "slotted",
+          "sloshed"
         ],
-        "answer": 2,
-        "explanation": "plummeted = giảm mạnh (chi phí giải trình tự gen giảm mạnh)."
+        "answer": 0,
+        "explanation": "slump = sụt giảm mạnh. slam = đóng sầm; slot = xếp vào khe; slosh = văng tóe."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "supplant",
-          "compliment",
-          "complement",
-          "implement"
+          "balloon",
+          "balance",
+          "banish",
+          "baffle"
         ],
-        "answer": 2,
-        "explanation": "complement A with B (bổ trợ các khoản tài trợ dữ liệu lớn bằng học bổng điền dã)."
+        "answer": 1,
+        "explanation": "balance A with B = cân bằng A với B. balloon = phồng lên; banish = trục xuất; baffle = làm bối rối."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "rings a bell",
-          "holds water",
-          "cuts both ways",
-          "goes without saying"
+          "chalice",
+          "cradle",
+          "cargo",
+          "canvas"
         ],
-        "answer": 2,
-        "explanation": "cuts both ways = có hai mặt."
+        "answer": 0,
+        "explanation": "a poisoned chalice = món quà tưởng tốt nhưng ẩn họa (thành ngữ)."
       }
     ],
     "6": [
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "Nothing in the archive basement had been damaged by the power surge, __________?",
+        "text": "Please submit the revised budget proposal before Friday noon, __________?",
         "options": [
-          "did it",
-          "hadn’t it",
-          "had it",
-          "was it"
+          "shall we",
+          "will you",
+          "do you",
+          "don’t you"
         ],
-        "answer": 2,
-        "explanation": "Chủ ngữ “Nothing” mang nghĩa phủ định + đại từ quy chiếu “it” + trợ động từ “had” → had it?"
+        "answer": 1,
+        "explanation": "Câu mệnh lệnh/đề nghị (kể cả có “Please”) → câu hỏi đuôi thường là “will you?”."
       },
       {
         "origNum": 17,
@@ -7533,53 +7533,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "ramifications",
-          "denominations",
-          "connotations",
-          "oscillations"
+          "windfall",
+          "landfall",
+          "rainfall",
+          "fallout"
         ],
-        "answer": 0,
-        "explanation": "global ramifications = những hệ lụy trên phạm vi toàn cầu.",
-        "passage": "<b>THE THAWING CRYOSPHERE: PERMAFROST ON THE BRINK</b>\nAccelerating warming across the high Arctic has forced climate scientists to confront the global (26)__________ of thawing permafrost. Across Alaska, Canada and Siberia, ground that has remained frozen for tens of thousands of years holds roughly twice as much carbon as the entire atmosphere today. Civil engineers warn that as ice wedges melt underground, the collapsing soil can (27)__________ havoc on northern communities, buckling highways, cracking airport runways and tilting apartment blocks.\nThe greater danger, however, is a planetary feedback loop: as organic matter thaws, microbes decompose it and release methane and carbon dioxide. (28)__________, slumping riverbanks expose ancient sediment layers to summer sunlight, accelerating the rate of bacterial breakdown even further. In such a landscape, a single record-breaking Arctic heatwave can (29)__________ rise to thousands of new thermokarst lakes bubbling with greenhouse gases.\nOnly in the last few years (30)__________ to integrate abrupt permafrost-thaw feedbacks into their flagship global climate models. Unless global emissions fall rapidly, the subsiding roads of northern towns may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from IPCC Special Report on the Ocean and Cryosphere in a Changing Climate)</i>"
+        "answer": 3,
+        "explanation": "global fallout = hậu quả lan rộng toàn cầu. windfall = món lợi bất ngờ; landfall = lúc bão đổ bộ; rainfall = lượng mưa.",
+        "passage": "<b>THE THAWING CRYOSPHERE: PERMAFROST ON THE BRINK</b>\nAccelerating warming across the high Arctic has forced climate scientists to confront the global (26)__________ of thawing permafrost. Across Alaska, Canada and Siberia, ground that has remained frozen for tens of thousands of years holds roughly twice as much carbon as the entire atmosphere today. Civil engineers warn that as ice wedges melt underground, the collapsing soil can (27)__________ the stability of northern communities, buckling highways, cracking airport runways and tilting apartment blocks.\nThe greater danger, however, is a planetary feedback loop: as organic matter thaws, microbes decompose it and release methane and carbon dioxide. (28)__________, slumping riverbanks expose ancient sediment layers to summer sunlight, accelerating the rate of bacterial breakdown even further. In such a landscape, a single record-breaking Arctic heatwave can (29)__________ the way for thousands of new thermokarst lakes bubbling with greenhouse gases.\nOnly in the last few years (30)__________ to integrate abrupt permafrost-thaw feedbacks into their flagship global climate models. Unless global emissions fall rapidly, the subsiding roads of northern towns may prove to be just a glimpse of the shape of things to (31)__________.\n<i>(Adapted from IPCC Special Report on the Ocean and Cryosphere in a Changing Climate)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wreak",
-          "wring",
-          "wrest",
-          "wreathe"
+          "underline",
+          "undermine",
+          "undertake",
+          "undergo"
         ],
-        "answer": 0,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 1,
+        "explanation": "undermine = làm suy yếu, phá hoại dần. underline = nhấn mạnh; undertake = đảm nhận; undergo = trải qua."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "What is more",
+          "By contrast",
+          "Instead",
           "Otherwise",
-          "Conversely",
-          "By contrast"
+          "In addition"
         ],
-        "answer": 0,
-        "explanation": "What is more = Hơn thế nữa."
+        "answer": 3,
+        "explanation": "In addition = thêm vào đó (bổ sung thông tin cùng chiều). By contrast = ngược lại; Instead = thay vào đó; Otherwise = nếu không thì."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "give",
-          "put",
-          "bring",
-          "lend"
+          "pace",
+          "pave",
+          "pale",
+          "pare"
         ],
-        "answer": 0,
-        "explanation": "give rise to = gây ra, dẫn đến."
+        "answer": 1,
+        "explanation": "pave the way for = mở đường cho (cụm cố định). pace = đi đi lại lại; pale = nhợt đi; pare = gọt, cắt bớt."
       },
       {
         "origNum": 30,
@@ -7599,53 +7599,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "tip",
-          "peak",
-          "crest",
-          "summit"
+          "go",
+          "come",
+          "run",
+          "stay"
         ],
-        "answer": 0,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "answer": 1,
+        "explanation": "the shape of things to come = hình hài của những điều sắp xảy ra (thành ngữ)."
       },
       {
         "origNum": 32,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "emboldens",
-          "embellishes",
-          "epitomises",
-          "embeds"
+          "shortcuts",
+          "shrugs",
+          "showcases",
+          "shatters"
         ],
         "answer": 2,
-        "explanation": "epitomises = là hiện thân tiêu biểu cho.",
-        "passage": "<b>TON THAT TUNG: PIONEER OF MODERN LIVER SURGERY</b>\nProfessor Tôn Thất Tùng’s extraordinary career (32)__________ how anatomical precision and surgical courage can place Vietnamese medicine on the world map. Let’s review his enduring contributions:\n<b>Anatomical Breakthroughs</b>\n• Tùng’s relentless commitment (33)__________ medical research began in Hanoi in the late 1930s, when he meticulously dissected over two hundred autopsy livers to map their internal blood vessels.\n• (34)__________ his revolutionary ‘dry’ liver-resection technique—which reduced operation times from several hours to under ten minutes—he was elected a member of prestigious surgical academies in Paris and Moscow.\n<b>Serving on the Frontlines</b>\n• During the resistance years, he trained generations of doctors in makeshift jungle hospitals using (35)__________.\n• (36)__________ of the international surgeons who visited Viet Duc Hospital in the 1960s and 1970s adopted his finger-fracture clamping method to save patients with liver tumours.\n<b>Scientific Legacy</b>\n• In the 1970s, he also led pioneering epidemiological studies on the long-term health effects of wartime dioxin defoliants.\n• Throughout his life, he believed in (37)__________ young Vietnamese physicians to master both clinical skill and scientific inquiry.\n<i>(Adapted from The Lancet and Vietnam Journal of Medicine)</i>"
+        "explanation": "showcase how … = phô bày, thể hiện cách mà … shortcut = đi đường tắt; shrug = nhún vai; shatter = làm tan vỡ.",
+        "passage": "<b>TON THAT TUNG: PIONEER OF MODERN LIVER SURGERY</b>\nProfessor Tôn Thất Tùng’s extraordinary career (32)__________ how anatomical precision and surgical courage can place Vietnamese medicine on the world map. Let’s review his enduring contributions:\n<b>Anatomical Breakthroughs</b>\n• Tùng’s relentless obsession (33)__________ medical research began in Hanoi in the late 1930s, when he meticulously dissected over two hundred autopsy livers to map their internal blood vessels.\n• (34)__________ his revolutionary ‘dry’ liver-resection technique—which reduced operation times from several hours to under ten minutes—he was elected a member of prestigious surgical academies in Paris and Moscow.\n<b>Serving on the Frontlines</b>\n• During the resistance years, he trained generations of doctors in makeshift jungle hospitals using (35)__________.\n• (36)__________ of the international surgeons who visited Viet Duc Hospital in the 1960s and 1970s adopted his finger-fracture clamping method to save patients with liver tumours.\n<b>Scientific Legacy</b>\n• In the 1970s, he also led pioneering epidemiological studies on the long-term health effects of wartime dioxin defoliants.\n• Throughout his life, he believed in (37)__________ young Vietnamese physicians to master both clinical skill and scientific inquiry.\n<i>(Adapted from The Lancet and Vietnam Journal of Medicine)</i>"
       },
       {
         "origNum": 33,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "with",
-          "for",
           "to",
-          "in"
+          "of",
+          "with",
+          "from"
         ],
         "answer": 2,
-        "explanation": "commitment to + N (sự tận tâm không ngừng nghỉ cho nghiên cứu y học)."
+        "explanation": "obsession with + N = nỗi ám ảnh/niềm đam mê với. to/of/from không đi với “obsession”."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "In spite of",
-          "On behalf of",
-          "In recognition of",
-          "By means of"
+          "In defiance of",
+          "In place of",
+          "By way of",
+          "By virtue of"
         ],
-        "answer": 2,
-        "explanation": "In recognition of = Để ghi nhận kỹ thuật cắt gan nổi tiếng của ông."
+        "answer": 3,
+        "explanation": "by virtue of = nhờ vào, do (thành tựu/tư cách). in defiance of = bất chấp; in place of = thay cho; by way of = bằng cách, qua."
       },
       {
         "origNum": 35,
@@ -7666,12 +7666,12 @@ window.examDatabase['lexico'] = {
         "text": "",
         "options": [
           "Much",
-          "A great deal",
-          "A large number",
-          "An amount"
+          "Little",
+          "A little",
+          "Many"
         ],
-        "answer": 2,
-        "explanation": "A large number of + N số nhiều (the international surgeons)."
+        "answer": 3,
+        "explanation": "many of the + N số nhiều = nhiều. Much/Little/A little chỉ dùng với danh từ không đếm được."
       },
       {
         "origNum": 37,
@@ -7757,40 +7757,40 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "wading",
-          "hovering",
-          "hanging",
-          "poring"
+          "combining",
+          "coaxing",
+          "cornering",
+          "combing"
         ],
         "answer": 3,
-        "explanation": "pore over + history/records (nghiên cứu, nghiền ngẫm lịch sử chính sách).",
-        "passage": "<b>THE COBRA EFFECT: WHEN INCENTIVES BACKFIRE</b>\nAfter decades (43)__________ over the history of colonial and modern economic policy, the German economist Horst Siebert coined a vivid term for poorly designed rewards that do not solve a social problem but inadvertently (44)__________ it. According to the famous anecdote set in nineteenth-century Delhi, the authorities offered a cash bounty for every dead venomous cobra brought to the municipal office; yet, instead of disappearing, the city’s cobra population ultimately (45)__________ after enterprising residents began breeding the snakes in sheds for the reward.\nWhen the authorities realised what was happening and cancelled the bounty, breeders released their now-worthless snakes into the streets. Whenever a policy (46)__________ a complex civic goal to a single monetised target, human ingenuity finds ways to game the metric—a pathology that economists call the (47)__________ effect.\n(48)__________ the Delhi snake story may be apocryphal, documented cases in modern governance are all too real. When Mexico City introduced its ‘Hoy No Circula’ licence-plate ban in 1989, forbidding each car from driving one weekday per week, researchers found a clear (49)__________ between the restriction and a surge in second-hand car imports, as affluent commuters bought a cheap, high-emission second vehicle with a different plate number. Meanwhile, after colonial authorities in Hanoi offered a bounty for rat tails in 1902, sightings of healthy, tailless rats (50)__________ across the city’s sewers.\nNone of this implies that incentives are inherently flawed. Prudent policymakers therefore (51)__________ financial rewards with independent audits and holistic outcome measures. Monetary bounties, in short, (52)__________: they can mobilise rapid public participation, yet if poorly framed they can breed the very pest they were meant to eradicate.\n<i>(Adapted from H. Siebert, Der Kobra-Effekt (2001), and M. Vann, Journal of Colonialism and Colonial History)</i>"
+        "explanation": "comb through = lục soát kỹ lưỡng. combine = kết hợp; coax = dỗ dành; corner = dồn vào chân tường.",
+        "passage": "<b>THE COBRA EFFECT: WHEN INCENTIVES BACKFIRE</b>\nAfter decades (43)__________ through the history of colonial and modern economic policy, the German economist Horst Siebert coined a vivid term for poorly designed rewards that do not solve a social problem but inadvertently (44)__________ it. According to the famous anecdote set in nineteenth-century Delhi, the authorities offered a cash bounty for every dead venomous cobra brought to the municipal office; yet, instead of disappearing, the city’s cobra population ultimately (45)__________ after enterprising residents began breeding the snakes in sheds for the reward.\nWhen the authorities realised what was happening and cancelled the bounty, breeders released their now-worthless snakes into the streets. Whenever a policy (46)__________ a complex civic goal to a single monetised target, human ingenuity finds ways to game the metric—a pathology that economists call the (47)__________ effect.\n(48)__________ the Delhi snake story may be apocryphal, documented cases in modern governance are all too real. When Mexico City introduced its ‘Hoy No Circula’ licence-plate ban in 1989, forbidding each car from driving one weekday per week, researchers found a clear (49)__________ between the restriction and a surge in second-hand car imports, as affluent commuters bought a cheap, high-emission second vehicle with a different plate number. Meanwhile, after colonial authorities in Hanoi offered a bounty for rat tails in 1902, sightings of healthy, tailless rats (50)__________ across the city’s sewers.\nNone of this implies that incentives are inherently flawed. Prudent policymakers therefore (51)__________ financial rewards with independent audits and holistic outcome measures. Monetary bounties, in short, are a mixed (52)__________: they can mobilise rapid public participation, yet if poorly framed they can breed the very pest they were meant to eradicate.\n<i>(Adapted from H. Siebert, Der Kobra-Effekt (2001), and M. Vann, Journal of Colonialism and Colonial History)</i>"
       },
       {
         "origNum": 44,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "assuage",
-          "alleviate",
-          "mitigate",
-          "exacerbate"
+          "aggregate",
+          "aggravate",
+          "aggrandise",
+          "agitate"
         ],
-        "answer": 3,
-        "explanation": "exacerbate (làm trầm trọng thêm vấn đề) đối lập với “solve”."
+        "answer": 1,
+        "explanation": "aggravate = làm trầm trọng thêm (aggravate a problem). aggregate = gộp lại; aggrandise = tâng bốc, phóng đại; agitate = khuấy động."
       },
       {
         "origNum": 45,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "died down",
-          "tailed off",
-          "levelled off",
-          "shot up"
+          "receded",
+          "dissolved",
+          "snowballed",
+          "evaporated"
         ],
-        "answer": 3,
-        "explanation": "shot up = tăng vọt (đối lập với “instead of disappearing”)."
+        "answer": 2,
+        "explanation": "snowball = tăng lên nhanh chóng như quả cầu tuyết. recede = rút đi; dissolve = tan ra; evaporate = bốc hơi."
       },
       {
         "origNum": 46,
@@ -7823,80 +7823,80 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Insofar as",
+          "Now that",
+          "Granted that",
           "Seeing that",
-          "Provided that",
-          "Much as"
+          "So long as"
         ],
-        "answer": 3,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 1,
+        "explanation": "Granted that + mệnh đề = cứ cho là (nhượng bộ). Now that = vì bây giờ; Seeing that = xét thấy rằng; So long as = miễn là."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "departure",
-          "discrepancy",
-          "collision",
-          "correlation"
+          "relaxation",
+          "relegation",
+          "relationship",
+          "reluctance"
         ],
-        "answer": 3,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 2,
+        "explanation": "relationship between A and B = mối quan hệ giữa A và B. relaxation = sự thư giãn; relegation = sự xuống hạng; reluctance = sự miễn cưỡng."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "subsided",
-          "plummeted",
-          "waned",
-          "soared"
+          "prolonged",
+          "prohibited",
+          "proliferated",
+          "protracted"
         ],
-        "answer": 3,
-        "explanation": "soared = tăng vọt (số lượng chuột cụt đuôi khỏe mạnh tăng vọt)."
+        "answer": 2,
+        "explanation": "proliferate = sinh sôi nhanh chóng (nội động từ). prolong/protract = kéo dài (ngoại động từ); prohibit = cấm."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "contaminate",
-          "compliment",
-          "supplant",
-          "complement"
+          "tamper",
+          "tempt",
+          "temper",
+          "tender"
         ],
-        "answer": 3,
-        "explanation": "complement A with B (bổ trợ phần thưởng tài chính bằng kiểm toán độc lập)."
+        "answer": 2,
+        "explanation": "temper A with B = điều hòa, làm dịu A bằng B. tamper (with) = can thiệp bừa bãi; tempt = cám dỗ; tender = chào giá."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "go without saying",
-          "hold water",
-          "ring a bell",
-          "cut both ways"
+          "fortune",
+          "blessing",
+          "luck",
+          "fate"
         ],
-        "answer": 3,
-        "explanation": "cut both ways (chủ ngữ số nhiều “Monetary bounties”) = có hai mặt."
+        "answer": 1,
+        "explanation": "a mixed blessing = điều vừa có lợi vừa có hại (thành ngữ)."
       }
     ],
     "7": [
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "Barely five percent of the surveyed commuters supported cutting the night-bus service, __________?",
+        "text": "Everybody in the front row could hear the lecturer clearly, __________?",
         "options": [
-          "had they",
-          "didn’t they",
-          "were they",
-          "did they"
+          "couldn’t they",
+          "couldn’t he",
+          "could they",
+          "didn’t they"
         ],
-        "answer": 3,
-        "explanation": "“Barely” mang nghĩa phủ định + động từ quá khứ đơn “supported” + đại từ “they” → câu hỏi đuôi khẳng định: did they?"
+        "answer": 0,
+        "explanation": "“Everybody” là đại từ bất định mang nghĩa khẳng định → dùng “they” trong câu hỏi đuôi; mệnh đề chính khẳng định với “could” → đuôi phủ định “couldn’t they?”."
       },
       {
         "origNum": 17,
@@ -8020,27 +8020,27 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "denominations",
-          "repercussions",
-          "fluctuations",
-          "connotations"
+          "externalities",
+          "expenditures",
+          "eventualities",
+          "exemptions"
         ],
-        "answer": 1,
-        "explanation": "environmental repercussions = những hệ lụy về môi trường.",
-        "passage": "<b>THE E-WASTE MOUNTAIN: RETHINKING CONSUMER ELECTRONICS</b>\nShortening product lifecycles and glued-in batteries have triggered an urgent debate over the environmental (26)__________ of our throwaway gadget culture. According to the United Nations Global E-waste Monitor, the world generated a record 62 million tonnes of discarded electronics in 2022, yet less than a quarter was formally recycled. Toxicologists warn that informal open-air burning of circuit boards can (27)__________ havoc on local ecosystems, leaching lead, mercury and brominated flame retardants into soil and groundwater.\nAt the same time, discarding old phones wastes a literal goldmine: a tonne of smartphones contains roughly a hundred times more gold than a tonne of mined gold ore. (28)__________, critical rare-earth magnets needed for wind turbines and electric vehicles are routinely shredded and lost in general scrap. In this linear economy, a single generation of non-repairable earbuds can (29)__________ rise to thousands of tonnes of hazardous lithium-battery waste.\nOnly recently (30)__________ to enforce ‘Right to Repair’ directives that compel manufacturers to supply spare parts and replaceable batteries for up to ten years. Unless circular design becomes mandatory, today’s overflowing civic recycling bins may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from UNITAR & ITU, The Global E-waste Monitor 2024)</i>"
+        "answer": 0,
+        "explanation": "environmental externalities = các tác động ngoại biên (chi phí môi trường mà bên gây ra không chi trả). expenditures = khoản chi; eventualities = tình huống có thể xảy ra; exemptions = sự miễn trừ.",
+        "passage": "<b>THE E-WASTE MOUNTAIN: RETHINKING CONSUMER ELECTRONICS</b>\nShortening product lifecycles and glued-in batteries have triggered an urgent debate over the environmental (26)__________ of our throwaway gadget culture. According to the United Nations Global E-waste Monitor, the world generated a record 62 million tonnes of discarded electronics in 2022, yet less than a quarter was formally recycled. Toxicologists warn that informal open-air burning of circuit boards can (27)__________ the health of local ecosystems, leaching lead, mercury and brominated flame retardants into soil and groundwater.\nAt the same time, discarding old phones wastes a literal goldmine: a tonne of smartphones contains roughly a hundred times more gold than a tonne of mined gold ore. (28)__________, critical rare-earth magnets needed for wind turbines and electric vehicles are routinely shredded and lost in general scrap. In this linear economy, a single generation of non-repairable earbuds can (29)__________ for thousands of tonnes of hazardous lithium-battery waste.\nOnly recently (30)__________ to enforce ‘Right to Repair’ directives that compel manufacturers to supply spare parts and replaceable batteries for up to ten years. Unless circular design becomes mandatory, emptying today’s overflowing civic recycling bins will barely (31)__________ the surface of the problem.\n<i>(Adapted from UNITAR & ITU, The Global E-waste Monitor 2024)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wring",
-          "wreak",
-          "wrest",
-          "wreathe"
+          "jettison",
+          "jumble",
+          "jostle",
+          "jeopardise"
         ],
-        "answer": 1,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 3,
+        "explanation": "jeopardise = gây nguy hại cho, đe dọa. jettison = vứt bỏ; jumble = làm lộn xộn; jostle = chen lấn."
       },
       {
         "origNum": 28,
@@ -8048,25 +8048,25 @@ window.examDatabase['lexico'] = {
         "text": "",
         "options": [
           "Conversely",
-          "What is more",
+          "Similarly",
           "Otherwise",
-          "Instead"
+          "Nevertheless"
         ],
         "answer": 1,
-        "explanation": "What is more = Hơn thế nữa."
+        "explanation": "Similarly = tương tự như vậy (nam châm đất hiếm cũng bị lãng phí giống như vàng trong điện thoại cũ). Conversely = ngược lại; Otherwise = nếu không; Nevertheless = tuy nhiên."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "put",
-          "give",
-          "bring",
-          "lend"
+          "reckon",
+          "calculate",
+          "estimate",
+          "account"
         ],
-        "answer": 1,
-        "explanation": "give rise to = gây ra, làm phát sinh."
+        "answer": 3,
+        "explanation": "account for = chiếm (một tỷ lệ/khối lượng), giải thích cho. reckon/calculate/estimate không đi với “for” theo nghĩa này."
       },
       {
         "origNum": 30,
@@ -8086,26 +8086,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "peak",
-          "tip",
-          "top",
-          "crest"
+          "scorch",
+          "scrub",
+          "scratch",
+          "scrap"
         ],
-        "answer": 1,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "answer": 2,
+        "explanation": "scratch the surface = mới chỉ chạm tới bề nổi của vấn đề (thành ngữ). scorch = thiêu cháy; scrub = chà rửa; scrap = bỏ đi."
       },
       {
         "origNum": 32,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "embed",
-          "embellish",
-          "embolden",
-          "embody"
+          "sympathise",
+          "symbolise",
+          "synchronise",
+          "systemise"
         ],
-        "answer": 3,
-        "explanation": "embody (chủ ngữ số nhiều “engineering feats”) = hiện thân cho khát vọng...",
+        "answer": 1,
+        "explanation": "symbolise = tượng trưng cho (chủ ngữ “feats” số nhiều). sympathise = cảm thông; synchronise = đồng bộ hóa; systemise = hệ thống hóa.",
         "passage": "<b>ISAMBARD KINGDOM BRUNEL: VISIONARY OF THE INDUSTRIAL AGE</b>\nIsambard Kingdom Brunel’s engineering feats (32)__________ the boundless ambition of nineteenth-century British infrastructure design. Let’s explore the landmarks of his career:\n<b>Bridges, Tunnels and Railways</b>\n• Brunel’s lifelong passion (33)__________ civil engineering began under his father Marc on the Thames Tunnel, and at just twenty-seven he was appointed chief engineer of the Great Western Railway.\n• (34)__________ his bold design for the Clifton Suspension Bridge and the two-mile Box Tunnel, contemporaries hailed him as the most original engineer of his generation.\n<b>Transatlantic Steamships</b>\n• Determined to link Bristol and New York by steam, he designed three record-breaking vessels, culminating in the <i>SS Great Britain</i>, the world’s first (35)__________.\n• (36)__________ of the viaducts, stations and iron bridges he built between London and the West Country remain in daily rail service nearly two centuries later.\n<b>Lasting Influence</b>\n• Although his atmospheric-railway experiment in Devon failed due to leather valve decay, his meticulous notebooks set new standards for structural calculation.\n• Modern conservationists have succeeded in (37)__________ the hull of the <i>SS Great Britain</i> inside a glass-roofed dry dock in Bristol.\n<i>(Adapted from Brunel Institute and Encyclopaedia Britannica)</i>"
       },
       {
@@ -8113,26 +8113,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
+          "for",
           "at",
           "to",
-          "with",
-          "for"
+          "over"
         ],
-        "answer": 3,
-        "explanation": "passion for + N (niềm đam mê trọn đời dành cho kỹ thuật xây dựng)."
+        "answer": 0,
+        "explanation": "passion for + N = niềm đam mê dành cho. at/to/over không đi với “passion” theo nghĩa này."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "By way of",
-          "On behalf of",
-          "In defiance of",
-          "In recognition of"
+          "In front of",
+          "In case of",
+          "In view of",
+          "In search of"
         ],
-        "answer": 3,
-        "explanation": "In recognition of = Để ghi nhận thiết kế táo bạo của ông."
+        "answer": 2,
+        "explanation": "in view of = xét đến, do bởi. in front of = phía trước; in case of = trong trường hợp; in search of = đi tìm."
       },
       {
         "origNum": 35,
@@ -8152,13 +8152,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "An amount",
-          "A great deal",
-          "Much",
-          "A large number"
+          "Dozen",
+          "Dozens",
+          "A dozens",
+          "Two dozens"
         ],
-        "answer": 3,
-        "explanation": "A large number of + N số nhiều (the viaducts, stations and iron bridges) + V số nhiều (remain)."
+        "answer": 1,
+        "explanation": "dozens of + N số nhiều = hàng chục. “Dozen of”, “A dozens of”, “Two dozens of” sai (dozen giữ nguyên dạng khi đi sau số từ/mạo từ và không thêm of; dozens chỉ dùng khi không có số cụ thể)."
       },
       {
         "origNum": 37,
@@ -8244,14 +8244,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "poring",
-          "hovering",
-          "hanging",
-          "wading"
+          "scoring",
+          "scorning",
+          "scouring",
+          "scooping"
         ],
-        "answer": 0,
-        "explanation": "pore over + hydrological records (nghiền ngẫm hồ sơ thủy văn).",
-        "passage": "<b>THE IRRIGATION PARADOX: WHY DRIP PIPES CAN DRAIN AQUIFERS</b>\nFor decades, water-resource ministries assumed that subsidising high-tech drip irrigation would automatically leave more water in rivers and underground aquifers. After years (43)__________ over hydrological records from Spain, Morocco and the western United States, however, the economist Frank Ward and his colleagues concluded that more efficient sprinklers often do not reduce basin-wide water depletion, and can actually (44)__________ it. Drip lines deliver water directly to crop roots with minimal evaporation; yet, instead of falling, total groundwater extraction in many subsidised valleys (45)__________.\nThe reason is straightforward farm economics. Traditional flood irrigation wastes water on the surface, but much of that ‘wasted’ runoff seeps back down into the aquifer for downstream users. Whenever drip technology (46)__________ the water required per hectare, farmers use the saved water to expand their planted acreage or switch from drought-tolerant barley to thirsty, high-value orchards like almonds and avocados—an agricultural version of the (47)__________ effect.\n(48)__________ drip irrigation is indispensable for individual farm productivity, its basin-level hydrology is sobering. Satellite gravity measurements across Mediterranean river basins show a stark (49)__________ between drip-irrigation subsidies and accelerating aquifer decline. By the 2010s, the volume of return-flow water reaching natural wetlands in several modernised irrigation districts had (50)__________ by more than forty percent.\nNone of this means farmers should return to leaky earthen ditches. Astute water authorities therefore (51)__________ drip-irrigation grants with strict, metered caps on total groundwater extraction and bans on expanding irrigated acreage. Irrigation efficiency, in short, (52)__________: it grows more crop per drop, but without extraction limits it can leave the river itself bone dry.\n<i>(Adapted from F. A. Ward & M. Pulido-Velazquez, PNAS (2008), and Science)</i>"
+        "answer": 2,
+        "explanation": "scour + N = lùng sục, tìm kiếm kỹ. score = ghi điểm; scorn = khinh miệt; scoop = xúc, múc.",
+        "passage": "<b>THE IRRIGATION PARADOX: WHY DRIP PIPES CAN DRAIN AQUIFERS</b>\nFor decades, water-resource ministries assumed that subsidising high-tech drip irrigation would automatically leave more water in rivers and underground aquifers. After years (43)__________ hydrological records from Spain, Morocco and the western United States, however, the economist Frank Ward and his colleagues concluded that more efficient sprinklers often do not reduce basin-wide water depletion, and can actually (44)__________ it. Drip lines deliver water directly to crop roots with minimal evaporation; yet, instead of falling, total groundwater extraction in many subsidised valleys (45)__________.\nThe reason is straightforward farm economics. Traditional flood irrigation wastes water on the surface, but much of that ‘wasted’ runoff seeps back down into the aquifer for downstream users. Whenever drip technology (46)__________ the water required per hectare, farmers use the saved water to expand their planted acreage or switch from drought-tolerant barley to thirsty, high-value orchards like almonds and avocados—an agricultural version of the (47)__________ effect.\n(48)__________ drip irrigation is indispensable for individual farm productivity, its basin-level hydrology is sobering. Satellite gravity measurements across Mediterranean river basins show a stark (49)__________ between drip-irrigation subsidies and accelerating aquifer decline. By the 2010s, the volume of return-flow water reaching natural wetlands in several modernised irrigation districts had (50)__________ by more than forty percent.\nNone of this means farmers should return to leaky earthen ditches. Astute water authorities therefore (51)__________ drip-irrigation grants with strict, metered caps on total groundwater extraction and bans on expanding irrigated acreage. Irrigation efficiency, in short, comes with (52)__________ attached: it grows more crop per drop, but without extraction limits it can leave the river itself bone dry.\n<i>(Adapted from F. A. Ward & M. Pulido-Velazquez, PNAS (2008), and Science)</i>"
       },
       {
         "origNum": 44,
@@ -8271,119 +8271,119 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "shot up",
-          "tailed off",
-          "levelled off",
-          "wore off"
+          "sagged",
+          "rocketed",
+          "slackened",
+          "dipped"
         ],
-        "answer": 0,
-        "explanation": "shot up = tăng vọt (đối lập với “instead of falling”)."
+        "answer": 1,
+        "explanation": "rocket = tăng vọt. sag = trũng xuống; slacken = chậm lại; dip = giảm nhẹ."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "brings down",
-          "turns down",
-          "takes down",
-          "puts down"
+          "trips",
+          "trims",
+          "traps",
+          "trails"
         ],
-        "answer": 0,
-        "explanation": "bring down the water required (làm giảm lượng nước cần trên mỗi héc-ta)."
+        "answer": 1,
+        "explanation": "trim = cắt giảm bớt. trip = vấp ngã; trap = đặt bẫy; trail = kéo lê, theo sau."
       },
       {
         "origNum": 47,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "rebound",
-          "placebo",
           "halo",
-          "ripple"
+          "backfire",
+          "placebo",
+          "doppler"
         ],
-        "answer": 0,
-        "explanation": "rebound effect (hiệu ứng bật lại)."
+        "answer": 1,
+        "explanation": "backfire effect = hiệu ứng “gậy ông đập lưng ông”: tiết kiệm nước lại làm tổng lượng nước dùng tăng lên. halo = vầng hào quang; placebo = giả dược; Doppler = hiệu ứng sóng."
       },
       {
         "origNum": 48,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Much as",
-          "Inasmuch as",
-          "So long as",
-          "Now that"
+          "Whenever",
+          "Whichever",
+          "Whatsoever",
+          "Whilst"
         ],
-        "answer": 0,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 3,
+        "explanation": "Whilst = trong khi/mặc dù (dạng trang trọng của while, dùng để nhượng bộ hoặc đối lập). Whenever = bất cứ khi nào; Whichever = bất cứ cái nào; Whatsoever = chút nào (nhấn mạnh phủ định)."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "correlation",
-          "discrepancy",
-          "juncture",
-          "proximity"
+          "tension",
+          "tendency",
+          "tenancy",
+          "tenure"
         ],
         "answer": 0,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "explanation": "tension between A and B = sự căng thẳng/xung đột giữa A và B. tendency = xu hướng; tenancy = quyền thuê; tenure = nhiệm kỳ."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "plummeted",
-          "soared",
-          "escalated",
-          "ballooned"
+          "dazzled",
+          "dwindled",
+          "dangled",
+          "dawdled"
         ],
-        "answer": 0,
-        "explanation": "plummeted by more than forty percent (sụt giảm mạnh hơn 40%)."
+        "answer": 1,
+        "explanation": "dwindle = teo tóp, giảm dần. dazzle = làm lóa mắt; dangle = đung đưa; dawdle = la cà."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "complement",
-          "compliment",
-          "supplant",
-          "contaminate"
+          "reimburse",
+          "reinstate",
+          "rejuvenate",
+          "reinforce"
         ],
-        "answer": 0,
-        "explanation": "complement A with B (bổ trợ trợ cấp tưới nhỏ giọt bằng hạn mức khai thác nước ngầm)."
+        "answer": 3,
+        "explanation": "reinforce A with B = củng cố A bằng B. reimburse = hoàn tiền; reinstate = phục hồi chức vụ; rejuvenate = làm trẻ lại."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "cuts both ways",
-          "holds water",
-          "rings a bell",
-          "goes without saying"
+          "labels",
+          "tags",
+          "ribbons",
+          "strings"
         ],
-        "answer": 0,
-        "explanation": "cuts both ways = có hai mặt."
+        "answer": 3,
+        "explanation": "with strings attached = kèm điều kiện ràng buộc (thành ngữ)."
       }
     ],
     "8": [
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "Neither of the external examiners raised any objection to the thesis methodology, __________?",
+        "text": "There has never been a public inquiry into the incident, __________?",
         "options": [
-          "did they",
-          "didn’t they",
-          "did he",
-          "had they"
+          "hasn’t there",
+          "has it",
+          "have they",
+          "has there"
         ],
-        "answer": 0,
-        "explanation": "Chủ ngữ “Neither of...” mang nghĩa phủ định + động từ quá khứ đơn “raised” + đại từ “they” → câu hỏi đuôi khẳng định: did they?"
+        "answer": 3,
+        "explanation": "“There has never been …”: “never” mang nghĩa phủ định → đuôi khẳng định; chủ ngữ giả “there” + trợ động từ “has” → has there?"
       },
       {
         "origNum": 17,
@@ -8507,53 +8507,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "connotations",
-          "denominations",
-          "ramifications",
-          "oscillations"
+          "replications",
+          "duplications",
+          "explications",
+          "implications"
         ],
-        "answer": 2,
-        "explanation": "economic ramifications = những hệ lụy về kinh tế.",
-        "passage": "<b>INVASIVE SPECIES: STOWAWAYS OF GLOBAL TRADE</b>\nThe expansion of container shipping routes has forced ecologists to confront the economic (26)__________ of biological invasions. According to the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), more than 37,000 alien species have been introduced by human activity across the globe, costing the world economy over $423 billion annually. Marine biologists warn that organisms carried in ship ballast water can (27)__________ havoc on native coastal fisheries within a single breeding season.\nUnlike chemical spills, which dilute over time, an invasive species reproduces and spreads autonomously once established. (28)__________, climate change is allowing subtropical pests such as the Asian tiger mosquito and emerald ash borer to survive winters in higher latitudes. In island archipelagos, the accidental arrival of a single predatory snake or rodent can (29)__________ rise to the extinction of ground-nesting birds that evolved without mammalian predators.\nOnly in the past decade (30)__________ to enforce international conventions requiring cargo vessels to treat ballast water with ultraviolet radiation before discharging it in port. Unless biosecurity checks at borders are tightened, current agricultural losses may turn out to be just the (31)__________ of the iceberg.\n<i>(Adapted from IPBES Invasive Alien Species Assessment Report)</i>"
+        "answer": 3,
+        "explanation": "economic implications = những hệ lụy/tác động về kinh tế. replications, duplications = sự sao chép, lặp lại; explications = sự giải thích chi tiết.",
+        "passage": "<b>INVASIVE SPECIES: STOWAWAYS OF GLOBAL TRADE</b>\nThe expansion of container shipping routes has forced ecologists to confront the economic (26)__________ of biological invasions. According to the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), more than 37,000 alien species have been introduced by human activity across the globe, costing the world economy over $423 billion annually. Marine biologists warn that organisms carried in ship ballast water can (27)__________ native coastal fisheries within a single breeding season.\nUnlike chemical spills, which dilute over time, an invasive species reproduces and spreads autonomously once established. (28)__________, climate change is allowing subtropical pests such as the Asian tiger mosquito and emerald ash borer to survive winters in higher latitudes. In island archipelagos, the accidental arrival of a single predatory snake or rodent can (29)__________ the door to the extinction of ground-nesting birds that evolved without mammalian predators.\nOnly in the past decade (30)__________ to enforce international conventions requiring cargo vessels to treat ballast water with ultraviolet radiation before discharging it in port. Unless biosecurity checks at borders are tightened, current agricultural losses may turn out to be a mere (31)__________ in the ocean compared with the losses to come.\n<i>(Adapted from IPBES Invasive Alien Species Assessment Report)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wrest",
-          "wring",
-          "wreak",
-          "wreathe"
+          "devastate",
+          "deviate",
+          "deflate",
+          "defuse"
         ],
-        "answer": 2,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 0,
+        "explanation": "devastate = tàn phá hoàn toàn. deviate = đi chệch hướng; deflate = làm xẹp; defuse = tháo ngòi nổ."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "Otherwise",
           "Conversely",
-          "What is more",
-          "By contrast"
+          "Instead",
+          "Moreover",
+          "Otherwise"
         ],
         "answer": 2,
-        "explanation": "What is more = Hơn thế nữa."
+        "explanation": "Moreover = hơn nữa (thêm một mối đe dọa nữa). Conversely = ngược lại; Instead = thay vào đó; Otherwise = nếu không thì."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "bring",
-          "put",
-          "give",
-          "lend"
+          "lift",
+          "push",
+          "open",
+          "hold"
         ],
         "answer": 2,
-        "explanation": "give rise to = gây ra, dẫn đến."
+        "explanation": "open the door to = mở đường/tạo điều kiện cho (điều xảy ra). lift/push/hold không đi với “the door to” theo nghĩa này."
       },
       {
         "origNum": 30,
@@ -8573,27 +8573,27 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "crest",
-          "peak",
-          "tip",
-          "summit"
+          "dot",
+          "drop",
+          "dash",
+          "bit"
         ],
-        "answer": 2,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "answer": 1,
+        "explanation": "a drop in the ocean = giọt nước giữa biển cả (rất nhỏ so với cái lớn hơn đang đến). dot/dash/bit không tạo thành thành ngữ này."
       },
       {
         "origNum": 32,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "embodies",
-          "embellishes",
-          "emboldens",
-          "embeds"
+          "reimburses",
+          "reprimands",
+          "rejuvenates",
+          "reaffirms"
         ],
-        "answer": 0,
-        "explanation": "embodies = là hiện thân cho niềm tin rằng...",
-        "passage": "<b>ELINOR OSTROM: RETHINKING THE TRAGEDY OF THE COMMONS</b>\nElinor Ostrom’s scholarship (32)__________ the conviction that local communities can govern shared natural resources sustainably without privatisation or top-down state control. Let’s examine her groundbreaking work:\n<b>Challenging Economic Dogma</b>\n• Ostrom’s academic dedication (33)__________ institutional analysis led her to study how real-world communities manage pastures, irrigation canals and coastal fisheries.\n• (34)__________ her empirical refutation of the ‘tragedy of the commons’, she became, in 2009, the first woman to be awarded the Nobel Memorial Prize in Economic Sciences.\n<b>Fieldwork Across Continents</b>\n• From Alpine meadows in Switzerland to forest user groups in Nepal, she documented how locals craft (35)__________ to prevent over-exploitation.\n• (36)__________ of the self-governing irrigation systems she analysed in Spain and the Philippines had endured for centuries outperforming state-built dams.\n<b>Eight Design Principles</b>\n• Ostrom distilled eight core principles for successful commons—including clear boundaries, graduated sanctions for rule-breakers and accessible conflict resolution.\n• She consistently advocated (37)__________ local users a direct voice in crafting the rules that govern their livelihoods.\n<i>(Adapted from Nobel Prize Outreach and Indiana University Ostrom Workshop)</i>"
+        "answer": 3,
+        "explanation": "reaffirm the conviction = tái khẳng định niềm tin. reimburse = hoàn tiền; reprimand = khiển trách; rejuvenate = làm trẻ lại.",
+        "passage": "<b>ELINOR OSTROM: RETHINKING THE TRAGEDY OF THE COMMONS</b>\nElinor Ostrom’s scholarship (32)__________ the conviction that local communities can govern shared natural resources sustainably without privatisation or top-down state control. Let’s examine her groundbreaking work:\n<b>Challenging Economic Dogma</b>\n• Ostrom’s academic grounding (33)__________ institutional analysis led her to study how real-world communities manage pastures, irrigation canals and coastal fisheries.\n• (34)__________ her empirical refutation of the ‘tragedy of the commons’, she became, in 2009, the first woman to be awarded the Nobel Memorial Prize in Economic Sciences.\n<b>Fieldwork Across Continents</b>\n• From Alpine meadows in Switzerland to forest user groups in Nepal, she documented how locals craft (35)__________ to prevent over-exploitation.\n• (36)__________ of the self-governing irrigation systems she analysed in Spain and the Philippines had endured for centuries outperforming state-built dams.\n<b>Eight Design Principles</b>\n• Ostrom distilled eight core principles for successful commons—including clear boundaries, graduated sanctions for rule-breakers and accessible conflict resolution.\n• She consistently advocated (37)__________ local users a direct voice in crafting the rules that govern their livelihoods.\n<i>(Adapted from Nobel Prize Outreach and Indiana University Ostrom Workshop)</i>"
       },
       {
         "origNum": 33,
@@ -8601,25 +8601,25 @@ window.examDatabase['lexico'] = {
         "text": "",
         "options": [
           "to",
-          "for",
+          "in",
           "with",
-          "in"
+          "from"
         ],
-        "answer": 0,
-        "explanation": "dedication to + N (sự cống hiến học thuật cho phân tích thể chế)."
+        "answer": 1,
+        "explanation": "grounding in + N = nền tảng kiến thức vững về. to/with/from không đi với “grounding” theo nghĩa này."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "In recognition of",
-          "On behalf of",
-          "In spite of",
-          "By means of"
+          "As a result of",
+          "As a matter of",
+          "As a means of",
+          "As a form of"
         ],
         "answer": 0,
-        "explanation": "In recognition of = Để ghi nhận công trình bác bỏ thực nghiệm của bà."
+        "explanation": "as a result of = do/nhờ kết quả của. as a matter of = về mặt (as a matter of fact); as a means of = như một phương tiện; as a form of = như một dạng."
       },
       {
         "origNum": 35,
@@ -8639,13 +8639,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "A large number",
-          "A great deal",
-          "Much",
-          "An amount"
+          "Somewhat",
+          "Somebody",
+          "Sometimes",
+          "Some"
         ],
-        "answer": 0,
-        "explanation": "A large number of + N số nhiều (the self-governing irrigation systems)."
+        "answer": 3,
+        "explanation": "some of the + N = một số trong những … Somewhat = hơi; somebody = ai đó; sometimes = đôi khi — không đứng trước “of the”."
       },
       {
         "origNum": 37,
@@ -8731,14 +8731,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "hovering",
-          "poring",
-          "hanging",
-          "wading"
+          "scattering",
+          "scrambling",
+          "scratching",
+          "scrutinising"
         ],
-        "answer": 1,
-        "explanation": "pore over + incident logs (nghiền ngẫm nhật ký sự cố).",
-        "passage": "<b>THE AUTOMATION PARADOX IN COCKPITS AND CONTROL ROOMS</b>\nIn 1983, after years (43)__________ over industrial-control and aviation incident logs, the engineering psychologist Lisanne Bainbridge published a classic paper titled ‘Ironies of Automation’. She warned that handing routine tasks to computers does not eliminate human error, and in critical emergencies can actually (44)__________ the difficulty of the human operator’s job. Modern autopilots handle ninety-nine percent of flight hours smoothly; yet, when sensors fail in severe icing, the cognitive workload on pilots suddenly (45)__________.\nThe irony is twofold. First, engineers automate all the easy, predictable tasks, leaving the human operator to handle only the rare, ambiguous failures that the algorithm could not solve. Second, whenever automation (46)__________ the need for daily manual practice, operators’ hands-on motor skills and mental models gradually rust—a phenomenon human-factors researchers call skill (47)__________.\n(48)__________ cockpit displays have grown far clearer since Bainbridge’s day, the underlying psychological trap persists in self-driving cars and power-grid control rooms. Simulator studies demonstrate a troubling (49)__________ between prolonged passive monitoring and delayed reaction times when an alarm finally sounds. In several documented aviation incidents, the crew’s situational awareness had (50)__________ during hours of quiet cruise before an unexpected sensor fault disconnected the autopilot.\nNone of this suggests we should rip computers out of airliners. Leading airlines therefore (51)__________ advanced flight-deck automation with mandatory manual-flying hours and ‘surprise’ simulator scenarios that keep reflexes sharp. Automation, in short, (52)__________: it filters out thousands of routine slips, but can leave human operators rusty at the exact moment they are needed most.\n<i>(Adapted from L. Bainbridge, Automatica (1983), and Human Factors)</i>"
+        "answer": 3,
+        "explanation": "scrutinise = xem xét kỹ lưỡng. scatter = rải rác; scramble = tranh giành, xáo trộn; scratch = cào, gãi.",
+        "passage": "<b>THE AUTOMATION PARADOX IN COCKPITS AND CONTROL ROOMS</b>\nIn 1983, after years (43)__________ industrial-control and aviation incident logs, the engineering psychologist Lisanne Bainbridge published a classic paper titled ‘Ironies of Automation’. She warned that handing routine tasks to computers does not eliminate human error, and in critical emergencies can actually (44)__________ the difficulty of the human operator’s job. Modern autopilots handle ninety-nine percent of flight hours smoothly; yet, when sensors fail in severe icing, the cognitive workload on pilots suddenly (45)__________.\nThe irony is twofold. First, engineers automate all the easy, predictable tasks, leaving the human operator to handle only the rare, ambiguous failures that the algorithm could not solve. Second, whenever automation (46)__________ the need for daily manual practice, operators’ hands-on motor skills and mental models gradually rust—a phenomenon human-factors researchers call skill (47)__________.\n(48)__________ cockpit displays have grown far clearer since Bainbridge’s day, the underlying psychological trap persists in self-driving cars and power-grid control rooms. Simulator studies demonstrate a troubling (49)__________ between prolonged passive monitoring and delayed reaction times when an alarm finally sounds. In several documented aviation incidents, the crew’s situational awareness had (50)__________ during hours of quiet cruise before an unexpected sensor fault disconnected the autopilot.\nNone of this suggests we should rip computers out of airliners. Leading airlines therefore (51)__________ advanced flight-deck automation with mandatory manual-flying hours and ‘surprise’ simulator scenarios that keep reflexes sharp. Automation, in short, has a flip (52)__________: it filters out thousands of routine slips, but can leave human operators rusty at the exact moment they are needed most.\n<i>(Adapted from L. Bainbridge, Automatica (1983), and Human Factors)</i>"
       },
       {
         "origNum": 44,
@@ -8758,26 +8758,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "tails off",
-          "shoots up",
-          "levels off",
-          "wears off"
+          "spikes",
+          "eases",
+          "sags",
+          "wanes"
         ],
-        "answer": 1,
-        "explanation": "shoots up = tăng vọt."
+        "answer": 0,
+        "explanation": "spike = tăng vọt đột ngột. ease = dịu bớt; sag = chùng xuống; wane = yếu dần."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "turns down",
-          "brings down",
-          "puts down",
-          "lets down"
+          "eliminates",
+          "elevates",
+          "eludes",
+          "elicits"
         ],
-        "answer": 1,
-        "explanation": "bring down the need for... (làm giảm nhu cầu thực hành thủ công hàng ngày)."
+        "answer": 0,
+        "explanation": "eliminate the need for = loại bỏ nhu cầu về. elevate = nâng lên; elude = lẩn tránh; elicit = gợi ra."
       },
       {
         "origNum": 47,
@@ -8797,26 +8797,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Seeing that",
-          "Much as",
-          "Provided that",
-          "Insofar as"
+          "Regardless of",
+          "Regardless of the fact that",
+          "Regarding the fact that",
+          "As regards of"
         ],
         "answer": 1,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "explanation": "regardless of the fact that + mệnh đề = bất kể việc/mặc dù. regardless of + N; regarding = liên quan đến; as regards of sai cấu trúc."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "discrepancy",
-          "correlation",
-          "collision",
-          "departure"
+          "interior",
+          "interview",
+          "interlude",
+          "interplay"
         ],
-        "answer": 1,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 3,
+        "explanation": "interplay between A and B = sự tác động qua lại giữa A và B. interior = bên trong; interview = phỏng vấn; interlude = đoạn xen kẽ."
       },
       {
         "origNum": 50,
@@ -8836,41 +8836,41 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "compliment",
-          "complement",
-          "supplant",
-          "contaminate"
+          "augment",
+          "argue",
+          "assemble",
+          "abandon"
         ],
-        "answer": 1,
-        "explanation": "complement A with B (bổ trợ tự động hóa buồng lái bằng giờ bay thủ công bắt buộc)."
+        "answer": 0,
+        "explanation": "augment A with B = bổ sung, tăng cường A bằng B. argue = tranh luận; assemble = lắp ráp; abandon = từ bỏ."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "misses the boat",
-          "cuts both ways",
-          "hits the sack",
-          "toes the line"
+          "face",
+          "edge",
+          "side",
+          "page"
         ],
-        "answer": 1,
-        "explanation": "cuts both ways = có hai mặt."
+        "answer": 2,
+        "explanation": "the flip side = mặt trái (của vấn đề) (thành ngữ)."
       }
     ],
     "9": [
       {
         "origNum": 16,
         "instruction": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 16 to 25.",
-        "text": "Few of the original timber cottages along the quay survived the 1953 storm surge, __________?",
+        "text": "The new regulations should have been announced much earlier, __________?",
         "options": [
-          "didn’t they",
-          "did they",
-          "were they",
-          "had they"
+          "should they",
+          "haven’t they",
+          "shouldn’t they",
+          "weren’t they"
         ],
-        "answer": 1,
-        "explanation": "Chủ ngữ có “Few” (mang nghĩa phủ định: hầu như không) + động từ quá khứ đơn “survived” → câu hỏi đuôi khẳng định: did they?"
+        "answer": 2,
+        "explanation": "Mệnh đề chính khẳng định với “should have been announced” → đuôi phủ định lấy trợ động từ đầu tiên “should” → shouldn’t they?"
       },
       {
         "origNum": 17,
@@ -8994,53 +8994,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "connotations",
-          "denominations",
-          "fluctuations",
-          "repercussions"
+          "commands",
+          "remands",
+          "demands",
+          "reprimands"
         ],
-        "answer": 3,
-        "explanation": "resource repercussions = những hệ lụy về tài nguyên.",
-        "passage": "<b>THE THIRSTY CLOUD: WATER CONSUMPTION OF AI DATA CENTRES</b>\nThe exponential growth of generative artificial intelligence has sparked an urgent inquiry into the resource (26)__________ of cooling hyperscale server farms. Training and running large language models generates immense heat across thousands of graphics processors packed into windowless halls. Water-resource engineers warn that building evaporative cooling towers in drought-prone regions can (27)__________ havoc on municipal aquifers during summer peak demand.\nA single large data-centre campus can evaporate millions of litres of potable water a day to keep silicon chips below their thermal threshold. (28)__________, the extra electricity required to power these servers indirectly consumes even more water at thermoelectric power plants downstream. In arid river basins, clustering several server farms in one industrial park can (29)__________ rise to acute competition between tech operators and smallholder irrigators.\nOnly recently (30)__________ to deploy closed-loop direct-to-chip liquid cooling systems that recirculate fluid without evaporating fresh water into the sky. Unless regulators mandate transparent water-usage reporting, today’s grid bottlenecks may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from Nature Sustainability and OECD Digital Economy Papers)</i>"
+        "answer": 2,
+        "explanation": "resource demands = nhu cầu về tài nguyên. commands = mệnh lệnh; remands = lệnh tạm giam; reprimands = lời khiển trách.",
+        "passage": "<b>THE THIRSTY CLOUD: WATER CONSUMPTION OF AI DATA CENTRES</b>\nThe exponential growth of generative artificial intelligence has sparked an urgent inquiry into the resource (26)__________ of cooling hyperscale server farms. Training and running large language models generates immense heat across thousands of graphics processors packed into windowless halls. Water-resource engineers warn that building evaporative cooling towers in drought-prone regions can (27)__________ immense pressure on municipal aquifers during summer peak demand.\nA single large data-centre campus can evaporate millions of litres of potable water a day to keep silicon chips below their thermal threshold. (28)__________, the extra electricity required to power these servers indirectly consumes even more water at thermoelectric power plants downstream. In arid river basins, clustering several server farms in one industrial park can (29)__________ acute competition between tech operators and smallholder irrigators.\nOnly recently (30)__________ to deploy closed-loop direct-to-chip liquid cooling systems that recirculate fluid without evaporating fresh water into the sky. Unless regulators mandate transparent water-usage reporting, today’s grid bottlenecks may prove to be just a (31)__________ of things to come.\n<i>(Adapted from Nature Sustainability and OECD Digital Economy Papers)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wreathe",
-          "wring",
-          "wrest",
-          "wreak"
+          "exhort",
+          "exalt",
+          "exert",
+          "exhale"
         ],
-        "answer": 3,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 2,
+        "explanation": "exert pressure on = gây áp lực lên (cụm cố định). exhort = hối thúc; exalt = tôn vinh; exhale = thở ra."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "Instead",
-          "Conversely",
+          "Worse still",
+          "By contrast",
           "Otherwise",
-          "What is more"
+          "Even so"
         ],
-        "answer": 3,
-        "explanation": "What is more = Hơn thế nữa."
+        "answer": 0,
+        "explanation": "Worse still = tệ hơn nữa (thông tin sau nghiêm trọng hơn thông tin trước). By contrast = ngược lại; Otherwise = nếu không; Even so = dù vậy."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "lend",
-          "put",
-          "bring",
-          "give"
+          "spoil",
+          "spare",
+          "spoke",
+          "spark"
         ],
         "answer": 3,
-        "explanation": "give rise to = gây ra, dẫn tới."
+        "explanation": "spark = châm ngòi, làm bùng lên (spark competition). spoil = làm hỏng; spare = tha, dành ra; spoke = đã nói/nan hoa."
       },
       {
         "origNum": 30,
@@ -9060,53 +9060,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "crest",
-          "peak",
-          "top",
-          "tip"
+          "smell",
+          "sound",
+          "taste",
+          "touch"
         ],
-        "answer": 3,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "answer": 2,
+        "explanation": "a taste of things to come = dấu hiệu/trải nghiệm ban đầu của những điều sắp tới (thành ngữ)."
       },
       {
         "origNum": 32,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "embellishes",
-          "epitomises",
-          "emboldens",
-          "embeds"
+          "illustrates",
+          "inundates",
+          "inaugurates",
+          "infiltrates"
         ],
-        "answer": 1,
-        "explanation": "epitomises = là hiện thân tiêu biểu cho.",
-        "passage": "<b>KATALIN KARIKÓ: PERSEVERANCE BEHIND THE mRNA REVOLUTION</b>\nKatalin Karikó’s four-decade quest (32)__________ how scientific persistence in the face of repeated grant rejections can transform global medicine. Let’s trace her remarkable story:\n<b>Unwavering Belief in mRNA</b>\n• Karikó’s steadfast commitment (33)__________ messenger RNA therapy began in Hungary and continued at the University of Pennsylvania, even when reviewers dismissed the molecule as too unstable.\n• (34)__________ her discovery, alongside Drew Weissman, that modifying nucleosides prevents mRNA from triggering inflammatory immune reactions, the pair received the 2023 Nobel Prize in Physiology or Medicine.\n<b>From Bench to Bedside</b>\n• That key chemical modification enabled bio-engineers to package (35)__________ inside protective lipid nanoparticles.\n• (36)__________ of the billions of COVID-19 vaccine doses deployed worldwide in 2021 relied directly on Karikó and Weissman’s modified-mRNA platform.\n<b>Future Horizons</b>\n• Beyond infectious diseases, clinical trials are now testing mRNA candidates for personalised cancer immunotherapies and rare genetic disorders.\n• Speaking to students, she emphasises the importance of (37)__________ focused on solving the underlying scientific puzzle rather than chasing academic status.\n<i>(Adapted from Nobel Prize Outreach and Nature)</i>"
+        "answer": 0,
+        "explanation": "illustrate how … = minh họa cho thấy … inundate = làm ngập; inaugurate = khánh thành; infiltrate = xâm nhập.",
+        "passage": "<b>KATALIN KARIKÓ: PERSEVERANCE BEHIND THE mRNA REVOLUTION</b>\nKatalin Karikó’s four-decade quest (32)__________ how scientific persistence in the face of repeated grant rejections can transform global medicine. Let’s trace her remarkable story:\n<b>Unwavering Belief in mRNA</b>\n• Karikó’s steadfast belief (33)__________ messenger RNA therapy began in Hungary and continued at the University of Pennsylvania, even when reviewers dismissed the molecule as too unstable.\n• (34)__________ her discovery, alongside Drew Weissman, that modifying nucleosides prevents mRNA from triggering inflammatory immune reactions, the pair received the 2023 Nobel Prize in Physiology or Medicine.\n<b>From Bench to Bedside</b>\n• That key chemical modification enabled bio-engineers to package (35)__________ inside protective lipid nanoparticles.\n• (36)__________ of the billions of COVID-19 vaccine doses deployed worldwide in 2021 relied directly on Karikó and Weissman’s modified-mRNA platform.\n<b>Future Horizons</b>\n• Beyond infectious diseases, clinical trials are now testing mRNA candidates for personalised cancer immunotherapies and rare genetic disorders.\n• Speaking to students, she emphasises the importance of (37)__________ focused on solving the underlying scientific puzzle rather than chasing academic status.\n<i>(Adapted from Nobel Prize Outreach and Nature)</i>"
       },
       {
         "origNum": 33,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
+          "on",
           "for",
           "to",
-          "with",
           "in"
         ],
-        "answer": 1,
-        "explanation": "commitment to + N (sự kiên định theo đuổi liệu pháp mRNA)."
+        "answer": 3,
+        "explanation": "belief in + N = niềm tin vào. on/for/to không đi với “belief” theo nghĩa này."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "On behalf of",
-          "In recognition of",
-          "In defiance of",
-          "By way of"
+          "Owed to",
+          "Owning to",
+          "Owing to",
+          "Own to"
         ],
-        "answer": 1,
-        "explanation": "In recognition of = Để ghi nhận khám phá của bà cùng Drew Weissman."
+        "answer": 2,
+        "explanation": "owing to + N = bởi vì, do. Owed to / Owning to / Own to sai cấu trúc."
       },
       {
         "origNum": 35,
@@ -9126,13 +9126,13 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "A great deal",
-          "A large number",
-          "Much",
-          "An amount"
+          "Almost",
+          "Mostly all",
+          "Almost all",
+          "All almost"
         ],
-        "answer": 1,
-        "explanation": "A large number of + N số nhiều (the billions of... doses)."
+        "answer": 2,
+        "explanation": "almost all of the + N = gần như tất cả. “Almost” không đứng ngay trước “of”; mostly all / all almost sai trật tự và không tự nhiên."
       },
       {
         "origNum": 37,
@@ -9218,14 +9218,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "hanging",
-          "hovering",
-          "poring",
-          "wading"
+          "plunging",
+          "ploughing",
+          "plumbing",
+          "plucking"
         ],
-        "answer": 2,
-        "explanation": "pore over + flood-damage records (nghiền ngẫm hồ sơ thiệt hại lũ lụt).",
-        "passage": "<b>THE LEVY PROTECTION EFFECT ON FLOODPLAINS</b>\nAfter decades (43)__________ over historical flood-damage records along the Mississippi and Po rivers, the geographer Gilbert White formulated a famous warning in 1945: building higher concrete levees along a river does not eliminate flood losses, and over the long run can actually (44)__________ the scale of catastrophe when an extreme storm finally overtops the wall. Earthen and concrete dikes stop routine annual spring overflows; yet, instead of declining, average decade-by-decade property losses along many walled rivers (45)__________ during the twentieth century.\nThe mechanism is a collective blind spot. Once a towering levee hides the river from view, municipal zoning boards reclassify the floodplain as ‘safe’. Whenever flood walls (46)__________ the frequency of minor nuisance flooding, developers pour billions into building shopping malls, hospitals and housing estates right behind the embankment—a dynamic hydrologists call the (47)__________ effect.\n(48)__________ modern levees are engineered to higher standards than those of the 1940s, climate change is generating rainfall extremes that exceed historical design thresholds. Satellite mapping of major river deltas reveals a striking (49)__________ between levee construction and rapid urban sprawl on low-lying land. Meanwhile, because concrete channels prevent rivers from spreading out across natural upstream marshes, the natural flood-storage capacity of many basins has (50)__________ to a fraction of its nineteenth-century level.\nNone of this implies that cities should dynamite their flood walls. Forward-looking water boards in the Netherlands—under their ‘Room for the River’ programme—therefore (51)__________ urban dikes with setback floodplains and agricultural bypass meadows that safely absorb peak surges. Flood defences, in short, (52)__________: they protect existing towns from moderate highs, but if treated as invincible they can turn a rare storm into a historic disaster.\n<i>(Adapted from G. F. White, Human Adjustment to Floods (1945), and Nature Climate Change)</i>"
+        "answer": 1,
+        "explanation": "plough through = miệt mài xử lý (khối lượng lớn tài liệu). plunge = lao xuống; plumb = dò đo (độ sâu); pluck = nhổ, bứt.",
+        "passage": "<b>THE LEVY PROTECTION EFFECT ON FLOODPLAINS</b>\nAfter decades (43)__________ through historical flood-damage records along the Mississippi and Po rivers, the geographer Gilbert White formulated a famous warning in 1945: building higher concrete levees along a river does not eliminate flood losses, and over the long run can actually (44)__________ the scale of catastrophe when an extreme storm finally overtops the wall. Earthen and concrete dikes stop routine annual spring overflows; yet, instead of declining, average decade-by-decade property losses along many walled rivers (45)__________ during the twentieth century.\nThe mechanism is a collective blind spot. Once a towering levee hides the river from view, municipal zoning boards reclassify the floodplain as ‘safe’. Whenever flood walls (46)__________ the frequency of minor nuisance flooding, developers pour billions into building shopping malls, hospitals and housing estates right behind the embankment—a dynamic hydrologists call the (47)__________ effect.\n(48)__________ modern levees are engineered to higher standards than those of the 1940s, climate change is generating rainfall extremes that exceed historical design thresholds. Satellite mapping of major river deltas reveals a striking (49)__________ between levee construction and rapid urban sprawl on low-lying land. Meanwhile, because concrete channels prevent rivers from spreading out across natural upstream marshes, the natural flood-storage capacity of many basins has (50)__________ to a fraction of its nineteenth-century level.\nNone of this implies that cities should dynamite their flood walls. Forward-looking water boards in the Netherlands—under their ‘Room for the River’ programme—therefore (51)__________ urban dikes with setback floodplains and agricultural bypass meadows that safely absorb peak surges. Flood defences, in short, lull us into a false sense of (52)__________: they protect existing towns from moderate highs, but if treated as invincible they can turn a rare storm into a historic disaster.\n<i>(Adapted from G. F. White, Human Adjustment to Floods (1945), and Nature Climate Change)</i>"
       },
       {
         "origNum": 44,
@@ -9245,26 +9245,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "levelled off",
-          "tailed off",
-          "shot up",
-          "wore off"
+          "crept up",
+          "died away",
+          "fell through",
+          "wound down"
         ],
-        "answer": 2,
-        "explanation": "shot up = tăng vọt (đối lập với “instead of declining”)."
+        "answer": 0,
+        "explanation": "creep up = tăng dần dần. die away = lịm dần; fall through = thất bại; wind down = giảm dần."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "take down",
-          "turn down",
-          "bring down",
-          "put down"
+          "curve",
+          "curl",
+          "curse",
+          "curb"
         ],
-        "answer": 2,
-        "explanation": "bring down the frequency (làm giảm tần suất lũ nhỏ)."
+        "answer": 3,
+        "explanation": "curb = kiềm chế, hạn chế (chủ ngữ “flood walls” số nhiều → curb). curve = uốn cong; curl = làm xoăn; curse = nguyền rủa."
       },
       {
         "origNum": 47,
@@ -9284,65 +9284,65 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "So long as",
-          "Inasmuch as",
-          "Much as",
-          "Now that"
+          "Many though",
+          "Very though",
+          "Most though",
+          "Much though"
         ],
-        "answer": 2,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 3,
+        "explanation": "Much though + mệnh đề = dù … nhiều đến đâu (nhượng bộ, tương tự “much as”). Many/Very/Most though không dùng."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "juncture",
-          "discrepancy",
-          "correlation",
-          "proximity"
+          "overhaul",
+          "overlap",
+          "overdraft",
+          "overview"
         ],
-        "answer": 2,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 1,
+        "explanation": "overlap between A and B = sự chồng lấn, trùng khớp giữa A và B. overhaul = đại tu; overdraft = thấu chi; overview = cái nhìn tổng quan."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "escalated",
-          "soared",
-          "plummeted",
-          "ballooned"
+          "contacted",
+          "contrasted",
+          "contracted",
+          "contrived"
         ],
         "answer": 2,
-        "explanation": "plummeted to a fraction of... (sụt giảm mạnh xuống chỉ còn một phần nhỏ)."
+        "explanation": "contract = co lại, thu hẹp. contact = liên lạc; contrast = đối chiếu; contrive = bày ra, xoay xở."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "supplant",
-          "compliment",
-          "complement",
-          "contaminate"
+          "butcher",
+          "bruise",
+          "burnish",
+          "buttress"
         ],
-        "answer": 2,
-        "explanation": "complement A with B (bổ trợ đê đô thị bằng vùng thoát lũ tự nhiên)."
+        "answer": 3,
+        "explanation": "buttress A with B = củng cố, chống đỡ A bằng B. butcher = giết mổ, làm hỏng; bruise = làm bầm tím; burnish = đánh bóng."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "ring a bell",
-          "hold water",
-          "cut both ways",
-          "go without saying"
+          "surety",
+          "sanity",
+          "security",
+          "solidity"
         ],
         "answer": 2,
-        "explanation": "cut both ways = có hai mặt."
+        "explanation": "a false sense of security = cảm giác an toàn giả tạo (thành ngữ). surety = vật bảo đảm; sanity = sự tỉnh táo; solidity = sự vững chắc."
       }
     ],
     "10": [
@@ -9481,53 +9481,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "ramifications",
-          "denominations",
-          "connotations",
-          "oscillations"
+          "pitfalls",
+          "windfalls",
+          "landfalls",
+          "waterfalls"
         ],
         "answer": 0,
-        "explanation": "economic ramifications = những hệ lụy về kinh tế.",
-        "passage": "<b>VANISHING POLLINATORS: THE AGRICULTURAL STAKES</b>\nThe steep decline in wild bee and hoverfly populations has forced agronomists to confront the economic (26)__________ of simplifying farm landscapes. According to the Food and Agriculture Organization, three-quarters of the world’s leading food crops—including apples, coffee, almonds and cocoa—depend at least in part on animal pollination. Entomologists warn that losing wild pollinators could (27)__________ havoc on global nutrition, since pollinator-dependent crops supply the majority of dietary vitamins A and C.\nThe decline is driven by a combination of habitat fragmentation, monoculture cropping and systemic pesticides that impair insect navigation. (28)__________, shifting spring temperatures are causing orchards to blossom days before native solitary bees emerge from hibernation, creating an ecological mismatch. In intensive fruit-growing valleys, a single week of mistimed bloom can (29)__________ rise to a forty-percent drop in harvestable fruit.\nOnly in the past few years (30)__________ to reward farmers for planting uncut wildflower strips and hedgerow corridors right through the middle of arable fields. Unless agro-ecological practices scale up rapidly, rising fruit prices in supermarkets may prove to be just the (31)__________ of the iceberg.\n<i>(Adapted from FAO & IPBES Assessment Report on Pollinators, Pollination and Food Production)</i>"
+        "explanation": "economic pitfalls = những cạm bẫy/rủi ro về kinh tế. windfalls = món lợi bất ngờ; landfalls = lúc đổ bộ; waterfalls = thác nước.",
+        "passage": "<b>VANISHING POLLINATORS: THE AGRICULTURAL STAKES</b>\nThe steep decline in wild bee and hoverfly populations has forced agronomists to confront the economic (26)__________ of simplifying farm landscapes. According to the Food and Agriculture Organization, three-quarters of the world’s leading food crops—including apples, coffee, almonds and cocoa—depend at least in part on animal pollination. Entomologists warn that losing wild pollinators could (27)__________ a severe blow to global nutrition, since pollinator-dependent crops supply the majority of dietary vitamins A and C.\nThe decline is driven by a combination of habitat fragmentation, monoculture cropping and systemic pesticides that impair insect navigation. (28)__________, shifting spring temperatures are causing orchards to blossom days before native solitary bees emerge from hibernation, creating an ecological mismatch. In intensive fruit-growing valleys, a single week of mistimed bloom can (29)__________ into a forty-percent drop in harvestable fruit.\nOnly in the past few years (30)__________ to reward farmers for planting uncut wildflower strips and hedgerow corridors right through the middle of arable fields. Unless agro-ecological practices scale up rapidly, rising fruit prices in supermarkets may prove to be just the first (31)__________ in a long chain of shortages.\n<i>(Adapted from FAO & IPBES Assessment Report on Pollinators, Pollination and Food Production)</i>"
       },
       {
         "origNum": 27,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "wreak",
-          "wring",
-          "wrest",
-          "wreathe"
+          "lend",
+          "deal",
+          "spare",
+          "hold"
         ],
-        "answer": 0,
-        "explanation": "wreak havoc on = gây tàn phá nặng nề."
+        "answer": 1,
+        "explanation": "deal a blow to = giáng một đòn vào (cụm cố định). lend = cho mượn; spare = dành ra; hold = giữ."
       },
       {
         "origNum": 28,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "What is more",
+          "On top of that",
           "Conversely",
           "Otherwise",
-          "By contrast"
+          "In contrast"
         ],
         "answer": 0,
-        "explanation": "What is more = Hơn thế nữa."
+        "explanation": "On top of that = hơn thế nữa, thêm vào đó. Conversely/In contrast = ngược lại; Otherwise = nếu không thì."
       },
       {
         "origNum": 29,
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "give",
-          "put",
-          "bring",
-          "lend"
+          "translate",
+          "transcribe",
+          "transpire",
+          "transmit"
         ],
         "answer": 0,
-        "explanation": "give rise to = gây ra, dẫn đến."
+        "explanation": "translate into = chuyển thành, dẫn đến (kết quả cụ thể). transcribe = sao chép; transpire = xảy ra, lộ ra; transmit = truyền đi."
       },
       {
         "origNum": 30,
@@ -9547,53 +9547,53 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following extract from a magazine article and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 26 to 31.",
         "text": "",
         "options": [
-          "tip",
-          "peak",
-          "crest",
-          "summit"
+          "link",
+          "loop",
+          "knot",
+          "ring"
         ],
         "answer": 0,
-        "explanation": "the tip of the iceberg = phần nổi của tảng băng chìm."
+        "explanation": "the first link in a long chain = mắt xích đầu tiên trong một chuỗi dài."
       },
       {
         "origNum": 32,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "emboldens",
-          "embellishes",
-          "embodies",
-          "embeds"
+          "chambers",
+          "champions",
+          "chatters",
+          "chafes"
         ],
-        "answer": 2,
-        "explanation": "embodies = là hiện thân cho triết lý kiến trúc bền vững.",
-        "passage": "<b>HASSAN FATHY: ARCHITECT FOR THE POOR</b>\nThe Egyptian architect Hassan Fathy’s career (32)__________ the philosophy that sustainable architecture should draw on local earth, climate wisdom and community craftsmanship. Let’s explore his influential work:\n<b>Reviving Vernacular Building</b>\n• Fathy’s deep devotion (33)__________ rural housing reform began in the 1940s, when timber and steel shortages prompted him to study ancient Nubian mud-brick vaulting.\n• (34)__________ his lifelong contribution to affordable, climate-responsive architecture, he was awarded the inaugural Right Livelihood Award and the Aga Khan Chairman’s Award in 1980.\n<b>Passive Cooling Innovation</b>\n• In designing the village of New Gourna near Luxor, he combined (35)__________ with shaded courtyards and wind-catching towers to drop indoor temperatures without air conditioning.\n• (36)__________ of the contemporary ‘rammed-earth’ and bioclimatic architects working in arid regions today cite Fathy’s 1969 book <i>Architecture for the Poor</i> as their foundational text.\n<b>Human-Centred Design</b>\n• Fathy demonstrated that training villagers to mould sun-dried adobe bricks reduced building costs to a fraction of imported concrete.\n• He believed whole-heartedly in (37)__________ residents to shape their own homes rather than imposing uniform industrial blocks.\n<i>(Adapted from Aga Khan Award for Architecture and Architectural Review)</i>"
+        "answer": 1,
+        "explanation": "champion = ủng hộ, bênh vực (một quan điểm/triết lý). chambers, chatters, chafes không có nghĩa phù hợp với tân ngữ “the philosophy”.",
+        "passage": "<b>HASSAN FATHY: ARCHITECT FOR THE POOR</b>\nThe Egyptian architect Hassan Fathy’s career (32)__________ the philosophy that sustainable architecture should draw on local earth, climate wisdom and community craftsmanship. Let’s explore his influential work:\n<b>Reviving Vernacular Building</b>\n• Fathy’s deep aversion (33)__________ imported building materials began in the 1940s, when timber and steel shortages prompted him to study ancient Nubian mud-brick vaulting.\n• (34)__________ his lifelong contribution to affordable, climate-responsive architecture, he was awarded the inaugural Right Livelihood Award and the Aga Khan Chairman’s Award in 1980.\n<b>Passive Cooling Innovation</b>\n• In designing the village of New Gourna near Luxor, he combined (35)__________ with shaded courtyards and wind-catching towers to drop indoor temperatures without air conditioning.\n• (36)__________ of the contemporary ‘rammed-earth’ and bioclimatic architects working in arid regions today cite Fathy’s 1969 book <i>Architecture for the Poor</i> as their foundational text.\n<b>Human-Centred Design</b>\n• Fathy demonstrated that training villagers to mould sun-dried adobe bricks reduced building costs to a fraction of imported concrete.\n• He believed whole-heartedly in (37)__________ residents to shape their own homes rather than imposing uniform industrial blocks.\n<i>(Adapted from Aga Khan Award for Architecture and Architectural Review)</i>"
       },
       {
         "origNum": 33,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "with",
-          "for",
+          "at",
+          "on",
           "to",
-          "in"
+          "over"
         ],
         "answer": 2,
-        "explanation": "devotion to + N (sự tận tụy sâu sắc đối với cải cách nhà ở nông thôn)."
+        "explanation": "aversion to + N = sự ác cảm với. at/on/over không đi với “aversion”."
       },
       {
         "origNum": 34,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "In spite of",
-          "On behalf of",
-          "In recognition of",
-          "By means of"
+          "In pursuit of",
+          "In appreciation of",
+          "In defiance of",
+          "In place of"
         ],
-        "answer": 2,
-        "explanation": "In recognition of = Để ghi nhận đóng góp trọn đời của ông."
+        "answer": 1,
+        "explanation": "in appreciation of = để ghi nhận, tri ân. in pursuit of = theo đuổi; in defiance of = bất chấp; in place of = thay cho."
       },
       {
         "origNum": 35,
@@ -9613,26 +9613,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "Much",
+          "A great many",
           "A great deal",
-          "A large number",
-          "An amount"
+          "A great amount",
+          "A great much"
         ],
-        "answer": 2,
-        "explanation": "A large number of + N số nhiều (the contemporary... architects)."
+        "answer": 0,
+        "explanation": "a great many of + N số nhiều = rất nhiều. a great deal/a great amount dùng với danh từ không đếm được; “a great much” sai."
       },
       {
         "origNum": 37,
         "instruction": "Read the following leaflet and mark the letter A, B, C or D on your answer sheet to indicate the option that fits best each of the numbered blanks from 32 to 37.",
         "text": "",
         "options": [
-          "to empower",
-          "empower",
-          "empowering",
-          "empowered"
+          "enable",
+          "to enable",
+          "enabled",
+          "enabling"
         ],
-        "answer": 2,
-        "explanation": "believe in + V-ing (empowering residents to shape...)."
+        "answer": 3,
+        "explanation": "believe in + V-ing = tin vào việc … → “believed whole-heartedly in enabling residents to shape their own homes”."
       },
       {
         "origNum": 38,
@@ -9705,14 +9705,14 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "wading",
-          "hovering",
-          "hanging",
-          "poring"
+          "mulling",
+          "mauling",
+          "mooring",
+          "mustering"
         ],
-        "answer": 3,
-        "explanation": "pore over + data/treaties (nghiền ngẫm dữ liệu thị trường dầu mỏ).",
-        "passage": "<b>THE GREEN PARADOX IN RESOURCE ECONOMICS</b>\nAfter years (43)__________ over global oil-market data and climate treaties, the German economist Hans-Werner Sinn published a provocative 2008 book titled <i>The Green Paradox</i>. He argued that announcing gradual future subsidies for clean energy—or pre-announcing carbon taxes that will take effect ten years from now—does not automatically slow fossil-fuel extraction today, and can perversely (44)__________ it. When resource owners expect future demand for oil and coal to shrink, their incentive is to pump faster now; consequently, near-term extraction rates can (45)__________ before the green transition even begins.\nThe logic rests on the economics of exhaustible resources. A barrel of oil left in the ground is worth keeping only if its future price rises faster than interest rates. Whenever a government policy (46)__________ the expected future value of unextracted reserves without capping current supply, resource owners race to liquidate their underground assets while they still can—a market reaction economists call the green (47)__________.\n(48)__________ clean-energy innovation is essential, timing and supply-side rules matter immensely. Historical energy-market studies show a clear (49)__________ between pre-announced future environmental levies and short-term spikes in resource extraction prior to the implementation date. Once global solar-panel manufacturing costs had (50)__________ by eighty percent in the 2010s, several high-cost coal basins still expanded short-term output to capture remaining industrial contracts.\nNone of this means climate policy is futile. Thoughtful economists therefore (51)__________ renewable-energy subsidies with immediate emissions caps and supply-side leasing moratoria that keep fossil carbon in the ground. Climate policy design, in short, (52)__________: a well-timed cap hastens decarbonisation, whereas a delayed, telegraphed tax can trigger a last-minute rush to burn.\n<i>(Adapted from H.-W. Sinn, The Green Paradox (MIT Press, 2012), and Review of Environmental Economics and Policy)</i>"
+        "answer": 0,
+        "explanation": "mull over = cân nhắc, suy ngẫm kỹ. maul = tấn công, xé xác; moor = neo (tàu); muster = tập hợp.",
+        "passage": "<b>THE GREEN PARADOX IN RESOURCE ECONOMICS</b>\nAfter years (43)__________ over global oil-market data and climate treaties, the German economist Hans-Werner Sinn published a provocative 2008 book titled <i>The Green Paradox</i>. He argued that announcing gradual future subsidies for clean energy—or pre-announcing carbon taxes that will take effect ten years from now—does not automatically slow fossil-fuel extraction today, and can perversely (44)__________ it. When resource owners expect future demand for oil and coal to shrink, their incentive is to pump faster now; consequently, near-term extraction rates can (45)__________ before the green transition even begins.\nThe logic rests on the economics of exhaustible resources. A barrel of oil left in the ground is worth keeping only if its future price rises faster than interest rates. Whenever a government policy (46)__________ the expected future value of unextracted reserves without capping current supply, resource owners race to liquidate their underground assets while they still can—a market reaction economists call the green (47)__________.\n(48)__________ clean-energy innovation is essential, timing and supply-side rules matter immensely. Historical energy-market studies show a clear (49)__________ between pre-announced future environmental levies and short-term spikes in resource extraction prior to the implementation date. Once global solar-panel manufacturing costs had (50)__________ by eighty percent in the 2010s, several high-cost coal basins still expanded short-term output to capture remaining industrial contracts.\nNone of this means climate policy is futile. Thoughtful economists therefore (51)__________ renewable-energy subsidies with immediate emissions caps and supply-side leasing moratoria that keep fossil carbon in the ground. Climate policy design, in short, walks a (52)__________: a well-timed cap hastens decarbonisation, whereas a delayed, telegraphed tax can trigger a last-minute rush to burn.\n<i>(Adapted from H.-W. Sinn, The Green Paradox (MIT Press, 2012), and Review of Environmental Economics and Policy)</i>"
       },
       {
         "origNum": 44,
@@ -9732,26 +9732,26 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "wear off",
-          "tail off",
-          "level off",
-          "shoot up"
+          "subside",
+          "recede",
+          "escalate",
+          "abate"
         ],
-        "answer": 3,
-        "explanation": "shoot up = tăng vọt (sau modal verb “can”)."
+        "answer": 2,
+        "explanation": "escalate = leo thang, tăng nhanh. subside, recede, abate = giảm dần, dịu đi (ngược nghĩa)."
       },
       {
         "origNum": 46,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "puts down",
-          "turns down",
-          "takes down",
-          "brings down"
+          "erodes",
+          "erupts",
+          "errs",
+          "erects"
         ],
-        "answer": 3,
-        "explanation": "bring down the expected future value (làm giảm giá trị kỳ vọng tương lai)."
+        "answer": 0,
+        "explanation": "erode = làm xói mòn, làm giảm dần (giá trị). erupt = phun trào; err = mắc lỗi; erect = dựng lên."
       },
       {
         "origNum": 47,
@@ -9771,65 +9771,65 @@ window.examDatabase['lexico'] = {
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "Insofar as",
-          "Seeing that",
-          "Provided that",
-          "Much as"
+          "Notwithstanding of",
+          "Notwithstanding on",
+          "Notwithstanding the fact that",
+          "Not withstanding to"
         ],
-        "answer": 3,
-        "explanation": "Much as + S + V = Mặc dù (nhượng bộ)."
+        "answer": 2,
+        "explanation": "notwithstanding the fact that + mệnh đề = mặc dù. notwithstanding không đi với of/on; “Not withstanding to” sai."
       },
       {
         "origNum": 49,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "departure",
-          "discrepancy",
-          "collision",
-          "correlation"
+          "nexus",
+          "nuance",
+          "novice",
+          "notion"
         ],
-        "answer": 3,
-        "explanation": "correlation between A and B (mối tương quan)."
+        "answer": 0,
+        "explanation": "nexus between A and B = mối liên kết chặt chẽ giữa A và B. nuance = sắc thái; novice = người mới; notion = quan niệm."
       },
       {
         "origNum": 50,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "ballooned",
-          "soared",
-          "escalated",
-          "plummeted"
+          "collected",
+          "collapsed",
+          "collided",
+          "colluded"
         ],
-        "answer": 3,
-        "explanation": "plummeted by eighty percent (giảm mạnh tới 80%)."
+        "answer": 1,
+        "explanation": "collapse = sụp đổ, giảm mạnh. collect = thu thập; collide = va chạm; collude = thông đồng."
       },
       {
         "origNum": 51,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "contaminate",
-          "compliment",
-          "supplant",
-          "complement"
+          "back out",
+          "back off",
+          "back up",
+          "back down"
         ],
-        "answer": 3,
-        "explanation": "complement A with B (bổ trợ trợ cấp năng lượng tái tạo bằng trần phát thải tức thì)."
+        "answer": 2,
+        "explanation": "back up A with B = hậu thuẫn, củng cố A bằng B. back out = rút lui; back off = lùi lại; back down = nhượng bộ."
       },
       {
         "origNum": 52,
         "instruction": "Read the following passage and mark the letter A, B, C, D on your answer sheet to indicate the correct word or phrase that fits best each of the numbered blanks from 43 to 52.",
         "text": "",
         "options": [
-          "toes the line",
-          "misses the boat",
-          "hits the sack",
-          "cuts both ways"
+          "highway",
+          "corridor",
+          "pavement",
+          "tightrope"
         ],
         "answer": 3,
-        "explanation": "cuts both ways = có hai mặt."
+        "explanation": "walk a tightrope = đi trên dây, giữ thế cân bằng mong manh và nhiều rủi ro (thành ngữ)."
       }
     ]
   }
